@@ -10,4 +10,9 @@ Inorder to build this, I modified the **package.json** file, `scripts` subsectio
 
 
 
-
+steps
+- clone repo
+- `npm install`
+- `npm start` deploys in localhost:8000
+- `npm run build` builds html to \public 
+-  deploy: `aws s3 cp --recursive ~/learn/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
