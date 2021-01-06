@@ -1,0 +1,22 @@
+---
+title: "About"
+metaTitle: "About"
+metaDescription: "About"
+---
+
+<div class="right-page">
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" height="157" width="130"/>
+</div>
+
+Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity from enterprise to consumer; automotive to security; and from biotech to finance.
+
+Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspection to maximize yields of computing chips. Prasanna is an engineer, architect, and a leader the kind that brings out the best in people and technology to create opportunities of a lifetime.
+
+- [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (7/2020)
+- [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (9/2020)
+- [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) (8/2019)
+- [Computational Wafer Image Processing](https://patents.google.com/patent/US10184901B2") (1/2019)
+- [Distributed Wafer Information Processing](https://patents.google.com/patent/US10082533B2) (9/2018)
+- [Multiple Camera Computational Wafer Inspection](https://patents.google.com/patent/US10027928B2)  (7/2018)
+- [3D Single Molecule Nanoscopy](https://patents.google.com/patent/US9881355B2)  (1/2018)
+- [Computational Wafer Inspection Filter](https://patents.google.com/patent/US9696265B2)  (7/2017)
