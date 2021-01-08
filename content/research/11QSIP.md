@@ -1,6 +1,6 @@
 ---
 title: "QSIP"
-metaTitle: "QSIP"
+metaTitle: "Prasanna Pavani"
 metaDescription: "QSIP"
 ---
 

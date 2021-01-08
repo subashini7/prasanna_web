@@ -1,6 +1,6 @@
 ---
 title: "Conferences"
-metaTitle: "Conferences"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Conferences"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Publications"
-metaTitle: "Publications"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Publications"
 ---
 
 
-**Journals [1900 Citations](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)**
+**Journals [(1900 Citations)](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)**
 
 [Optimal 3D single-molecule localization for superresolution microscopy with aberrations and engineered point spread functions](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun<br/>

@@ -242,11 +242,10 @@ export const baseStyles = css`
   }
   .headerTitle {
     height: auto;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 1.5;
-    font-weight: 500;
+    font-weight: 100;
     color: #fff !important;
-    text-transform: uppercase;
   }
   .headerTitle a {
     color: #fff;
@@ -275,7 +274,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #000000;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -686,7 +685,7 @@ export const baseStyles = css`
     display: block;
     float: right;
     position: relative;
-    margin: 10px;
+    margin: 5px 10px 10px 30px;
   }
 
   .heading1 {
