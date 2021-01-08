@@ -1,7 +1,7 @@
 ---
-title: "P-DH-PALM"
+title: "Polarized 3D Super-resolution"
 metaTitle: "Prasanna Pavani"
-metaDescription: "P-DH-PALM"
+metaDescription: "Polarized 3D Super-resolution"
 ---
 
 ### Polarization sensitive 3D superresolution imaging

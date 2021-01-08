@@ -1,7 +1,7 @@
 ---
-title: "QSIP"
+title: "Structured Illumination"
 metaTitle: "Prasanna Pavani"
-metaDescription: "QSIP"
+metaDescription: "Structured Illumination"
 ---
 
 ### Quantitative structured-illumination phase microscopy (QSIP)

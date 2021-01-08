@@ -1,7 +1,7 @@
 ---
-title: "HEW"
+title: "Extended Depth Optofluidics"
 metaTitle: "Prasanna Pavani"
-metaDescription: "HEW"
+metaDescription: "Extended Depth Optofluidics"
 ---
 
 ### High-resolution Extended-depth Wide-field (HEW) imaging

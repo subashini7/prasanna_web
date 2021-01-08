@@ -1,7 +1,7 @@
 ---
-title: "LDL"
+title: "Liquid Drop Lenses"
 metaTitle: "Prasanna Pavani"
-metaDescription: "LDL"
+metaDescription: "Liquid Drop Lenses"
 ---
 
 ### Liquid Drop Lenses for Miniature Sensors

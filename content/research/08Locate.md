@@ -1,7 +1,7 @@
 ---
-title: "Locate"
+title: "3D Localization"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Locate"
+metaDescription: "3D Localization"
 ---
 
 ### 3D position localization in detector-limited systems
@@ -21,4 +21,4 @@ single-image sub-nanometer accuracies.
     <img src="https://prashub.com/prasanna/images/detector_limited_dhpsf.jpg" width="504px" height="203px" />
 </div>
 
-[See [Bright-field DH-PSF Movie](http://ftp.aip.org/epaps/appl_phys_lett/E-APPLAB-95-078925/078925apl1_mm.mov)]
+[See [Bright-field Double Helix PSF Movie](http://ftp.aip.org/epaps/appl_phys_lett/E-APPLAB-95-078925/078925apl1_mm.mov)]

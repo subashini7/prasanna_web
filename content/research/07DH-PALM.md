@@ -1,7 +1,7 @@
 ---
-title: "DH-PALM"
+title: "3D Super-resolution"
 metaTitle: "Prasanna Pavani"
-metaDescription: "DH-PALM"
+metaDescription: "3D Super-resolution"
 ---
 
 ### 3D single-molecule superresolution imaging (DH-PALM)
