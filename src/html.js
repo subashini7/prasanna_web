@@ -22,6 +22,20 @@ export default class HTML extends React.Component {
           ) : null}
           <noscript key="noscript"></noscript>
           {this.props.headComponents}
+
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47409317-1"></script>
+          <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          
+            gtag('config', 'UA-47409317-1');
+            `,
+          }}
+           />
+
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}

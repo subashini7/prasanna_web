@@ -59,7 +59,7 @@ const config = {
   siteMetadata: {
     title: 'Prasanna Pavani',
     description: 'Prasanna Pavani',
-    ogImage: null,
+    ogImage: 'https://prashub.com/prasanna/images/DrPrasannaPavani.jpg',
     docsLocation: '',
     favicon: 'https://prashub.com/prasanna/images/favicon.ico',
   },
