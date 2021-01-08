@@ -21,6 +21,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   const active =
     location && (location.pathname === url || location.pathname === config.gatsby.pathPrefix + url);
 
+  if (className == '' && hasChildren) 
+    className = 'fontsz'
   const calculatedClassName = `${className} item ${active ? 'active' : ''}`;
   // const ncollapsed = (active && hasChildren) ? setCollapsed(url) : null;
   if (active) 

@@ -301,7 +301,9 @@ export const baseStyles = css`
     display: flex;
     align-items: center;
   }
-
+  .fontsz {
+    font-size:15px;
+  }
   .navBarBrand img {
     width: 120px;
     margin-right: 6px;
@@ -445,7 +447,6 @@ export const baseStyles = css`
 
   .sideBarUL li a {
     /* color: #fff; */
-    font-size: 18px;
     font-weight: 100;
     line-height: 1.5;
     padding: 7px 24px 7px 16px;
@@ -454,6 +455,10 @@ export const baseStyles = css`
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
     border-color: transparent currentcolor transparent transparent;
+  }
+
+  .hideFrontLine {
+    font-size: 30px !important;
   }
 
   .hideFrontLine .collapser {
@@ -472,6 +477,7 @@ export const baseStyles = css`
   }
   .firstLevel ul li .collapser svg path {
     fill: #fff !important;
+
   }
   .active .collapser > svg > path {
     fill: #001933 !important;
@@ -496,6 +502,10 @@ export const baseStyles = css`
     padding-right: 35px;
     padding-left: 15px;
   }
+
+ .showFrontLine a {
+  font-size: 15px !important;
+ }
 
   .showFrontLine .item > a:hover {
     background-color: #001933;
