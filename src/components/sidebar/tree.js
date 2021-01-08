@@ -122,8 +122,19 @@ const Tree = ({ edges }) => {
 
   const defaultCollapsed = {};
 
+  let location;
+
+  if (typeof document != 'undefined') {
+    location = document.location;
+  }
+  
+
   treeData.items.forEach(item => {
-    if (config.sidebar.collapsedNav && config.sidebar.collapsedNav.includes(item.url)) {
+    const active =
+    location && (location.pathname === item.url || location.pathname === config.gatsby.pathPrefix + item.url);
+
+    //SS active is added here to open up all the sub-tabs if the url has sub-section
+    if (config.sidebar.collapsedNav && config.sidebar.collapsedNav.includes(item.url)) { //
       defaultCollapsed[item.url] = true;
     } else {
       defaultCollapsed[item.url] = false;
