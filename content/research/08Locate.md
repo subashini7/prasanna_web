@@ -14,7 +14,7 @@ a double-helix, resulting in a system with fundamentally better 3D
 localization-accuracies than standard-PSF systems, capable of achieving
 single-image sub-nanometer accuracies.
 [See [Appl. Phys. Lett. 95 (2009)](http://link.aip.org/link/?APPLAB/95/021103/1) 
-[Proc. SPIE&nbsp;7184 (2009)](http://spiedigitallibrary.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PSISDG00718400000171840I000001&idtype=cvips&gifs=Yes&bproc=year&scode=2009)]
+[Proc. SPIE&nbsp;7184 (2009)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7184/71840I/3D-microscopy-with-a-double-helix-point-spread-function/10.1117/12.816585.short)]
 
 
 <div class="center">

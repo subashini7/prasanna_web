@@ -75,7 +75,7 @@ Michael A. Thompson&#10013;, Julie S. Biteen, and W. E. Moerner (Stanford Univ.)
 Carol J. Cogswell, Sharon V. King, Sri Rama Prasanna Pavani, Donald B. Conkey,&nbsp;and Robert H. Cormack <br/>
 Focus on Microscopy, Krakow, Poland, April 2009
 
-[3D microscopy with double-helix point spread functions](http://spiedigitallibrary.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PSISDG00718400000171840I000001&idtype=cvips&gifs=Yes&bproc=year&scode=2009) <br/>
+[3D microscopy with double-helix point spread functions](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7184/71840I/3D-microscopy-with-a-double-helix-point-spread-function/10.1117/12.816585.short) <br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
 SPIE Photonics West (BIOS), San Jose, USA, Jan. 2009 **(INVITED)**
 
@@ -96,7 +96,7 @@ OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 **(OUTSTANDING PAPER AW
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
 OSA Digital holography and 3D imaging, St. Petersburg (Florida), USA, Mar. 2008
 
-[QSIP: Phase imaging made possible in a bright field microscope](http://spiedigitallibrary.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PSISDG006861000001686105000001&idtype=cvips&gifs=Yes)<br/>
+[QSIP: Phase imaging made possible in a bright field microscope](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6861/686105/QSIP--phase-imaging-made-possible-in-a-bright-field/10.1117/12.762131.short)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun, Sharon V. King, and Carol J. Cogswell <br/>
 SPIE Photonics West (BIOS), San Jose, USA, Jan. 2008
 
