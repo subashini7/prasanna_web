@@ -20,9 +20,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   }
   const active =
     location && (location.pathname === url || location.pathname === config.gatsby.pathPrefix + url);
-
+  let liclass ='';
   if (className == '' && hasChildren) 
-    className = 'fontsz'
+    liclass = 'fontsz'
   const calculatedClassName = `${className} item ${active ? 'active' : ''}`;
   // const ncollapsed = (active && hasChildren) ? setCollapsed(url) : null;
   if (active) 
@@ -37,7 +37,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
       )}
 
       {((!isCollapsed || active)  && hasChildren) ? (
-        <ul>
+        <ul class={liclass}>
           {items.map((item, index) => (
             <TreeNode
               key={item.url + index.toString()}

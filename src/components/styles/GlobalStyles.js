@@ -458,7 +458,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine {
-    font-size: 30px !important;
+    font-size: 18px !important;
   }
 
   .hideFrontLine .collapser {
