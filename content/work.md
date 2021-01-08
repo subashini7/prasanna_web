@@ -4,8 +4,8 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Work"
 ---
 
-<div class="right-page">
-<img style="width: 366px; height: 169px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations_Team.jpg"/>
+<div class="">
+<img style="width: 600px;margin: 0px 0px 30px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 </div>
 
 **[Exnodes](https://exnodes.com)** <br/>
