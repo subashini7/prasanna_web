@@ -105,11 +105,11 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   alt={'logo'}
                 />
               </Link> */}
-              <h1
+              <a href="https://prashub.com"><h1
                 className={'headerTitle displayInline'}
                 // dangerouslySetInnerHTML={{ __html: headerTitle }}
               >
-              Prasanna Pavani </h1>
+              Prasanna Pavani </h1></a>
             </div>
             {/* {config.header.social ? (
               <ul
