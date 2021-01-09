@@ -4,8 +4,8 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "About"
 ---
 
-<div class="right-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" height="300"/>
+<div class="left-page">
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" height="280"/>
 </div>
 
 Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity from enterprise to consumer; automotive to security; and from biotech to finance.

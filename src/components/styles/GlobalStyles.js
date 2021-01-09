@@ -690,12 +690,12 @@ export const baseStyles = css`
     opacity: 0.7;
   }
 
-  .right-page
+  .left-page
   {
     display: block;
-    float: right;
+    float: left;
     position: relative;
-    margin: 5px 10px 10px 30px;
+    margin: 5px 30px 10px 10px;
   }
 
   .heading1 {

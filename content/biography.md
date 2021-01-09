@@ -5,7 +5,7 @@ metaDescription: "Biography"
 ---
 
 <!-- ![Prasanna](https://prashub.com/prasanna/images/DrPrasannaPavani.jpg){.prasannaImg} -->
-<div class="right-page">
+<div class="left-page">
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" height="300"/>
 </div>
 
