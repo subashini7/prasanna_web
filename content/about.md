@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" height="280"/>
 </div>
 
-Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity from enterprise to consumer; automotive to security; and from biotech to finance.
+Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity&mdash;from enterprise to consumer; automotive to security; and from biotech to finance.
 
 Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspection to maximize yields of computing chips. Prasanna is an engineer, architect, and a leader the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
