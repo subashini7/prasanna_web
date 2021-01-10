@@ -886,19 +886,20 @@ export const baseStyles = css`
       padding-left: 0 !important;
     }
 
-    .videoWrapper {
-      position: relative;
-      padding-bottom: 56.25%; /* 16:9 */
-      padding-top: 25px;
-      height: 0;
+    .video-container { 
+      position: relative; 
+      padding-bottom: 56.25%; 
+      padding-top: 30px; 
+      height: 0; 
+      overflow: hidden; 
     }
-    
-    .videoWrapper iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
+
+    .video-container iframe, .video-container object, .video-container embed { 
+      position: absolute; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
     }
 
     .searchWrapper {
