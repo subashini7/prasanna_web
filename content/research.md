@@ -11,5 +11,7 @@ Awards: *[Outstanding PhD](https://www.youtube.com/embed/ZFuxZd_eRew?start=2)*, 
 _outstanding paper_; [SPIE](https://spie.org/)
 _scholarship_ 
 
-<iframe width="90%" height="425px"  src="https://www.youtube.com/embed/ZFuxZd_eRew?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFuxZd_eRew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   

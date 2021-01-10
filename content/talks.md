@@ -3,8 +3,9 @@ title: "Talks"
 metaTitle: "Prasanna Pavani"
 metaDescription: "Talks"
 ---
-
-<iframe width="100%" height="425px" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yq6X6Yqn5gQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) <br/>
