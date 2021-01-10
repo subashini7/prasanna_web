@@ -42,8 +42,8 @@ const config = {
       '/biography/',
       '/work/',
       '/talks/',
-      '/publications/',
       '/research/',
+      '/publications/',
       // '/tweets',
       '/contact/'
     ],
