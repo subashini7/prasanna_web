@@ -40,7 +40,7 @@ Pasadena, CA <br/>
 **[University of Colorado](http://www.colorado.edu/)** <br/>
 *OmniVision Fellow* <br/>
 Dept. of Electrical, Computer, and Energy Engineering <br/>
-Advisor: [Prof. Rafael Piestun](http://ecee.colorado.edu/~piestun/Home.htm); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
+Advisor: [Prof. Rafael Piestun](https://ecee.colorado.edu/~piestun/Home.htm); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 Boulder, CO <br/>
 (2005 - 2009) <br/>
 
