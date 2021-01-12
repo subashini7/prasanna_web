@@ -638,6 +638,7 @@ export const baseStyles = css`
   /* Image styling */
   img {
     max-width: 100%;
+    border-radius: 10px;
   }
   /* end image */
   .githubBtn {
