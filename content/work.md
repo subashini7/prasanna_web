@@ -17,7 +17,7 @@ Fremont, CA
 Glendale, CA <br/>
 (2013 - 2014)
 
-**[Ricoh Innovations](http://rii.ricoh.com/)** <br/>
+**[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>
 *Advisory Research Engineer* <br/>
 Computational Imaging Group <br/>
 Intelligent Network Systems Group <br/>
