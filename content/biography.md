@@ -18,4 +18,4 @@ Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspect
 Prasanna serves as an Editor of Computational Imaging, Member of Program Committee of COSI conference, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech and holds a PhD in ECE from University of Colorado. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 
 
-Prasanna's 24 patents and 45 publications have earned 1900 citations. Prasanna has been recognized by University of Colorado's Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards, and GCT Coimbatore Gold Medal
+Prasanna's 24 patents and 45 publications have earned 1900 citations. Prasanna has been recognized by University of Colorado's Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards, and GCT Coimbatore Gold Medal.
