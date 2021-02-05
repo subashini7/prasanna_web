@@ -13,7 +13,7 @@ Computing systems are evolving into a new species that can perceive, predict, re
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspection<sup>&reg;</sup> to maximize yields of computing chips. Prasanna served as VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA-Tencor (leader in process control), and D. E. Shaw & Co (leader in computational finance). 
+Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspection<sup>&reg;</sup> to maximize yields of computing chips. Prasanna served as VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance). 
 
 Prasanna serves as an Editor of Computational Imaging, Member of Program Committee of COSI conference, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech and holds a PhD in ECE from University of Colorado. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 
