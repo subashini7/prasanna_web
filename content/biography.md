@@ -13,9 +13,8 @@ Computing systems are evolving into a new species that can perceive, predict, re
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-Prasanna is the CEO of Exnodes, where he pioneers Computational Parallel Inspection<sup>&reg;</sup> to maximize yields of computing chips. Prasanna served as VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance). 
+Prasanna is the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring. Prasanna previously was the Head of Product Infrastructure & Engineering at Osmo (leader in making learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (leader in geospatial analytics), VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance).
 
-Prasanna serves as an Editor of Computational Imaging, Member of Program Committee of COSI conference, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech and holds a PhD in ECE from University of Colorado. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
-
+Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal, Member of Program Committee of COSI, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech and holds a PhD in ECE from University of Colorado. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 
 Prasanna's 24 patents and 45 publications have earned 1900 citations. Prasanna has been recognized by University of Colorado's Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards, and GCT Coimbatore Gold Medal.

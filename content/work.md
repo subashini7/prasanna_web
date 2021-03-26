@@ -9,16 +9,26 @@ metaDescription: "Work"
 </div>
 
 **[Exnodes](https://exnodes.com)** <br/>
-*CEO* <br/>
+*Chair « CEO « Founder* <br/>
 Fremont, CA
 
+**[Osmo](https://www.playosmo.com/en/)**  <br/>
+*Head of Product Infrastructure « Head of Engineering* <br/>
+Palo Alto, CA <br/>
+(2020 - 2021)
+
+**[Orbital Insight](https://orbitalinsight.com/)**  <br/>
+*Head of Content Infrastructure « Head of Monitoring* <br/>
+Glendale, CA <br/>
+(2019 - 2020)
+
 **[Arecont Vision](http://www.arecontvision.com/)**  <br/>
-*Vice President of Engineering* <br/>
+*VP Engineering « Director of Engineering « Principal Architect* <br/>
 Glendale, CA <br/>
 (2013 - 2014)
 
 **[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>
-*Advisory Research Engineer* <br/>
+*Advisory Research Engineer « Research Engineer* <br/>
 Computational Imaging Group <br/>
 Intelligent Network Systems Group <br/>
 Menlo Park, CA <br/>
@@ -63,7 +73,7 @@ Advisor: [Prof.Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/ele
 (2005)
 
 **[D. E. Shaw & Co.](http://www.deshaw.com/)** <br/>
-*Senior Software Engineer* <br/>
+*Senior Software Engineer « Software Engineer* <br/>
 Market Maker & Trade Monitor <br/>
 (2003 - 2005) <br/>
 
@@ -71,3 +81,8 @@ Market Maker & Trade Monitor <br/>
 *Engineer* <br/>
 Neural Network for Handwriting Recognition <br/>
 (1999 - 2003) <br/>
+
+**[TVS Electronics](https://www.tvs-e.in/)** <br/>
+*Engineering Trainee* <br/>
+Point of Sale & Printer Design, Development & Manufacturing <br/>
+(2001) <br/>
