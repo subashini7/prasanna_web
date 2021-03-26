@@ -15,5 +15,5 @@ steps
 - `npm install`
 - `npm start` deploys in localhost:8000
 - `npm run build` builds html to \public 
--  deploy: `aws s3 cp --recursive ~/learn/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
+-  deploy: `aws s3 cp --recursive ~/pdata/code/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
 - build & deploy: `npm run build && aws s3 sync ~/pdata/code/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`

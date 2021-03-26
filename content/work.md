@@ -69,7 +69,7 @@ Boulder, CO <br/>
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/>
 *Research Scholar* <br/>
 [Vision and Image Processing Lab](http://www.ece.nus.edu.sg/research/labs/view/new.asp?lab=134)<br/>
-Advisor: [Prof.Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
+Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
 (2005)
 
 **[D. E. Shaw & Co.](http://www.deshaw.com/)** <br/>
