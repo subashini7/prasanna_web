@@ -19,7 +19,7 @@ Palo Alto, CA <br/>
 
 **[Orbital Insight](https://orbitalinsight.com/)**  <br/>
 *Head of Content Infrastructure « Head of Monitoring* <br/>
-Glendale, CA <br/>
+Palo Alto, CA <br/>
 (2019 - 2020)
 
 **[Arecont Vision](http://www.arecontvision.com/)**  <br/>
