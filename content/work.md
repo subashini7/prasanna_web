@@ -84,5 +84,5 @@ Neural Network for Handwriting Recognition <br/>
 
 **[TVS Electronics](https://www.tvs-e.in/)** <br/>
 *Engineering Trainee* <br/>
-Point of Sale & Printer Design, Development & Manufacturing <br/>
+Point of Sale System Design, Development & Manufacturing <br/>
 (2001) <br/>
