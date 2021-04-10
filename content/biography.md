@@ -13,7 +13,9 @@ Computing systems are evolving into a new species that can perceive, predict, re
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-Prasanna is the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring. Prasanna previously was the Head of Product Infrastructure & Engineering at Osmo (leader in making learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (leader in geospatial analytics), VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance).
+Prasanna is the Founder of Dishcare, where he is on a mission to create happy homes with delightful dining experiences. Prasanna is also the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring. 
+
+Prasanna previously was the Head of Product Infrastructure & Engineering at Osmo (leader in making learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (leader in geospatial analytics), VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance).
 
 Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal, Member of Program Committee of COSI, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech and holds a PhD in ECE from University of Colorado. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 

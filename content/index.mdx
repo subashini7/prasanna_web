@@ -10,7 +10,9 @@ metaDescription: "About"
 
 Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity&mdash;from enterprise to consumer; automotive to security; and from biotech to finance.
 
-Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. Prasanna is the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring. 
+Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
+
+Prasanna is the Founder of Dishcare, where he is on a mission to create happy homes with delightful dining experiences. Prasanna is also the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring.
 
 - [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (7/2020)
 - [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (9/2020)

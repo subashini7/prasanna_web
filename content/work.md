@@ -8,6 +8,10 @@ metaDescription: "Work"
 <img style="width: 600px;margin: 0px 0px 30px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 </div>
 
+**[Dishcare](https://dish.care)** <br/>
+*Founder* <br/>
+San Francisco Bay Area
+
 **[Exnodes](https://exnodes.com)** <br/>
 *Chair « CEO « Founder* <br/>
 Fremont, CA
