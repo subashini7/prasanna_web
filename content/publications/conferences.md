@@ -129,6 +129,6 @@ Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2006 **(BEST
 P. Sri Rama Prasanna, S.Balaji, Thejavor Haralu Khezhie, C.Vasanthanayaki, and S.Annadurai<br/>
 Technical Report, 2004.
 
-[Destination Address Interpretation for automating the sorting process of Indian Postal System](http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=1273300&isnumber=28486&punumber=8975&k2dockey=1273300@ieeecnfs&query=%28+destination+address%3Cin%3Emetadata+%29&pos=0)<br/>
-P.Sri Rama Prasanna, S.Balaji, Thejavor Haralu Khezhie, C.Vasanthanayaki, and S.Annadurai<br/>
+[Destination Address Interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
+P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie, C. Vasanthanayaki, and S. Annadurai<br/>
 IEEE Tencon 2003, Vol 2, Pages 858-862, October 2003.
