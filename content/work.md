@@ -81,7 +81,7 @@ Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/el
 Market Maker & Trade Monitor <br/>
 (2003 - 2005) <br/>
 
-**[GCT Coimbatore](http://www.gct.ac.in/)** <br/>
+**[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 *Engineer* <br/>
 Neural Network for Handwriting Recognition <br/>
 (1999 - 2003) <br/>
