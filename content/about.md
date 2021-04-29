@@ -12,7 +12,7 @@ Computing systems are evolving into a new species that can perceive, predict, re
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-Prasanna is the Founder of Dishcare, where he is on a mission to create happy homes with delightful dining experiences. Prasanna is also the Chair of Exnodes, a company he founded to accelerate onboard inspection for real-time tool & process monitoring.
+As the founder of Dishcare, Prasanna is now on a mission to create happy homes with delightful dining experiences.
 
 - [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (7/2020)
 - [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (9/2020)
