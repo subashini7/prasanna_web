@@ -38,7 +38,7 @@ Sri Rama Prasanna Pavani and Rafael Piestun<br/>
 Optics Express, Vol. 16 Issue 26, 22048-22057 (2008)<br/>
 Virtual Journal for Biomedical Optics, Vol. 4, Issue 2 (2009)
 
-[Three-dimensional localization with nanometer accuracy using a detector-limited double-helix point spread function system](http://link.aip.org/link/?APPLAB/95/021103/1)<br/>
+[Three-dimensional localization with nanometer accuracy using a detector-limited double-helix point spread function system](https://doi.org/10.1063/1.3158923)<br/>
 Sri Rama Prasanna Pavani, Adam Greengard, and Rafael Piestun<br/>
 Applied Physics Letters, Vol. 95, Issue 2, 021103 (2009)
 
