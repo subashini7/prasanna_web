@@ -46,14 +46,14 @@ Milpitas, CA <br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/>
 *Postdoctoral Scholar* <br/>
-Dept. of Electrical Engineering <br/>
+Electrical, Bio & Medical Engineering <br/>
 Advisor: [Prof. Changhuei Yang](http://www.biophot.caltech.edu/people/yang.html) <br/>
 Pasadena, CA <br/>
 (2009 - 2010) <br/>
 
 **[University of Colorado](http://www.colorado.edu/)** <br/>
 *OmniVision Fellow* <br/>
-Dept. of Electrical, Computer, and Energy Engineering <br/>
+Electrical, Computer & Energy Engineering <br/>
 Advisor: [Prof. Rafael Piestun](https://ecee.colorado.edu/~piestun/Home.htm); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 Boulder, CO <br/>
 (2005 - 2009) <br/>
@@ -72,7 +72,7 @@ Boulder, CO <br/>
 
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/>
 *Research Scholar* <br/>
-[Vision and Image Processing Lab](http://www.ece.nus.edu.sg/research/labs/view/new.asp?lab=134)<br/>
+Electrical & Computer Engineering<br/>
 Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
 (2005)
 
@@ -82,8 +82,9 @@ Market Maker & Trade Monitor <br/>
 (2003 - 2005) <br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
-*Engineer* <br/>
+*Electronics & Communication Engineering* <br/>
 Neural Network for Handwriting Recognition <br/>
+Advisor: [Prof. C. Vasanthanayaki](https://gcesalem.edu.in/user/94) <br/>
 (1999 - 2003) <br/>
 
 **[TVS Electronics](https://www.tvs-e.in/)** <br/>
