@@ -8,7 +8,7 @@ metaDescription: "Publications"
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZFuxZd_eRew?start=2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Journals [(1900 Citations)](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)**
+**Journals [(1990 citations)](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)**
 
 [Optimal 3D single-molecule localization for superresolution microscopy with aberrations and engineered point spread functions](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun<br/>
