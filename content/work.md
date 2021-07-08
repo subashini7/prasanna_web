@@ -9,7 +9,7 @@ metaDescription: "Work"
 </div>
 
 **[Dishcare](https://dish.care)** <br/>
-*Founder* <br/>
+*CEO « Founder* <br/>
 San Francisco Bay Area
 
 **[Exnodes](https://exnodes.com)** <br/>
