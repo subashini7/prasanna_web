@@ -10,12 +10,12 @@ metaDescription: "Work"
 
 **[Dishcare](https://dish.care)** <br/>
 *CEO « Founder* <br/>
-San Francisco Bay Area
+San Francisco Bay Area <br/>
 (2021 - Present)
 
 **[Exnodes](https://exnodes.com)** <br/>
 *Chair « CEO « Founder* <br/>
-Fremont, CA
+Fremont, CA <br/>
 (2014 - Present)
 
 **[Osmo](https://www.playosmo.com/en/)**  <br/>
