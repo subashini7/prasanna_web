@@ -38,6 +38,9 @@ OSA COSI, June 2013
 [Liquid Drop Lenses for Miniature Sensors](https://prashub.com/prasanna/files/LDL_poster_COSI_2013.pdf) <br/>
 OSA COSI, June 2013
 
+[Low-power Sensors for Shopper Detection](https://prashub.com/prasanna/files/low-power-sensors-for-shopper-detection.pdf) <br/>
+Ricoh Innovations, February 2013
+
 [HoloCam: Low-power Wide-field Incoherent Target Detector](https://prashub.com/prasanna/files/HoloCam_COSI_2012_FIN.pptx) <br/>
 OSA COSI, Monterey CA, June 2012
 
