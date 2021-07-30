@@ -5,7 +5,7 @@ metaDescription: "Contact"
 ---
 
 
-- pavaniprasanna at gmail dot com
+- prasanna@dish.care
 - +1 720 878 2845
 - San Francisco Bay Area
 
