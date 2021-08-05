@@ -14,11 +14,11 @@ Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out 
 
 Prasanna is the CEO of Dishcare, whose mission is to create happy homes with delightful dining experiences.
 
-- [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (7/2020)
-- [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (9/2020)
-- [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) (8/2019)
-- [Computational Wafer Image Processing](https://patents.google.com/patent/US10184901B2) (1/2019)
-- [Distributed Wafer Information Processing](https://patents.google.com/patent/US10082533B2) (9/2018)
-- [Multiple Camera Computational Wafer Inspection](https://patents.google.com/patent/US10027928B2)  (7/2018)
-- [3D Single Molecule Nanoscopy](https://patents.google.com/patent/US9881355B2)  (1/2018)
-- [Computational Wafer Inspection Filter](https://patents.google.com/patent/US9696265B2)  (7/2017)
+- [Dish Cleaning by Dirt Targeting](https://drive.google.com/file/d/1e4VLa6FbQ007yYhQbQzesb-RgCpASIdd/view?usp=sharing) (2021)
+- [Dish Handling Robot](https://drive.google.com/file/d/1A66N0yRO-t0yrgyIQdUZtq63hegjkpL1/view?usp=sharing) (2021)
+- [Dish Perception, Planning & Control](https://drive.google.com/file/d/1xyG30s9nJi62vHOXGAqsk9EZJ4-CtMKf/view?usp=sharing) (2021)
+- [Targeted Dish Cleaner](https://drive.google.com/file/d/1q1aWsg47dn8fQhCTzG0PhCXn74WUKBGJ/view?usp=sharing) (2021)
+- [Real-time Single Dish Cleaner](https://drive.google.com/file/d/1q_F0jDs-ccHTlZZc1eVIZGwMnxqUfQoI/view?usp=sharing) (2021)
+- [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (2020)
+- [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (2020)
+- [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) (2019)
