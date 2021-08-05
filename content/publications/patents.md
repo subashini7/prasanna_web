@@ -4,6 +4,26 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
+[Dish Cleaning by Dirt Targeting](https://drive.google.com/file/d/1e4VLa6FbQ007yYhQbQzesb-RgCpASIdd/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Pending)
+
+[Dish Handling Robot](https://drive.google.com/file/d/1A66N0yRO-t0yrgyIQdUZtq63hegjkpL1/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Pending)
+
+[Dish Perception, Planning & Control](https://drive.google.com/file/d/1xyG30s9nJi62vHOXGAqsk9EZJ4-CtMKf/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Pending)
+
+[Targeted Dish Cleaner](https://drive.google.com/file/d/1q1aWsg47dn8fQhCTzG0PhCXn74WUKBGJ/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Pending)
+
+[Real-time Single Dish Cleaner](https://drive.google.com/file/d/1q_F0jDs-ccHTlZZc1eVIZGwMnxqUfQoI/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Pending)
+
 [Computational Wafer Image Processing](https://patents.google.com/patent/US10184901B2)<br/>
 Sri Rama Prasanna Pavani<br />
 Exnodes (US10184901B2)
