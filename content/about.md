@@ -12,7 +12,7 @@ Computing systems are evolving into a new species that can perceive, predict, re
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-Prasanna is the CEO of Dishcare, which is building an autonomous dishwasher for every home.
+Prasanna is the CEO of [Dishcare](https://dish.care), which is building an autonomous dishwasher for every home.
 
 - [Dish Cleaning by Dirt Targeting](https://drive.google.com/file/d/1e4VLa6FbQ007yYhQbQzesb-RgCpASIdd/view?usp=sharing) (2021)
 - [Dish Handling Robot](https://drive.google.com/file/d/1A66N0yRO-t0yrgyIQdUZtq63hegjkpL1/view?usp=sharing) (2021)
