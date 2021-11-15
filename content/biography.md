@@ -15,7 +15,7 @@ Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out 
 
 Prasanna is the CEO of [Dishcare](https://dish.care), which is building an autonomous dishwasher for every home & office.
 
-Previously, Prasanna was the CEO of Exnodes, which accelerates onboard bare wafer inspection for real-time tool & process monitoring. Prasanna was also the Head of Product Infrastructure & Engineering at Osmo (leader in making learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (leader in geospatial analytics), VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance).
+Prasanna is also the Chair of Exnodes, which develops onboard inspection for tool & process monitoring. Previously, Prasanna was the Head of Product Infrastructure & Engineering at Osmo (leader in making learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (leader in geospatial analytics), VP Engineering at Arecont Vision (leader in security video) and has held senior engineering positions at Ricoh Innovations (leader in enterprise imaging), KLA (leader in process control), and D. E. Shaw & Co (leader in computational finance).
 
 Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal, Member of Program Committee of COSI, and as a Panel Member of U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech, and holds a PhD in ECE from the University of Colorado; and a BE in ECE from GCT Coimbatore. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 
