@@ -8,11 +8,23 @@ metaDescription: "Talks"
 </div>
 
 
+[The 💡 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>
+University of Colorado, 2022
+
+[The goal to aspire for](https://youtu.be/meYpEV01yHo?t=2514) <br/>
+University of Colorado, 2022
+
+[Depth vs breadth of knowledge](https://youtu.be/meYpEV01yHo?t=2024) <br/>
+University of Colorado, 2022
+
+[Dealing with uncertainty](https://youtu.be/meYpEV01yHo?t=1592) <br/>
+University of Colorado, 2022
+
 [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) <br/>
-University of Colorado at Boulder, 2020
+University of Colorado, 2020
 
 [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) <br/>
-University of Colorado at Boulder, 2020
+University of Colorado, 2020
 
 [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) <br/>
 GCT Coimbatore, 2019
