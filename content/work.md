@@ -34,14 +34,14 @@ Glendale, CA <br/>
 (2013 - 2014)
 
 **[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>
-*Advisory Research Engineer « Research Engineer* <br/>
+*Advisory Research Scientist « Research Scientist* <br/>
 Computational Imaging Group <br/>
 Intelligent Network Systems Group <br/>
 Menlo Park, CA <br/>
 (2010 - 2013) <br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/>
-*Research Engineer* <br/>
+*Research Scientist* <br/>
 Surfscan-ADE division <br/>
 Milpitas, CA <br/>
 (2010) <br/>

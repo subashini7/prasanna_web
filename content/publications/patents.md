@@ -4,9 +4,13 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
+[Rolling Grasp End Effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing)<br/>
+Pratik Chawla, Sri Rama Prasanna Pavani<br />
+Dishcare (17/713,838)
+
 [Autonomous Dishwasher](https://drive.google.com/file/d/1QoO4LnbtDCenF1xeSGtnndc3T3DPQJVR/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
-Dishcare (17/687332)
+Dishcare (17/687,332)
 
 [Dish Cleaning by Dirt Targeting](https://drive.google.com/file/d/1e4VLa6FbQ007yYhQbQzesb-RgCpASIdd/view?usp=sharing)<br/>
 Sri Rama Prasanna Pavani<br />
