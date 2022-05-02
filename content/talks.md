@@ -7,7 +7,7 @@ metaDescription: "Talks"
     <iframe width="96%" height="400" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Have you heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) <br/>
+[Heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) <br/>
 Dishcare, 2022
 
 [The 💡 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>

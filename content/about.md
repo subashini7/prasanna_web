@@ -14,7 +14,7 @@ Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out 
 
 Prasanna is the CEO of [Dishcare](https://dish.care), which is building an autonomous dishwasher for every home & office.
 
-- [Have you heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) (2022)
+- [Heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) (2022)
 - [Rolling Grasp End Effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing) (2022)
 - [Autonomous Dishwasher](https://drive.google.com/file/d/1QoO4LnbtDCenF1xeSGtnndc3T3DPQJVR/view?usp=sharing) (2022)
 - [The 💡 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) (2022)
