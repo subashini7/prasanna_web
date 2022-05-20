@@ -8,8 +8,6 @@ Run `npm start` to run the code in `localhost:8000`
 
 Inorder to build this, I modified the **package.json** file, `scripts` subsection, `start` key from `gatsby develop` to `gatsby build --prefix-paths` and run `npm start`. The latter creates a **public** which has all the html files and the json and js files for the website.
 
-
-
 steps
 - clone repo
 - `npm install`
