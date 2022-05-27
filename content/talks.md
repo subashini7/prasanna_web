@@ -7,6 +7,9 @@ metaDescription: "Talks"
     <iframe width="96%" height="400" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[Doing the dishes isn’t on that to-do list!](https://www.linkedin.com/pulse/things-we-do-dishes-dishcare) <br/>
+Dishcare, 2022
+
 [Are you learning well?](https://prashub.com/are-you-learning-well.pdf) <br/>
 Dishcare, 2022
 
