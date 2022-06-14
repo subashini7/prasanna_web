@@ -41,7 +41,7 @@ const config = {
       '/about/', // add trailing slash if enabled above
       '/biography/',
       '/work/',
-      '/talks/',
+      '/thoughts/',
       '/research/',
       '/publications/',
       // '/tweets',

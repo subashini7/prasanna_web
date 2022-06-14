@@ -1,11 +1,14 @@
 ---
-title: "Talks"
+title: "Thoughts"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Talks"
+metaDescription: "Thoughts"
 ---
 <div class="video-container">
     <iframe width="96%" height="400" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[Kural for everyone!](https://www.linkedin.com/posts/prasannapavani_kural-seven-words-were-all-it-took-for-a-activity-6941518762793725952-b-Y4)  <br/>
+(2022)
 
 [Doing the dishes isn’t on that to-do list!](https://www.linkedin.com/pulse/things-we-do-dishes-dishcare) <br/>
 Dishcare, 2022
