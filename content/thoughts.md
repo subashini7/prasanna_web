@@ -7,6 +7,9 @@ metaDescription: "Thoughts"
     <iframe width="96%" height="400" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)  <br/>
+Dishcare, 2022
+
 [Kural for everyone!](https://www.linkedin.com/posts/prasannapavani_kural-seven-words-were-all-it-took-for-a-activity-6941518762793725952-b-Y4)  <br/>
 Dishcare, 2022
 
