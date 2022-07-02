@@ -49,7 +49,7 @@ Milpitas, CA <br/>
 **[Caltech](http://www.caltech.edu/)** <br/>
 *Postdoctoral Scholar* <br/>
 Electrical, Bio & Medical Engineering <br/>
-Advisor: [Prof. Changhuei Yang](http://www.biophot.caltech.edu/people/yang.html) <br/>
+Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
 Pasadena, CA <br/>
 (2009 - 2010) <br/>
 
@@ -86,7 +86,7 @@ Market Maker & Trade Monitor <br/>
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 *Electronics & Communication Engineering* <br/>
 Neural Network for Handwriting Recognition <br/>
-Advisor: [Prof. C. Vasanthanayaki](https://gcesalem.edu.in/user/94) <br/>
+Advisor: [Prof. C. Vasanthanayaki](https://gct.ac.in/users/vasanthanayaki) <br/>
 (1999 - 2003) <br/>
 
 **[TVS Electronics](https://www.tvs-e.in/)** <br/>
