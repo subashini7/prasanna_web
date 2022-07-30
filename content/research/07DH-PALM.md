@@ -1,6 +1,6 @@
 ---
 title: "3D Super-resolution"
-metaTitle: "Prasanna Pavani"
+metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "3D Super-resolution"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Structured Illumination"
-metaTitle: "Prasanna Pavani"
+metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Structured Illumination"
 ---
 

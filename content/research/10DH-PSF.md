@@ -1,6 +1,6 @@
 ---
 title: "Double Helix PSF"
-metaTitle: "Prasanna Pavani"
+metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Double Helix PSF"
 ---
 

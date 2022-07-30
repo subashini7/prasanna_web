@@ -9,7 +9,7 @@ const config = {
     logo: '',
     logoLink: '',
     title:
-      "Prasanna Pavani",
+      "Dr. Prasanna Pavani",
     githubUrl: '',
     helpUrl: '',
     tweetText: '',

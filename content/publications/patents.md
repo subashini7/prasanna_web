@@ -1,6 +1,6 @@
 ---
 title: "Patents"
-metaTitle: "Prasanna Pavani"
+metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Patents"
 ---
 

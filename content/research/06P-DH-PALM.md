@@ -1,6 +1,6 @@
 ---
 title: "Polarized 3D Super-resolution"
-metaTitle: "Prasanna Pavani"
+metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Polarized 3D Super-resolution"
 ---
 
