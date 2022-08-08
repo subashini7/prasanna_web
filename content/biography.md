@@ -11,7 +11,7 @@ metaDescription: "Biography"
 
 Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity.
 
-Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building an autonomous robot dishwasher for office and home.
+Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building an autonomous robot dishwasher for every office.
 
 Prasanna aspires to become a more perfect engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
