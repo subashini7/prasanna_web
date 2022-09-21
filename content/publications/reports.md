@@ -24,3 +24,6 @@ Optical Electronics, University of Colorado, 2006<br/>
         
 [Destination Address Interpretation (Neural Network for Handwriting Recognition)](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
 Undergraduate thesis, GCT Coimbatore, 2003 
+
+[Steganography&mdash;hiding data in an image](https://prashub.com/prasanna/files/steganography.pdf)<br/>
+Undergraduate junior project, GCT Coimbatore, 2002 
