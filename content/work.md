@@ -4,8 +4,8 @@ metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Work"
 ---
 
-<div class="">
-<img style="width: 600px;margin: 0px 0px 30px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
+<div class="video-container">
+<iframe width="728" height="409" src="https://www.youtube.com/embed/9X2ry9RMDq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **[Dishcare](https://dish.care)** <br/>
