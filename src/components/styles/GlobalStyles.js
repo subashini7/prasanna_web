@@ -694,9 +694,9 @@ export const baseStyles = css`
   .left-page
   {
     display: block;
-    float: left;
+    float: right;
     position: relative;
-    margin: 5px 30px 10px 10px;
+    margin: 5px 10px 10px 30px;
   }
 
   .heading1 {
