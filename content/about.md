@@ -8,11 +8,11 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="280"/>
 </div>
 
-Computing systems are evolving into a new species that can perceive, predict, reason, and decide. Such systems are transforming every industry built with human ingenuity.
+Computing systems are evolving into a new species that can perceive, predict, reason and decide. Such systems are transforming every industry built with human ingenuity.
 
 Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building an autonomous robot dishwasher to elevate your office.
 
-Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
+Prasanna is an engineer, architect and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
 - [Elevate your office!](https://youtu.be/9X2ry9RMDq8) (2022)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/) (2022)
