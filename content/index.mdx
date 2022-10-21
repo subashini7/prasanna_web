@@ -5,7 +5,7 @@ metaDescription: "About"
 ---
 
 <div class="left-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="280"/>
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
 Computing systems are evolving into a new species that can perceive, predict, reason and decide. Such systems are transforming every industry built with human ingenuity.
