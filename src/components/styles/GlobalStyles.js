@@ -35,6 +35,7 @@ export const baseStyles = css`
   a {
     transition: color 0.15s;
     /* color: #663399; */
+    word-spacing: 0rem;
   }
 
   body {
@@ -750,8 +751,9 @@ export const baseStyles = css`
   .paragraph {
     margin: 16px 0px 32px;
     line-height: 1.625;
-    text-align: justify;
     display: block;
+    word-spacing: 0.2rem;
+    text-align: justify;
   }
 
   .center {
