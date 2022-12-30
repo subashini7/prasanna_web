@@ -19,4 +19,4 @@ Prasanna is also the Chair of [Exnodes](https://exnodes.com), which elevates chi
 
 Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal, Member of Program Committee of COSI and as a Panel Member of the U.S. National Science Foundation. Prasanna was a Postdoc in EE at Caltech, and holds a PhD in ECE from the University of Colorado; and a BE in ECE from GCT Coimbatore. Prasanna studied Business Strategies and Entrepreneurship at Stanford University.
 
-Prasanna's 31 patents and 45 publications have earned 2200 citations. Prasanna has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards and GCT Coimbatore Gold Medal.
+Prasanna's 31 patents and 45 publications have earned 2250 citations. Prasanna has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards and GCT Coimbatore Gold Medal.
