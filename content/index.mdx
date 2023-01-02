@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-Computing systems are evolving into a new species that can perceive, predict, reason and decide. Such systems are transforming every industry built with human ingenuity.
+In 2023, artificial intelligence will integrate seamlessly with robots. Together, they will help us in our daily lives by performing useful physical actions in the real world.
 
 Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building an autonomous robot dishwasher that loads, cleans & puts away dishes. So you can save time & help our planet while enjoying real dishes.
 
