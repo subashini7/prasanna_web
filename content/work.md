@@ -13,11 +13,6 @@ metaDescription: "Work"
 San Francisco Bay Area <br/>
 (2021 - Present)
 
-**[Exnodes](https://exnodes.com)** <br/>
-*Chair « CEO « Founder* <br/>
-Fremont, CA <br/>
-(2014 - Present)
-
 **[Osmo](https://www.playosmo.com/en/)**  <br/>
 *Head of Product Infrastructure « Head of Engineering* <br/>
 Palo Alto, CA <br/>
@@ -27,6 +22,11 @@ Palo Alto, CA <br/>
 *Head of Content Infrastructure « Head of Monitoring* <br/>
 Palo Alto, CA <br/>
 (2019 - 2020)
+
+**[Exnodes](https://exnodes.com)** <br/>
+*CEO « Founder* <br/>
+Fremont, CA <br/>
+(2014 - 2018)
 
 **[Arecont Vision](http://www.arecontvision.com/)**  <br/>
 *VP Engineering « Director of Engineering « Principal Architect* <br/>
