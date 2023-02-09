@@ -11,7 +11,7 @@ metaDescription: "Biography"
 
 In 2023, artificial intelligence will integrate seamlessly with robots. Together, they will help us in our daily lives by performing useful physical actions in the real world.
 
-Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building an autonomous robot dishwasher that loads, cleans & puts away dishes. So you can save time & help our planet while enjoying real dishes.
+Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraordinary team building a dishwasher that loads, cleans & puts away dishes instantly. So you can save time & help our planet while enjoying real dishes.
 
 Prasanna is an engineer, architect and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
