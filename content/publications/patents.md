@@ -4,6 +4,10 @@ metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
+[Targeted Dish Cleaner](https://drive.google.com/file/d/1SBxxiiZZu6JDvjhTGLG-lXy-P0jKkWg1/view?usp=sharing)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (US11583162B2)
+
 [Rolling Grasp End Effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
@@ -23,10 +27,6 @@ Dishcare (17/191,695)
 [Dish Perception, Planning & Control](https://drive.google.com/file/d/1xyG30s9nJi62vHOXGAqsk9EZJ4-CtMKf/view?usp=sharing)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/202,266)
-
-[Targeted Dish Cleaner](https://drive.google.com/file/d/1q1aWsg47dn8fQhCTzG0PhCXn74WUKBGJ/view?usp=sharing)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (17/156,524)
 
 [Real-time Single Dish Cleaner](https://drive.google.com/file/d/1q_F0jDs-ccHTlZZc1eVIZGwMnxqUfQoI/view?usp=sharing)<br/>
 Sri Rama Prasanna Pavani<br />
