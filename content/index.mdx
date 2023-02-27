@@ -14,7 +14,7 @@ Prasanna is the CEO of [Dishcare](https://dish.care), where he leads an extraord
 
 Prasanna is an engineer, architect and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. 
 
-- [Targeted Dish Cleaner](https://drive.google.com/file/d/1SBxxiiZZu6JDvjhTGLG-lXy-P0jKkWg1/view?usp=sharing) (2023)
+- [Targeted Dish Cleaner](https://prashub.com/prasanna/files/US11583162B2.pdf) (2023)
 - [Dishcare has 3 goals!](https://youtu.be/NOWvf0JK0I0) (2022)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/) (2022)
 - [Kural for everyone!](https://www.linkedin.com/posts/prasannapavani_kural-seven-words-were-all-it-took-for-a-activity-6941518762793725952-b-Y4) (2022)

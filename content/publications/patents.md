@@ -4,7 +4,7 @@ metaTitle: "Dr. Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-[Targeted Dish Cleaner](https://drive.google.com/file/d/1SBxxiiZZu6JDvjhTGLG-lXy-P0jKkWg1/view?usp=sharing)<br/>
+[Targeted Dish Cleaner](https://prashub.com/prasanna/files/US11583162B2.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11583162B2)
 
