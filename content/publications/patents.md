@@ -16,19 +16,19 @@ Dishcare (17/713,838)
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/687,332)
 
-[Dish Cleaning by Dirt Targeting](https://drive.google.com/file/d/1e4VLa6FbQ007yYhQbQzesb-RgCpASIdd/view?usp=sharing)<br/>
+[Dish Cleaning by Dirt Targeting](https://prashub.com/prasanna/files/US-20220304546-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/211,860)
 
-[Dish Handling Robot](https://drive.google.com/file/d/1A66N0yRO-t0yrgyIQdUZtq63hegjkpL1/view?usp=sharing)<br/>
+[Dish Handling Robot](https://prashub.com/prasanna/files/US-20220281118-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/191,695)
 
-[Dish Perception, Planning & Control](https://drive.google.com/file/d/1xyG30s9nJi62vHOXGAqsk9EZJ4-CtMKf/view?usp=sharing)<br/>
+[Dish Perception, Planning & Control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/202,266)
 
-[Real-time Single Dish Cleaner](https://drive.google.com/file/d/1q_F0jDs-ccHTlZZc1eVIZGwMnxqUfQoI/view?usp=sharing)<br/>
+[Real-time Single Dish Cleaner](https://prashub.com/prasanna/files/US-20220211243-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/144,069)
 
