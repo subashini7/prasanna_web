@@ -7,6 +7,9 @@ metaDescription: "Thoughts"
     <iframe width="96%" height="400" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[Dishcare loads, cleans & puts away dishes instantly!](https://dish.care/deck.htm)  <br/>
+Dishcare, 2023
+
 [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)  <br/>
 Dishcare, 2022
 
