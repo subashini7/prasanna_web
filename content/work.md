@@ -9,7 +9,7 @@ metaDescription: "Work"
 **[Dishcare](https://dish.care)** <br/>
 *CEO « Founder*<br/>
 AI powered robot loads, cleans & puts away dishes instantly.<br/>
-San Francisco Bay Area <br/>
+San Mateo, CA <br/>
 (2021 - 2023)
 
 **[Osmo](https://www.playosmo.com/en/)**  <br/>
@@ -26,7 +26,7 @@ Palo Alto, CA <br/>
 
 **[Exnodes](https://exnodes.com)** <br/>
 *CEO « Founder* <br/>
-Computational parallel inspection for 3 nm node qualification & monitoring of computer chips.<br/>
+Computational Parallel Inspection&reg; detects 20 nm defects at 120 wafers/hour.<br/>
 Fremont, CA <br/>
 (2014 - 2018)
 
