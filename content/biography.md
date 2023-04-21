@@ -13,7 +13,7 @@ In 2023, AI will integrate seamlessly with software services. Together, they wil
 
 Prasanna is an engineer, founder and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
-Prasanna served as the CEO of Dishcare (AI powered robots), Head of Product Infrastructure & Engineering at Osmo (AI games to make learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (AI geospatial analytics), CEO of Exnodes (computational parallel inspection), VP Engineering at Arecont (streaming security video) and has held senior roles at Ricoh (computational imaging), KLA (process control) & D. E. Shaw (computational finance).
+Prasanna served as the CEO of Dishcare (AI powered robots), Head of Product Infrastructure & Engineering at Osmo (AI games that make learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (AI geospatial analytics), CEO of Exnodes (computational parallel inspection), VP Engineering at Arecont (streaming security video) and has held senior roles at Ricoh Innovations (computational imaging), KLA (process control) & D. E. Shaw (computational finance).
 
 Prasanna was a Postdoc at Caltech and holds a PhD in ECE from the University of Colorado and a BE in ECE from GCT Coimbatore. Prasanna studied Business Strategies and Entrepreneurship at Stanford University. Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal and as a Panel Member of the U.S. National Science Foundation. 
 
