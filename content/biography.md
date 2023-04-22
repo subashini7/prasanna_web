@@ -17,4 +17,4 @@ Prasanna served as the CEO of Dishcare (AI powered robots), Head of Product Infr
 
 Prasanna was a Postdoc at Caltech and holds a PhD in ECE from the University of Colorado and a BE in ECE from GCT Coimbatore. Prasanna studied Business Strategies and Entrepreneurship at Stanford University. Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal and as a Panel Member of the U.S. National Science Foundation. 
 
-Prasanna's 31 patents and 45 publications have earned 2299 citations. Prasanna has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards and GCT Coimbatore Gold Medal.
+Prasanna's 31 patents and 45 publications have earned 2300 citations. Prasanna has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards and GCT Coimbatore Gold Medal.
