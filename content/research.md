@@ -1,6 +1,6 @@
 ---
 title: "Research"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Research"
 ---
 

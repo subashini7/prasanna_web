@@ -1,6 +1,6 @@
 ---
 title: "Holographic Detector"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Holographic Detector"
 ---
 

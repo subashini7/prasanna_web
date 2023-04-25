@@ -1,6 +1,6 @@
 ---
 title: "Extended Depth Optofluidics"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Extended Depth Optofluidics"
 ---
 

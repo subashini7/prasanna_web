@@ -1,6 +1,6 @@
 ---
 title: "Thoughts"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Thoughts"
 ---
 <div class="video-container">

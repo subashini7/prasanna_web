@@ -109,7 +109,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 className={'headerTitle displayInline'}
                 // dangerouslySetInnerHTML={{ __html: headerTitle }}
               >
-              Dr. Prasanna Pavani </h1></a>
+              Prasanna Pavani </h1></a>
             </div>
             {/* {config.header.social ? (
               <ul

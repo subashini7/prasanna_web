@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Contact"
 ---
 
