@@ -9,12 +9,12 @@ metaDescription: "Biography"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-In 2023, AI will integrate seamlessly with software services. Together, they will elevate user experience and enhance productivity by helping us more thoughtfully than ever before. 
+In 2023, AI will integrate seamlessly with software services. Together, they will help us be more thoughtful than ever before. 
 
 Prasanna is an engineer, founder and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
-Prasanna served as the CEO of Dishcare (AI powered robots), Head of Product Infrastructure & Engineering at Osmo (AI games that make learning fun), Head of Content Infrastructure & Monitoring at Orbital Insight (AI geospatial analytics), CEO of Exnodes (computational parallel inspection), VP Engineering at Arecont (streaming security video) and has held senior roles at Ricoh Innovations (computational imaging), KLA (process control) & D. E. Shaw (computational finance).
+Previously, Prasanna served as the CEO of Dishcare, Head of Engineering at Osmo, Head of Data Monitoring at Orbital Insight, CEO of Exnodes, VP Engineering at Arecont and has held senior roles at Ricoh, KLA and D. E. Shaw.
 
-Prasanna was a Postdoc at Caltech and holds a PhD in ECE from the University of Colorado and a BE in ECE from GCT Coimbatore. Prasanna studied Business Strategies and Entrepreneurship at Stanford University. Prasanna has served as the Editor of Computational Imaging of OSA Applied Optics journal and as a Panel Member of the U.S. National Science Foundation. 
+Prasanna was a Postdoc at Caltech and holds a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. He studied Business at Stanford University and served as an Editor of Optica and as a member of the U.S. National Science Foundation. Prasanna's 31 patents and 45 publications have earned 2300 citations. 
 
-Prasanna's 31 patents and 45 publications have earned 2300 citations. Prasanna has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, OSA Outstanding Paper Award, SPIE Science and Engineering Award, CPIA Awards and GCT Coimbatore Gold Medal.
+Prasanna's work has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, Optica Outstanding Paper Award, SPIE Science & Engineering Award, CPIA awards and the GCT Coimbatore Gold Medal.

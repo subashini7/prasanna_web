@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-In 2023, AI will integrate seamlessly with software services. Together, they will elevate user experience and enhance productivity by helping us more thoughtfully than ever before. 
+In 2023, AI will integrate seamlessly with software services. Together, they will help us be more thoughtful than ever before. 
 
 Prasanna is an engineer, founder and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 

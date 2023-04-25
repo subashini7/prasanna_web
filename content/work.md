@@ -8,18 +8,18 @@ metaDescription: "Work"
 
 **[Dishcare](https://dish.care)** <br/>
 *CEO « Founder*<br/>
-AI powered robot loads, cleans & puts away dishes instantly.<br/>
+AI bot loads, cleans & puts away dishes instantly.<br/>
 San Mateo, CA <br/>
 (2021 - 2023)
 
 **[Osmo](https://www.playosmo.com/en/)**  <br/>
-*Head of Product Infrastructure « Head of Engineering* <br/>
+*Head of Engineering & Product Infrastructure* <br/>
 AI combines physical interactions with digital experiences to make learning fun.<br/>
 Palo Alto, CA <br/>
 (2020 - 2021)
 
 **[Orbital Insight](https://orbitalinsight.com/)**  <br/>
-*Head of Content Infrastructure « Head of Monitoring* <br/>
+*Head of Data Monitoring & Content Infrastructure* <br/>
 AI geospatial analytics platform to understand what is happening on Earth.<br/>
 Palo Alto, CA <br/>
 (2019 - 2020)
