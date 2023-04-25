@@ -1,6 +1,6 @@
 ---
 title: "Liquid Drop Lenses"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Liquid Drop Lenses"
 ---
 

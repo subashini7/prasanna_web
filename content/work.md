@@ -1,6 +1,6 @@
 ---
 title: "Work"
-metaTitle: "Dr. Prasanna Pavani"
+metaTitle: "Prasanna Pavani"
 metaDescription: "Work"
 ---
 
