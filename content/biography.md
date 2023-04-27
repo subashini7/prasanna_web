@@ -11,7 +11,7 @@ metaDescription: "Biography"
 
 In 2023, AI will integrate with software services seamlessly. Together, they are poised to create new platforms for applications that are more thoughtful than ever before. 
 
-How do we seize this moment to offer a better user experience at a lower cost?
+How do we seize this moment to offer more value for our users? 
 
 Prasanna is an engineer, founder and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
