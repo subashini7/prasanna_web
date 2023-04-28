@@ -1,4 +1,4 @@
-# 
+# #
 The base code is from [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter)
 
 The pages are in [Markdown](https://www.gatsbyjs.com/docs/reference/markdown-syntax/) format within the **content** folder. 
