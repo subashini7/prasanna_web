@@ -8,9 +8,9 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-In 2023, AI will integrate with software services seamlessly. Together, they are poised to create new platforms for applications that are more thoughtful than ever before. 
+Prasanna is a hands-on engineer and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
-Prasanna is an engineer, founder and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
+Prasanna is the Founder of Dishcare. Previously, he served as the Head of Engineering at Osmo, Head of Data Engineering at Orbital, Founder of Exnodes, VP Engineering at Arecont and has held engineering roles at Ricoh, KLA and D. E. Shaw. 
 
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf) (2022)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/) (2022)
