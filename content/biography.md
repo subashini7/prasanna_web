@@ -9,7 +9,7 @@ metaDescription: "Biography"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-Prasanna is an engineer and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. Prasanna is the Founder of Dishcare.
+Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. Prasanna is the Founder of Dishcare.
 
 Previously, he served as the Head of Engineering at Osmo, Head of Data Engineering at Orbital, Founder of Exnodes, VP Engineering at Arecont and has held senior roles at Ricoh Innovations, KLA and D. E. Shaw.
 
