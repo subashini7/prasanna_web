@@ -20,4 +20,5 @@ Previously, he served as the Head of Engineering at Osmo, Head of Data Engineeri
 - [Dealing with uncertainty](https://youtu.be/meYpEV01yHo?t=1592) (2022)
 - [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (2020)
 - [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (2020)
+- [America’s newest citizens](https://www.linkedin.com/feed/update/urn:li:activity:6625949393176584192/) (2020)
 - [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) (2019)
