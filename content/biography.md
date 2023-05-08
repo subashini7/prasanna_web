@@ -11,7 +11,7 @@ metaDescription: "Biography"
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime. Prasanna is the Founder of Dishcare.
 
-Previously, he served as the Head of Engineering at Osmo, Head of Data Engineering at Orbital, Founder of Exnodes, VP Engineering at Arecont and has held senior roles at Ricoh Innovations, KLA and D. E. Shaw.
+Previously, he served as the Head of Engineering at Osmo, Head of Data Monitoring at Orbital, Founder of Exnodes, VP Engineering at Arecont and has held senior roles at Ricoh Innovations, KLA and D. E. Shaw.
 
 Prasanna was a Postdoc at Caltech and holds a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. He studied Business at Stanford University and served as an Editor of Optica before serving as a panel member of the U.S. National Science Foundation. Prasanna's 31 patents and 45 publications have earned 2300 citations. 
 

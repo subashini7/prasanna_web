@@ -19,7 +19,7 @@ Palo Alto, CA <br/>
 (2020 - 2021)
 
 **[Orbital Insight](https://orbitalinsight.com/)**  <br/>
-*Head of Data Engineering* <br/>
+*Head of Data Monitoring* <br/>
 AI geospatial analytics platform to understand what is happening on Earth.<br/>
 Palo Alto, CA <br/>
 (2019 - 2020)
