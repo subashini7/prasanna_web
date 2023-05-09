@@ -10,37 +10,37 @@ metaDescription: "Work"
 *Founder*<br/>
 AI loads, cleans & puts away dishes instantly.<br/>
 San Mateo, CA <br/>
-(2021-Present)
+(2021 - Present)
 
 **[Osmo](https://www.playosmo.com/en/)**  <br/>
 *Head of Engineering* <br/>
 AI combines physical interactions with digital experiences to make learning fun.<br/>
 Palo Alto, CA <br/>
-(2020-21)
+(2020 - 2021)
 
 **[Orbital Insight](https://orbitalinsight.com/)**  <br/>
 *Head of Data Monitoring* <br/>
 AI geospatial analytics platform to understand what is happening on Earth.<br/>
 Palo Alto, CA <br/>
-(2019-20)
+(2019 - 2020)
 
 **[Exnodes](https://exnodes.com)** <br/>
 *Founder* <br/>
 Computational Parallel Inspection&reg; detects 20 nm defects at 120 wafers/hour.<br/>
 Fremont, CA <br/>
-(2014-18)
+(2014 - 2018)
 
 **[Arecont Vision](http://www.arecontvision.com/)**  <br/>
 *VP Engineering « Director « Principal Architect* <br/>
 Streaming security video with low light, low bandwidth & high resolution.<br/>
 Glendale, CA <br/>
-(2013-14)
+(2013 - 2014)
 
 **[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>
 *Advisory Research Engineer « Research Engineer* <br/>
 Computational sensing & imaging systems. <br/>
 Menlo Park, CA <br/>
-(2010-13) <br/>
+(2010 - 2013) <br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/>
 *Research Engineer* <br/>
@@ -53,14 +53,14 @@ Milpitas, CA <br/>
 Electrical Engineering <br/>
 Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
 Pasadena, CA <br/>
-(2009-10) <br/>
+(2009 - 2010) <br/>
 
 **[University of Colorado](http://www.colorado.edu/)** <br/>
 *Graduate Student* <br/>
 Electrical, Computer & Energy Engineering <br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 Boulder, CO <br/>
-(2005-09) <br/>
+(2005 - 2009) <br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/>
 *Research Scholar* <br/>
@@ -84,10 +84,10 @@ Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/el
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>
 *Senior Software Engineer « Software Engineer* <br/>
 Quantitative investing & computational finance.<br/>
-(2003-05) <br/>
+(2003 - 2005) <br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 *Undergraduate Student* <br/>
 Neural networks for handwriting recognition to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://gct.ac.in/users/vasanthanayaki) <br/>
-(1999-03) <br/>
+(1999 - 2003) <br/>
