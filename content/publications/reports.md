@@ -4,17 +4,20 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Reports"
 ---
 
+[Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
+Sri Rama Prasanna Pavani, Shrutidhara Kakoti, Pratik Chawla<br/>
+Dishcare, 2022<br/>
+
+[Robotic End Effector for Autonomous Cleaning of Dishes in Homes and Offices](https://prashub.com/prasanna/files/dishcare-robot.pdf)<br/>
+Sri Rama Prasanna Pavani, Pratik Chawla and Anurag Agrawal<br/>
+Dishcare, 2022<br/>
+
 [Three-dimensional Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 PhD Thesis, University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 Outstanding PhD Award [(video)](http://www.youtube.com/watch?v=FBrSS1Ya1uM)
 
-[Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
-Dishcare, 2022<br/>
-
-[Robotic End Effector for Autonomous Cleaning of Dishes in Homes and Offices](https://prashub.com/prasanna/files/dishcare-robot.pdf)<br/>
-Dishcare, 2022<br/>
-
 [Phase Amplification in Digital Holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
+Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
 University of Colorado and Harvard University, 2007<br/>
 
 [Camera Obscura](https://prashub.com/prasanna/files/Prasannas_Camera_Obscura.pdf)<br/>
