@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Reports"
 ---
 
-[Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
+[Minimizing Pathogens on Everyday Dishes With an Autonomous Dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
 Sri Rama Prasanna Pavani, Shrutidhara Kakoti, Pratik Chawla<br/>
 Dishcare, 2022<br/>
 
