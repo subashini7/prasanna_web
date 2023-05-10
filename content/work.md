@@ -32,7 +32,7 @@ Fremont, CA <br/>
 
 **[Arecont Vision](http://www.arecontvision.com/)**  <br/>
 *VP Engineering « Director « Principal Architect* <br/>
-Streaming security video with low light, low bandwidth & high resolution.<br/>
+Streaming security video with low bandwidth & high resolution.<br/>
 Glendale, CA <br/>
 (2013 - 2014)
 
