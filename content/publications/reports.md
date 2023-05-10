@@ -8,6 +8,11 @@ metaDescription: "Reports"
 PhD Thesis, University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 Outstanding PhD Award [(video)](http://www.youtube.com/watch?v=FBrSS1Ya1uM)
 
+[Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
+Dishcare, 2022<br/>
+
+[Robotic End Effector for Autonomous Cleaning of Dishes in Homes and Offices](https://prashub.com/prasanna/files/dishcare-robot.pdf)<br/>
+Dishcare, 2022<br/>
 
 [Phase Amplification in Digital Holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
 University of Colorado and Harvard University, 2007<br/>
@@ -17,7 +22,6 @@ Optoelectronic System Design, University of Colorado, 2006<br/>
 
 [Optical Solitons](https://prashub.com/prasanna/files/Optical_Solitons.pdf)<br/>
 Nonlinear / Crystal Optics, University of Colorado, 2006<br/>
-
 
 [Waveguide analysis using BPM](https://prashub.com/prasanna/files/waveguide_beamprop.pdf)<br/>
 Optical Electronics, University of Colorado, 2006<br/>
