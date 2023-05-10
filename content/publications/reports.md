@@ -5,11 +5,11 @@ metaDescription: "Reports"
 ---
 
 [Minimizing Pathogens on Everyday Dishes With an Autonomous Dishwasher](https://prashub.com/prasanna/files/dishcare-minimizing-pathogens.pdf)<br/>
-Sri Rama Prasanna Pavani, Shrutidhara Kakoti, Pratik Chawla<br/>
+Sri Rama Prasanna Pavani, Shrutidhara Kakoti, and Pratik Chawla<br/>
 Dishcare, 2022<br/>
 
 [Robotic End Effector for Autonomous Cleaning of Dishes in Homes and Offices](https://prashub.com/prasanna/files/dishcare-robot.pdf)<br/>
-Sri Rama Prasanna Pavani, Pratik Chawla and Anurag Agrawal<br/>
+Sri Rama Prasanna Pavani, Pratik Chawla, and Anurag Agrawal<br/>
 Dishcare, 2022<br/>
 
 [Three-dimensional Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
