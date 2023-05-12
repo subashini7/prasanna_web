@@ -51,6 +51,7 @@ Milpitas, CA <br/>
 **[Caltech](http://www.caltech.edu/)** <br/>
 *Postdoctoral Scholar* <br/>
 Electrical Engineering <br/>
+Chip scale 3D & phase imaging systems.<br/>
 Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
 Pasadena, CA <br/>
 (2009 - 2010) <br/>
@@ -58,6 +59,7 @@ Pasadena, CA <br/>
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/>
 *Graduate Student* <br/>
 Electrical, Computer & Energy Engineering <br/>
+Designed & developed the double-helix PSF. <br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 Boulder, CO <br/>
 (2005 - 2009) <br/>
@@ -65,6 +67,7 @@ Boulder, CO <br/>
 **[Stanford University](http://www.stanford.edu/)** <br/>
 *Research Scholar* <br/>
 [Moerner Lab](http://www.stanford.edu/group/moerner/) <br/>
+3D single molecule super-resolution. <br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (2014 Nobel Prize) <br/>
 Stanford, CA <br/>
 (2008) <br/>
@@ -78,6 +81,7 @@ Boulder, CO <br/>
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/>
 *Research Scholar* <br/>
 Electrical & Computer Engineering<br/>
+3D imaging, face detection & expression detection.<br/>
 Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
 (2005)
 
