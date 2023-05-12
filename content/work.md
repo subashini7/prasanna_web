@@ -55,7 +55,7 @@ Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.
 Pasadena, CA <br/>
 (2009 - 2010) <br/>
 
-**[University of Colorado](http://www.colorado.edu/)** <br/>
+**[University of Colorado Boulder](http://www.colorado.edu/)** <br/>
 *Graduate Student* <br/>
 Electrical, Computer & Energy Engineering <br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
