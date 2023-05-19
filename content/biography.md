@@ -9,7 +9,7 @@ metaDescription: "Biography"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-Today's products & services are evolving into more thoughtful versions of themselves. In doing so, they are transforming every industry built with human ingenuity—from enterprise to consumer; space to energy; and from biotech to finance.
+Today's products and services are evolving into more thoughtful versions of themselves. In doing so, they are transforming every industry built with human ingenuity—from enterprise to consumer; space to energy; and from biotech to finance.
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
