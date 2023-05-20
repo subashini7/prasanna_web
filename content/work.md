@@ -93,5 +93,5 @@ Quantitative investing & computational finance.<br/>
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 *Undergraduate Student* <br/>
 Neural networks for handwriting recognition to automate mail sorting.<br/>
-Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in/content/office-principal) <br/>
+Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 (1999 - 2003) <br/>
