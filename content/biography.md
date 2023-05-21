@@ -9,7 +9,7 @@ metaDescription: "Biography"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-Our products and services are becoming more thoughtful than ever before. In doing so, they are transforming every industry built with human ingenuity—from enterprise to consumer; space to energy; and from healthcare to finance.
+Our favorite products and services are now becoming more thoughtful than ever before. In doing so, they are transforming every industry built with human ingenuity—from enterprise to consumer; space to energy; and from healthcare to finance.
 
 Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
 
