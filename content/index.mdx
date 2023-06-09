@@ -8,9 +8,9 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="330"/>
 </div>
 
-Next generation products and services are becoming more thoughtful than ever before. In doing so, they are transforming every industry built with human ingenuity—from enterprise to consumer; space to energy; and from healthcare to finance.
+Prasanna leads mission driven engineering teams to build next generation products and services. As an engineer, founder and a leader, he brings the best out of people to create opportunities of a lifetime. 
 
-Prasanna is an engineer, architect, and a leader&mdash;the kind that brings out the best in people and technology to create opportunities of a lifetime.
+Prasanna views technology as the key to unlock the true potential of every industry built with human ingenuity—from enterprise to consumer; space to energy; and healthcare to finance.
 
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf) (2022)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/) (2022)
