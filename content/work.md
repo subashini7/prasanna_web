@@ -8,7 +8,7 @@ metaDescription: "Work"
 
 **[Dishcare](https://dish.care)** <br/>
 *CEO « Founder*<br/>
-AI robot to solve the most hated chore.<br/>
+AI robot to solve your most hated chore.<br/>
 San Mateo, CA <br/>
 (2021 - 2023)
 
