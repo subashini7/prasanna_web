@@ -14,7 +14,7 @@ Dishcare, 2022<br/>
 
 [Three-dimensional Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 PhD Thesis, University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
-Outstanding PhD Award [(video)](http://www.youtube.com/watch?v=FBrSS1Ya1uM)
+[Outstanding PhD Award Ceremony](http://www.youtube.com/watch?v=FBrSS1Ya1uM)
 
 [Phase Amplification in Digital Holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
 Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
@@ -35,7 +35,9 @@ GCT Coimbatore, 2004<br/>
         
 [AI for Mail Sorting](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
 Sri Rama Prasanna Pavani, S. Balaji and Thejavor Haralu Khezhie<br/>
+Best Project Award from NIT Surathkal, Thiagarajar Madurai, GCE Salem, Annamalai University and more. <br/>
 GCT Coimbatore, 2003<br/>
 
-[Steganography&mdash;hiding data in an image](https://prashub.com/prasanna/files/steganography.pdf)<br/>
+[Steganography&mdash;Hiding Data in Images](https://prashub.com/prasanna/files/steganography.pdf)<br/>
+Sri Rama Prasanna Pavani and S. Balaji<br/>
 GCT Coimbatore, 2002 
