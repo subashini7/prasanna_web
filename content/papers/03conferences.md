@@ -126,9 +126,9 @@ Sri Rama Prasanna Pavani, Ariel R. Libertun, and Carol J. Cogswell<br/>
 Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2006 **(BEST POSTER AWARD)**
 
 [A pragmatic schema of destination address interpretation for use in Indian postal system](https://prashub.com/prasanna/files/pragmaticschema.pdf) <br/>
-P. Sri Rama Prasanna, S.Balaji, Thejavor Haralu Khezhie, C.Vasanthanayaki, and S.Annadurai<br/>
+P. Sri Rama Prasanna, S.Balaji, Thejavor Haralu Khezhie, and C.Vasanthanayaki<br/>
 Technical Report, 2004.
 
 [Destination Address Interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
-P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie, C. Vasanthanayaki, and S. Annadurai<br/>
+P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie, and C. Vasanthanayaki<br/>
 IEEE Tencon 2003, Vol 2, Pages 858-862, October 2003.

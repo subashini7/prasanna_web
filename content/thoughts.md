@@ -146,11 +146,8 @@ Quantum Optics, CU Boulder, 2006
 [Optical Solitons](https://prashub.com/prasanna/files/Optical_Solitons_Presentation.pdf) <br/>
 Nonlinear / Crystal Optics, CU Boulder, 2006
 
-[Fourier Optics Class - Fall 2006](https://prashub.com/prasanna/files/fo_lecture/fourier_lecture.html) <br/>
-Fourier Optics, CU Boulder, 2006
-
 [Plenoptic Camera](https://prashub.com/prasanna/files/Plenoptic_Prasanna_Pavani_2005.pdf) <br/>
 MO-ISL Research meeting, 2005
 
-[Destination address interpretation (Neural Network for Handwriting Recognition)](https://prashub.com/prasanna/files/BE_thesis_presentation.pdf) <br/>
-Undergraduate thesis defense, GCT Coimbatore, 2003
+[AI for Mail Sorting](https://prashub.com/prasanna/files/BE_thesis_presentation.pdf) <br/>
+GCT Coimbatore, 2003
