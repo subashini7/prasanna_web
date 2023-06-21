@@ -7,7 +7,7 @@ metaDescription: "Work"
 <img style="width: 600px;margin: 0px 0px 30px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Dishcare](https://dish.care)** <br/>
-*CEO « Founder*<br/>
+*CEO*<br/>
 AI robot to knock your most hated chore.<br/>
 San Mateo, CA <br/>
 (2021 - 2023)
@@ -25,7 +25,7 @@ Palo Alto, CA <br/>
 (2019 - 2020)
 
 **[Exnodes](https://exnodes.com)** <br/>
-*CEO « Founder* <br/>
+*CEO* <br/>
 Computational inspection to maximize yield of computer chips.<br/>
 Fremont, CA <br/>
 (2014 - 2018)
@@ -37,13 +37,13 @@ Glendale, CA <br/>
 (2013 - 2014)
 
 **[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>
-*Advisory Engineer « Research Engineer* <br/>
+*Advisory Scientist « Research Scientist* <br/>
 Computational sensing to make phones & cars smarter.<br/>
 Menlo Park, CA <br/>
 (2010 - 2013) <br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/>
-*Research Engineer* <br/>
+*Research Scientist* <br/>
 Process control to maximize yield of computer chips.<br/>
 Milpitas, CA <br/>
 (2010) <br/>
@@ -56,7 +56,7 @@ Pasadena, CA <br/>
 (2009 - 2010) <br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/>
-*Omnivision Fellow « Graduate Student* <br/>
+*Omnivision Fellow* <br/>
 Computational imaging to understand our world in 3D. <br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 Boulder, CO <br/>
@@ -83,7 +83,7 @@ Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/el
 (2005)<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>
-*Senior Engineer « Software Engineer* <br/>
+*Senior Member « Member Technical Staff* <br/>
 Computational finance to correct market inefficiencies and maximize returns.<br/>
 (2003 - 2005) <br/>
 
