@@ -28,9 +28,14 @@ Nonlinear / Crystal Optics, University of Colorado, 2006<br/>
 
 [Waveguide analysis using BPM](https://prashub.com/prasanna/files/waveguide_beamprop.pdf)<br/>
 Optical Electronics, University of Colorado, 2006<br/>
+
+[Pragmatic AI for Mail Sorting](https://prashub.com/prasanna/files/pragmaticschema.pdf) <br/>
+Sri Rama Prasanna Pavani, S. Balaji, Thejavor Haralu Khezhie, and C. Vasanthanayaki<br/>
+GCT Coimbatore, 2004<br/>
         
-[Destination Address Interpretation (Neural Network for Handwriting Recognition)](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
-Undergraduate thesis, GCT Coimbatore, 2003 
+[AI for Mail Sorting](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
+Sri Rama Prasanna Pavani, S. Balaji and Thejavor Haralu Khezhie<br/>
+GCT Coimbatore, 2003<br/>
 
 [Steganography&mdash;hiding data in an image](https://prashub.com/prasanna/files/steganography.pdf)<br/>
-Undergraduate junior project, GCT Coimbatore, 2002 
+GCT Coimbatore, 2002 
