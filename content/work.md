@@ -64,7 +64,6 @@ Boulder, CO <br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/>
 *Research Scholar* <br/>
-[Moerner Lab](http://www.stanford.edu/group/moerner/) <br/>
 Computational imaging to break the diffraction limit.<br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (2014 Nobel Prize) <br/>
 Stanford, CA <br/>
