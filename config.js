@@ -38,7 +38,7 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/about/', // add trailing slash if enabled above
+      '/hello/', // add trailing slash if enabled above
       '/biography/',
       '/work/',
       '/thoughts/',

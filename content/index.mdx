@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Hello"
 metaTitle: "Prasanna Pavani"
-metaDescription: "About"
+metaDescription: "Hello"
 ---
 
 <div class="left-page">
