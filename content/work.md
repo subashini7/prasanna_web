@@ -88,7 +88,6 @@ Computational finance to correct market inefficiencies and maximize returns.<br/
 (2003 - 2005) <br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
-*Undergraduate Student* <br/>
 Neural networks to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 (1999 - 2003) <br/>
