@@ -1,7 +1,7 @@
 ---
-title: "Holographic Detector"
+title: "Target Detector"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Holographic Detector"
+metaDescription: "Target Detector"
 ---
 
 ### HoloCam: Low-power wide-field incoherent target detector
