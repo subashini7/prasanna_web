@@ -12,13 +12,10 @@ Prasanna leads mission driven engineering teams to build next generation product
 
 Prasanna views technology as the key to unlock the true potential of every industry built with human ingenuity—from enterprise to consumer; space to energy; and healthcare to finance.
 
-- [Are you learning well?](https://prashub.com/are-you-learning-well.pdf) (2022)
-- [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/) (2022)
-- [The 💡 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) (2022)
-- [The goal to aspire for](https://youtu.be/meYpEV01yHo?t=2514) (2022)
-- [Depth vs breadth of knowledge](https://youtu.be/meYpEV01yHo?t=2024) (2022)
-- [Dealing with uncertainty](https://youtu.be/meYpEV01yHo?t=1592) (2022)
-- [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) (2020)
-- [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) (2020)
-- [America’s newest citizens](https://www.linkedin.com/feed/update/urn:li:activity:6625949393176584192/) (2020)
-- [A GCT Story](https://prashub.com/A_GCT_Story_.pdf) (2019)
+- [The 💡 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
+- [Are you learning well?](https://prashub.com/are-you-learning-well.pdf)
+- [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)
+- [Insights from the 'real world'.](https://prashub.com/insights-from-the-real-world.pdf)
+- [America’s newest citizens!](https://www.youtube.com/watch?v=znHYjwFCLxc)
+- [What would I do?](https://prashub.com/what-would-I-do.pdf)
+- [A GCT story.](https://prashub.com/A_GCT_Story_.pdf)
