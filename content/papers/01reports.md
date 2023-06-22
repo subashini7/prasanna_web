@@ -14,7 +14,7 @@ Dishcare, 2022<br/>
 
 [Three-dimensional Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
-[Outstanding PhD Award Ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=2s)
+[Outstanding PhD Award Ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=5s)
 
 [Phase Amplification in Digital Holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
 Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
