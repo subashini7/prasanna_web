@@ -14,4 +14,4 @@ Prasanna was a Postdoc at Caltech and holds a PhD from the University of Colorad
 
 Prasanna's work has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, Optica Outstanding Paper Award, SPIE Science & Engineering Award, CPIA awards and the GCT Coimbatore Gold Medal.
 
-Prasanna is based in the San Francisco Bay Area and nothing fascinates him more than hearing new unproven ideas. Say hello to Prasanna at pras@prashub.com
+Prasanna is based in the San Francisco Bay Area and nothing fascinates him more than hearing new ideas. Say hello to Prasanna at pras@prashub.com
