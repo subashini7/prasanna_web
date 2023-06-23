@@ -8,8 +8,7 @@ metaDescription: "Papers"
     <iframe width="728" height="410" src="https://www.youtube.com/embed/ZFuxZd_eRew?start=5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Journals [(2300 citations)](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)**<br/>
-
+**Journals [(2300 citations)](http://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)** <br/><br/>
 [Three-Dimensional Single-Molecule Fluorescence Imaging Beyond the Diffraction Limit Using a Double-Helix Point Spread Function](http://www.pnas.org/content/106/9/2995.abstract)<br/>
 Sri Rama Prasanna Pavani, Michael A. Thompson, Julie S. Biteen, Samuel J. Lord, Na Liu, Robert J. Twieg, Rafael Piestun, and W. E. Moerner<br/>
 PNAS Vol. 106, Number 9, 2995-2999 (2009)

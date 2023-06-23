@@ -5,7 +5,7 @@ metaDescription: "Contact"
 ---
 
 
-- pavaniprasanna @ gmail
-- San Francisco Bay Area
+<img class="prasanna" src="https://prashub.com/prasanna/images/contact-prasanna-pavani.jpg" width="728px" alt="Prasanna"/>
 
-<img class="prasanna" src="https://prashub.com/prasanna/images/contact-prasanna-pavani.jpg" width="600px" alt="Prasanna"/>
+Say hello at pavaniprasanna@gmail.com. I'm always looking forward to hearing new ideas!
+
