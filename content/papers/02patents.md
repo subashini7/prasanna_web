@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-<img style="width: 750px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
+<img style="width: 728px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
 
 [Targeted Dish Cleaner](https://prashub.com/prasanna/files/US11583162B2.pdf)<br/>
 Sri Rama Prasanna Pavani<br />

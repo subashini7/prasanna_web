@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Conferences"
 ---
 
-<img style="width: 750px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/cu-lab.jpg"/>
+<img style="width: 728px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/cu-lab.jpg"/>
 
 [Target detection with a low-power holographic detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)<br/>
 Sri Rama Prasanna Pavani, Lingfei Meng, COSI, Arlington, Virginia, June 2013
