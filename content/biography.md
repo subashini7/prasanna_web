@@ -13,3 +13,5 @@ Prasanna served as the CEO of Dishcare, Head of Engineering at Osmo, Head of Dat
 Prasanna was a Postdoc at Caltech and holds a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. He studied Business at Stanford University and served as an Editor of Optica before serving as a panel member of the U.S. National Science Foundation. Prasanna's 31 patents and 45 publications have earned 2300 citations.
 
 Prasanna's work has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, Optica Outstanding Paper Award, SPIE Science & Engineering Award, CPIA awards and the GCT Coimbatore Gold Medal.
+
+Prasanna is based in the San Francisco Bay Area and nothing excites him more than hearing new ideas. Write to Prasanna at pras@prashub.com
