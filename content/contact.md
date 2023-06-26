@@ -7,5 +7,5 @@ metaDescription: "Contact"
 
 <img class="prasanna" src="https://prashub.com/prasanna/images/contact-prasanna-pavani.jpg" width="728px" alt="Prasanna"/>
 
-Prasanna is in the San Francisco Bay Area and almost nothing fascinates him as much as hearing new ideas. Say hello at pras@prashub.com
+Prasanna is generally in the San Francisco Bay Area and not many things fascinate him as much as hearing ideas over email. Say hello at pras@prashub.com
 
