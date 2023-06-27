@@ -6,6 +6,10 @@ metaDescription: "Patents"
 
 <img style="width: 728px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
 
+[Real-time Single Dish Cleaner](https://prashub.com/prasanna/files/US11684232B2.pdf)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (US11684232B2)
+
 [Targeted Dish Cleaner](https://prashub.com/prasanna/files/US11583162B2.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11583162B2)
@@ -29,10 +33,6 @@ Dishcare (17/191,695)
 [Dish Perception, Planning & Control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/202,266)
-
-[Real-time Single Dish Cleaner](https://prashub.com/prasanna/files/US-20220211243-A1_I.pdf)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (17/144,069)
 
 [Computational Wafer Image Processing](https://patents.google.com/patent/US10184901B2)<br/>
 Sri Rama Prasanna Pavani<br />
