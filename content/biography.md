@@ -14,4 +14,4 @@ Prasanna was a Postdoc at Caltech and holds a PhD from the University of Colorad
 
 Prasanna's work has been recognized by the University of Colorado Outstanding PhD Award, U.S. EB-1 Extraordinary Ability Classification, Optica Outstanding Paper Award, SPIE Science & Engineering Award, CPIA awards and the GCT Coimbatore Gold Medal.
 
-Prasanna loves hearing ideas on how he could help accelerate bold endeavors with the potential to change our world for the better. Say hello at pras@prashub.com the next time you stumble on one of those endeavors!
+Prasanna loves to hear ideas on how he could catalyze bold endeavors with the potential to make a big difference. Say hello at pras@prashub.com the next time you stumble on one of those!
