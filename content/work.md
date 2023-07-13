@@ -25,7 +25,7 @@ Palo Alto, CA <br/>
 *Head of Data Monitoring* <br/>
 AI geospatial analytics to understand our planet.<br/>
 Palo Alto, CA <br/>
-(2019 - 2020)
+(2018 - 2020)
 
 **[Exnodes](https://exnodes.com)** <br/>
 *CEO* <br/>

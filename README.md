@@ -16,3 +16,4 @@ steps
 - update src/sitemap.xml <lastmod>
 -  deploy: `aws s3 cp --recursive ~/pdata/code/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws s3 cp ~/pdata/code/prasanna_web/src/sitemap.xml s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
 - build & deploy: `npm run build && aws s3 sync ~/pdata/code/prasanna_web/public/ s3://prashub.com/prasanna/public/ && aws s3 cp ~/pdata/code/prasanna_web/src/sitemap.xml s3://prashub.com/prasanna/public/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
+-resume: `aws s3 cp ~/Downloads/prasanna.pdf s3://prashub.com/ && aws cloudfront create-invalidation --distribution-id E3L63XU4ZVC19X --paths "/*"`
