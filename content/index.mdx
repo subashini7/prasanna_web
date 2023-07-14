@@ -15,7 +15,5 @@ Prasanna views technology as the key to unlock the true potential of every indus
 - [The 💡 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)
-- [Insights from the 'real world'.](https://prashub.com/insights-from-the-real-world.pdf)
-- [America’s newest citizens!](https://www.youtube.com/watch?v=znHYjwFCLxc)
-- [What would I do?](https://prashub.com/what-would-I-do.pdf)
+- [America’s newest citizens.](https://www.youtube.com/watch?v=znHYjwFCLxc)
 - [A GCT story.](https://prashub.com/A_GCT_Story_.pdf)
