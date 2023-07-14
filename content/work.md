@@ -53,7 +53,7 @@ Milpitas, CA <br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/>
 *Postdoctoral Scholar* <br/>
-Computational sensing to replace clumsy lenses with neat algorithms.<br/>
+Computational sensing to replace clumsy optics with neat algorithms.<br/>
 Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
 Pasadena, CA <br/>
 (2009 - 2010) <br/>
