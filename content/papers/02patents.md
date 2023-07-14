@@ -6,11 +6,11 @@ metaDescription: "Patents"
 
 <img style="width: 728px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
 
-[Real-time Single Dish Cleaner](https://prashub.com/prasanna/files/US11684232B2.pdf)<br/>
+[Real-time Single Dish Cleaner](https://patents.google.com/patent/US11684232B2)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11684232B2)
 
-[Targeted Dish Cleaner](https://prashub.com/prasanna/files/US11583162B2.pdf)<br/>
+[Targeted Dish Cleaner](https://patents.google.com/patent/US11583162B2)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11583162B2)
 
