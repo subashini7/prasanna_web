@@ -11,7 +11,7 @@ metaDescription: "Work"
 
 **[Dishcare](https://dish.care)** <br/>
 *CEO*<br/>
-AI robot to knock your most hated chore.<br/>
+AI robot knocks our most hated chore.<br/>
 San Mateo, CA <br/>
 (2021 - 2023)
 
