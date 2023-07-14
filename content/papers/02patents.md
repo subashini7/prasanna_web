@@ -14,6 +14,10 @@ Dishcare (US11684232B2)
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11583162B2)
 
+[Dish Handling Robot](https://prashub.com/prasanna/files/US-20220281118-A1_I.pdf)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (Allowed: 17/191,695)
+
 [Rolling Grasp End Effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
@@ -25,10 +29,6 @@ Dishcare (17/687,332)
 [Dish Cleaning by Dirt Targeting](https://prashub.com/prasanna/files/US-20220304546-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/211,860)
-
-[Dish Handling Robot](https://prashub.com/prasanna/files/US-20220281118-A1_I.pdf)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (17/191,695)
 
 [Dish Perception, Planning & Control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
