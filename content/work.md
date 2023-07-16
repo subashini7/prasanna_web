@@ -85,7 +85,7 @@ Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/el
 (2005)<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>
-*Senior Member « Member Technical Staff* <br/>
+*Senior Member « Member of Technical Staff* <br/>
 Computational finance corrects market inefficiencies and maximizes returns.<br/>
 (2003 - 2005) <br/>
 
