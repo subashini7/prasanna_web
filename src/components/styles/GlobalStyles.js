@@ -562,7 +562,7 @@ export const baseStyles = css`
   }
 
   .addPaddTopBottom {
-    padding: 50px 0;
+    padding: 5px 0px 0px 0px;
   }
 
   .preRightWrapper {

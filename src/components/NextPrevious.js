@@ -46,6 +46,8 @@ const NextPrevious = ({ mdx, nav }) => {
       previousInfo.title = nav[currentIndex - 1].title;
     }
   }
+  previousInfo.url = null;
+  previousInfo.title = null;
 
   return (
     <StyledNextPrevious>
