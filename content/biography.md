@@ -5,7 +5,7 @@ metaDescription: "Biography"
 ---
 
 
-<img style="width: 728px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
+<img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 
 Prasanna served as the CEO of Dishcare, Head of Engineering at Osmo, Head of Data Monitoring at Orbital, CEO of Exnodes, VP Engineering at Arecont and has held senior roles at Ricoh Innovations, KLA and D. E. Shaw.
