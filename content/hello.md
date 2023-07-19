@@ -5,7 +5,7 @@ metaDescription: "Hello"
 ---
 
 <div class="left-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="400"/>
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
 </div>
 
 Prasanna leads mission driven teams to scale next generation products. As an engineer, founder and a leader, he brings the best out of people and technology to create opportunities of a lifetime. 
