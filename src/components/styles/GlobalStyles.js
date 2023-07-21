@@ -275,7 +275,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #033323;
+    background-color: #000000;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
