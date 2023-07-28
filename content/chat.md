@@ -1,10 +1,10 @@
 ---
-title: "Ask"
+title: "Chat"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Ask"
+metaDescription: "Chat"
 ---
 
 
 <img class="prasanna" src="https://prashub.com/prasanna/images/contact-prasanna-pavani.jpg" width="800px" alt="Prasanna"/>
 
-It's pras@prashub.com. Oh, the photo. That is one of Prasanna's memorable spaces. Ask him why!
+It's pras@prashub.com. What are you building?

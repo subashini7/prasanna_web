@@ -9,7 +9,7 @@ metaDescription: "Work"
 
 </div>
 
-**[Dishcare](https://dish.care)** <br/> CEO<br/>
+**[Dishcare](https://dish.care)** <br/> Founder<br/>
 AI robot to knock our most hated chore.<br/>
 San Mateo<br/>
 2021 - 2023
@@ -24,7 +24,7 @@ AI geospatial analytics to understand our planet.<br/>
 Palo Alto<br/>
 2018 - 2020
 
-**[Exnodes](https://exnodes.com)** <br/> CEO <br/>
+**[Exnodes](https://exnodes.com)** <br/> Founder <br/>
 Computational inspection to maximize yield of computer chips.<br/>
 Fremont<br/>
 2014 - 2018

@@ -45,7 +45,7 @@ const config = {
       '/papers/',
       '/research/',
       // '/tweets',
-      '/ask/'
+      '/chat/'
     ],
     collapsedNav: [
       '/papers/', // add trailing slash if enabled above
