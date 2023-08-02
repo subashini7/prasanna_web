@@ -10,27 +10,27 @@ metaDescription: "Work"
 </div>
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
-[AI robot to knock our most hated chore.](https://youtu.be/gbeeefx6lt0)<br/>
+AI robot to knock our most hated chore.<br/>
 San Mateo<br/>
 2021 - 2023
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
-[AI games to make learning fun for kids.](https://youtu.be/4Uz6rQv6hF8)<br/>
+AI games to make learning fun for kids.<br/>
 Palo Alto <br/>
 2020 - 2021
 
 **[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Content Infra « Head of Data Monitoring<br/>
-[AI geospatial analytics to understand our planet.](https://vimeo.com/364357828)<br/>
+AI geospatial analytics to understand our planet.<br/>
 Palo Alto<br/>
 2018 - 2020
 
 **[Exnodes](https://exnodes.com)** <br/>CEO « Founder<br/>
-[Computational inspection to maximize yield of computer chips.](https://youtu.be/KWEix_U86nE)<br/>
+Computational inspection to maximize yield of computer chips.<br/>
 Fremont<br/>
 2014 - 2018
 
 **[Arecont Vision](http://www.arecontvision.com/)** <br/>VP Engineering « Director « Principal Architect<br/>
-[Streaming security video to keep our world safe.](https://youtu.be/yq6X6Yqn5gQ)<br/>
+Streaming security video to keep our world safe.<br/>
 Glendale<br/>
 2013 - 2014
 
@@ -40,27 +40,27 @@ Menlo Park<br/>
 2010 - 2013<br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/> Research Scientist <br/>
-[Process control to maximize yield of computer chips.](https://youtu.be/Ob29oWhsAQk)<br/>
+Process control to maximize yield of computer chips.<br/>
 Milpitas<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Scholar <br/>
-Computational sensing to replace bulky optics with neat algorithms.<br/>
+Computational imagers to replace optics with algorithms.<br/>
 Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow <br/>
-Computational imaging to understand our world in 3D. <br/>
+Double-Helix PSF to resolve the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Research Scholar <br/>
-[Superresolution imaging to resolve the nanoscale.](https://youtu.be/kEEF_F9Gz80)<br/>
+3D superresolution imaging beyond the diffraction limit.<br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize in 2014) <br/>
 2008<br/>
 
 **[Omnivision](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
-[Computational imaging to see more and blur less.](https://youtu.be/Rw3T9DJXwos)<br/>
+Computational imaging to see more and blur less.<br/>
 Boulder<br/>
 2006, 2007 <br/>
 
@@ -70,7 +70,7 @@ Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/el
 2005<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Member « Member of Technical Staff<br/>
-Computational finance to correct market inefficiencies and maximize returns.<br/>
+Computational finance to correct market inefficiencies & maximize returns.<br/>
 2003 - 2005<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
