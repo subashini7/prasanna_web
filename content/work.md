@@ -10,27 +10,27 @@ metaDescription: "Work"
 </div>
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
-AI robot to knock our most hated chore.<br/>
+[AI robot to knock our most hated chore.](https://youtu.be/gbeeefx6lt0)<br/>
 San Mateo<br/>
 2021 - 2023
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
-AI games to make learning fun for kids.<br/>
+[AI games to make learning fun for kids.](https://youtu.be/4Uz6rQv6hF8)<br/>
 Palo Alto <br/>
 2020 - 2021
 
 **[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Content Infra « Head of Data Monitoring<br/>
-AI geospatial analytics to understand our planet.<br/>
+[AI geospatial analytics to understand our planet.](https://vimeo.com/364357828)<br/>
 Palo Alto<br/>
 2018 - 2020
 
 **[Exnodes](https://exnodes.com)** <br/>CEO « Founder<br/>
-Computational inspection to maximize yield of computer chips.<br/>
+[Computational inspection to maximize yield of computer chips.](https://youtu.be/KWEix_U86nE)<br/>
 Fremont<br/>
 2014 - 2018
 
 **[Arecont Vision](http://www.arecontvision.com/)** <br/>VP Engineering « Director « Principal Architect<br/>
-Streaming security video to keep our world safe.<br/>
+[Streaming security video to keep our world safe.](https://youtu.be/yq6X6Yqn5gQ)<br/>
 Glendale<br/>
 2013 - 2014
 
