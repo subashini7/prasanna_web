@@ -55,7 +55,7 @@ Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); C
 2005 - 2009<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Research Scholar <br/>
-Computational imaging to break the diffraction limit.<br/>
+Superresolution imaging to resolve the nanoscale.<br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize in 2014) <br/>
 2008<br/>
 
