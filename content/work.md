@@ -11,37 +11,30 @@ metaDescription: "Work"
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
 AI robot to knock our most hated chore.<br/>
-San Mateo<br/>
 2021 - 2023
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
 AI games to make learning fun for kids.<br/>
-Palo Alto <br/>
 2020 - 2021
 
 **[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Content Infra « Head of Data Monitoring<br/>
 AI geospatial analytics to understand our planet.<br/>
-Palo Alto<br/>
 2018 - 2020
 
 **[Exnodes](https://exnodes.com)** <br/>CEO « Founder<br/>
 Computational inspection to maximize yield of computer chips.<br/>
-Fremont<br/>
 2014 - 2018
 
 **[Arecont Vision](http://www.arecontvision.com/)** <br/>VP Engineering « Director « Principal Architect<br/>
 Streaming security video to keep our world safe.<br/>
-Glendale<br/>
 2013 - 2014
 
 **[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>Advisory Scientist « Research Scientist<br/>
 Computational sensing to make phones & cars smarter.<br/>
-Menlo Park<br/>
 2010 - 2013<br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/> Research Scientist <br/>
 Process control to maximize yield of computer chips.<br/>
-Milpitas<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Scholar <br/>
@@ -61,8 +54,7 @@ Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/
 
 **[Omnivision](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
 Computational imaging to see more and blur less.<br/>
-Boulder<br/>
-2006, 2007 <br/>
+2006 - 2007 <br/>
 
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/> Research Scholar <br/>
 Computer vision to extract information from images.<br/>
