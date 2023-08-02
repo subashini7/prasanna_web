@@ -40,7 +40,7 @@ Menlo Park<br/>
 2010 - 2013<br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/> Research Scientist <br/>
-Process control to maximize yield of computer chips.<br/>
+[Process control to maximize yield of computer chips.](https://youtu.be/Ob29oWhsAQk)<br/>
 Milpitas<br/>
 2010<br/>
 
@@ -55,12 +55,12 @@ Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); C
 2005 - 2009<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Research Scholar <br/>
-Superresolution imaging to resolve the nanoscale.<br/>
+[Superresolution imaging to resolve the nanoscale.](https://youtu.be/kEEF_F9Gz80)<br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize in 2014) <br/>
 2008<br/>
 
 **[Omnivision](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
-Computational imaging to see more and blur less.<br/>
+[Computational imaging to see more and blur less.](https://youtu.be/Rw3T9DJXwos)<br/>
 Boulder<br/>
 2006, 2007 <br/>
 
