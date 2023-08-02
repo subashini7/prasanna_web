@@ -9,32 +9,32 @@ metaDescription: "Work"
 
 </div>
 
-**[Dishcare](https://dish.care)** <br/> Founder<br/>
+**[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
 AI robot to knock our most hated chore.<br/>
 San Mateo<br/>
 2021 - 2023
 
-**[Osmo](https://www.playosmo.com/en/)** <br/> Head of Engineering <br/>
+**[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
 AI games to make learning fun for kids.<br/>
 Palo Alto <br/>
 2020 - 2021
 
-**[Orbital Insight](https://orbitalinsight.com/)** <br/> Head of Data Monitoring<br/>
+**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Content Infra « Head of Data Monitoring<br/>
 AI geospatial analytics to understand our planet.<br/>
 Palo Alto<br/>
 2018 - 2020
 
-**[Exnodes](https://exnodes.com)** <br/> Founder <br/>
+**[Exnodes](https://exnodes.com)** <br/>CEO « Founder<br/>
 Computational inspection to maximize yield of computer chips.<br/>
 Fremont<br/>
 2014 - 2018
 
-**[Arecont Vision](http://www.arecontvision.com/)** <br/> Vice President of Engineering<br/>
+**[Arecont Vision](http://www.arecontvision.com/)** <br/>VP Engineering « Director « Principal Architect<br/>
 Streaming security video to keep our world safe.<br/>
 Glendale<br/>
 2013 - 2014
 
-**[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/> Advisory Research Scientist <br/>
+**[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>Advisory Scientist « Research Scientist<br/>
 Computational sensing to make phones & cars smarter.<br/>
 Menlo Park<br/>
 2010 - 2013<br/>
@@ -69,7 +69,7 @@ Computer vision to extract information from images.<br/>
 Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
 2005<br/>
 
-**[D. E. Shaw](http://www.deshaw.com/)** <br/> Senior Member of Technical Staff <br/>
+**[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Member « Member of Technical Staff<br/>
 Computational finance to correct market inefficiencies and maximize returns.<br/>
 2003 - 2005<br/>
 
