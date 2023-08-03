@@ -8,7 +8,7 @@ metaDescription: "Hello"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
 </div>
 
-Prasanna leads mission driven teams to build next generation products. As an engineer, architect and a founder, he brings the best out of people and technology to create opportunities of a lifetime. 
+Prasanna leads mission driven teams to build next generation products. As a founder, architect and an engineer, he brings the best out of people and technology to create opportunities of a lifetime. 
 
 Prasanna views technology as the key to unlock the true potential of every industry built with human ingenuity—from enterprise to consumer; space to energy; and healthcare to finance.
 
