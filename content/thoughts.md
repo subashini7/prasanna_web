@@ -75,7 +75,8 @@ OSA COSI, Monterey CA, June 2012
 
 [A COSI Career](https://prashub.com/prasanna/files/A_COSI_Career.pdf) <br/>
 Industrial Advisory Board (NSF IGERT)
-Breckenridge CO, March 2012 **(Keynote)**
+Breckenridge CO, March 2012 <br/>
+**(KEYNOTE)**
  
 [Computational Optics at Ricoh Innovations]() <br/>
 Osaka University, Japan, October 2011 **(Invited)**
