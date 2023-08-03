@@ -57,7 +57,8 @@ OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct. 2009
 
 [Three-Dimensional Superresolution Using Single-Molecule Photoswitches and a Double-Helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD1)<br/>
 W. E. Moerner, Michael Thompson, Matthew Lew, Majid Badieirostami, Samuel J. Lord, Nicholas R. Conley, Hsiao-lu D. Lee, Sri Rama Prasanna Pavani, and Rafael Piestun <br/>
-OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct.2009&nbsp; **(INVITED)**
+OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct.2009&nbsp; <br/>
+**(INVITED)**
 
 [Three-Dimensional Super-resolution Single-Molecule Fluorescence Imaging Using a Double-Helix Point Spread Function](http://www.opticsinfobase.org/abstract.cfm?URI=IQEC-2009-IMG3)<br/>
 Michael A. Thompson&#10013;, Julie S. Biteen, and W. E. Moerner (Stanford Univ.)<br/>
@@ -79,7 +80,8 @@ Focus on Microscopy, Krakow, Poland, April 2009
 
 [3D microscopy with double-helix point spread functions](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7184/71840I/3D-microscopy-with-a-double-helix-point-spread-function/10.1117/12.816585.short) <br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
-SPIE Photonics West (BIOS), San Jose, USA, Jan. 2009 **(INVITED)**
+SPIE Photonics West (BIOS), San Jose, USA, Jan. 2009 <br/>
+**(INVITED)**
 
 [3D tracking with nanometer accuracies using a double-helix PSF]()<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
@@ -92,7 +94,8 @@ Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2008
 
 [3D localization of fluorescent microparticles using a rotating point spread function](http://www.opticsinfobase.org/abstract.cfm?uri=FiO-2008-FWT3)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
-OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 **(OUTSTANDING PAPER AWARD)**
+OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 <br/>
+**(OUTSTANDING PAPER AWARD)**
 
 [Passive 3D imaging with quasi-rotating PSFs](http://www.opticsinfobase.org/abstract.cfm?URI=DH-2008-DMA2)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
@@ -125,7 +128,8 @@ OSA Computational Optical Sensing and Imaging (COSI), Vancouver, Canada, June 20
 
 [Structured-Illumination Quantitative Phase Imaging](https://prashub.com/prasanna/files/cpia_web.pdf)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun, and Carol J. Cogswell<br/>
-Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2006 **(BEST POSTER AWARD)**
+Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2006 <br/>
+**(BEST POSTER AWARD)**
 
 [Destination Address Interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
 P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie, and C. Vasanthanayaki<br/>
