@@ -79,7 +79,8 @@ Breckenridge CO, March 2012 <br/>
 **(KEYNOTE)**
  
 [Computational Optics at Ricoh Innovations]() <br/>
-Osaka University, Japan, October 2011 **(Invited)**
+Osaka University, Japan, October 2011 <br/>
+**(INVITED)**
 
 [powerRoad: Harnessing Clean Energy from Roads](https://prashub.com/prasanna/files/powerRoad.pdf) <br/>
 Stanford University Graduate School of Business, August 2011
@@ -92,7 +93,8 @@ COSI 2011, Toronto - Canada, July 2011
 
 [3D Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 MIT, Colorado, Caltech, Princeton, Yale, NIST, Intel, Ricoh Innovations, KLA-Tencor, RealD
-(2009 - 2013) **(Invited)**
+(2009 - 2013) <br/>
+**(INVITED)**
 
 [3D Superlocalization with Double-Helix Microscopes](https://prashub.com/prasanna/files/Pavani_Piestun_FiO2009.ppt) <br/>
 OSA Frontiers in Optics (FiO), San Jose, USA, Oct. 2009
