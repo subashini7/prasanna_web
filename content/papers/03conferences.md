@@ -61,9 +61,9 @@ OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct.2009&nbsp; <br
 **(INVITED)**
 
 [Three-Dimensional Super-resolution Single-Molecule Fluorescence Imaging Using a Double-Helix Point Spread Function](http://www.opticsinfobase.org/abstract.cfm?URI=IQEC-2009-IMG3)<br/>
-Michael A. Thompson&#10013;, Julie S. Biteen, and W. E. Moerner (Stanford Univ.)<br/>
-Sri Rama Prasanna Pavani&#10013; and Rafael Piestun (Univ. of Colorado)<br/>
-&#10013; Equal contributions. OSA International Quantum Electronics Conference (IQEC), Baltimore, USA, June 2009
+Sri Rama Prasanna Pavani and Rafael Piestun (Univ. of Colorado)<br/>
+Michael A. Thompson, Julie S. Biteen, and W. E. Moerner (Stanford Univ.)<br/>
+OSA International Quantum Electronics Conference (IQEC), Baltimore, USA, June 2009
 
 [3D fluorescent particle tracking with nanometer scale accuracies using a double-helix point spread function](http://www.opticsinfobase.org/abstract.cfm?URI=CLEO-2009-CTuAA7)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
