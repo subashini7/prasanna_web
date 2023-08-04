@@ -11,7 +11,7 @@ metaDescription: "Career"
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
 AI robot to knock our most hated chore.<br/>
-2021 - 2023
+2021 - Present
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
 AI games to make learning fun for kids.<br/>
