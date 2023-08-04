@@ -1,7 +1,7 @@
 ---
-title: "Work"
+title: "Career"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Work"
+metaDescription: "Career"
 ---
 <div class="video-container">
 

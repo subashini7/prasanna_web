@@ -39,17 +39,17 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/hello/', // add trailing slash if enabled above
-      '/biography/',
-      '/work/',
+      '/profile/',
+      '/career/',
       '/thoughts/',
-      '/papers/',
-      '/research/',
+      '/publications/',
+      '/breakthroughs/',
       // '/tweets',
       '/chat/'
     ],
     collapsedNav: [
-      '/papers/', // add trailing slash if enabled above
-      '/research/',
+      '/publications/', // add trailing slash if enabled above
+      '/breakthroughs/',
     ],
     links: [{ text: '', link: '' }],
     frontline: false,

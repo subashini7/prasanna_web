@@ -1,7 +1,7 @@
 ---
-title: "Papers"
+title: "Publications"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Papers"
+metaDescription: "Publications"
 ---
 
 <div class="video-container">
