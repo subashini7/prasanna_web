@@ -42,13 +42,13 @@ const config = {
       '/about/',
       '/work/',
       '/talks/',
-      '/publications/',
+      '/papers/',
       '/breakthroughs/',
       // '/tweets',
       '/chat/'
     ],
     collapsedNav: [
-      '/publications/', // add trailing slash if enabled above
+      '/papers/', // add trailing slash if enabled above
       '/breakthroughs/',
     ],
     links: [{ text: '', link: '' }],

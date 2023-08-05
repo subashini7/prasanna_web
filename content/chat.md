@@ -1,7 +1,7 @@
 ---
-title: "Get In Touch"
+title: "Contact"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Get In Touch"
+metaDescription: "Contact"
 ---
 
 
