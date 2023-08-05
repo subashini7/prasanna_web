@@ -1,7 +1,7 @@
 ---
-title: "Thoughts"
+title: "Talks"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Thoughts"
+metaDescription: "Talks"
 ---
 <div class="video-container">
     <iframe width="728" height="410" src="https://www.youtube.com/embed/yq6X6Yqn5gQ?start=5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

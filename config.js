@@ -39,9 +39,9 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/hello/', // add trailing slash if enabled above
-      '/profile/',
+      '/about/',
       '/work/',
-      '/thoughts/',
+      '/talks/',
       '/publications/',
       '/breakthroughs/',
       // '/tweets',

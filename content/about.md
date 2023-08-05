@@ -1,7 +1,7 @@
 ---
-title: "Profile"
+title: "About"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Profile"
+metaDescription: "About"
 ---
 
 
