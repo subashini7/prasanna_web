@@ -12,7 +12,7 @@ Prasanna leads mission driven teams to build next generation products. As a foun
 
 Prasanna views technology as the key to unlock the true potential of every industry built with human ingenuity—from enterprise to consumer; space to energy; and healthcare to finance.
 
-- [The 💡 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
+- [The 💥 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)
 - [America’s new citizens.](https://www.youtube.com/watch?v=znHYjwFCLxc)

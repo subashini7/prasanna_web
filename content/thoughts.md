@@ -25,7 +25,7 @@ Dishcare, 2022
 [Heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) <br/>
 Dishcare, 2022
 
-[The 💡 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>
+[The 💥 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>
 University of Colorado, 2022
 
 [The goal to aspire for](https://youtu.be/meYpEV01yHo?t=2514) <br/>
