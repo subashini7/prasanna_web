@@ -40,7 +40,7 @@ const config = {
     forcedNavOrder: [
       '/hello/', // add trailing slash if enabled above
       '/profile/',
-      '/career/',
+      '/work/',
       '/thoughts/',
       '/publications/',
       '/breakthroughs/',
