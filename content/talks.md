@@ -106,7 +106,8 @@ OSA Conference on Lasers and Electro-Optics (CLEO), Baltimore, USA, June 2009
 OSA Novel Techniques in Microscopy, Vancouver, Canada, April 2009
 
 [3D Localization of Fluorescent Microparticles using a Rotating PSF](https://prashub.com/prasanna/files/Pavani_CU_Boulder_FiO_08_FWT3_2.ppt) <br/>
-OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 **(OUTSTANDING PAPER AWARD)**
+OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 <br/>
+**(OUTSTANDING PAPER AWARD)**
 
 [Passive 3D Imaging with Quasi-rotating PSFs]() <br/>
 OSA Digital holography and 3D imaging, St. Petersburg, USA, Mar. 2008
