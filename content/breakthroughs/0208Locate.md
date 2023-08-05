@@ -17,5 +17,5 @@ single-image sub-nanometer accuracies.
 
 
 <div class="center">
-    <img src="https://prashub.com/prasanna/images/detector_limited_dhpsf.jpg" width="504px" height="203px" />
+    <img src="https://prashub.com/prasanna/images/detector_limited_dhpsf.jpg" width="504px" />
 </div>

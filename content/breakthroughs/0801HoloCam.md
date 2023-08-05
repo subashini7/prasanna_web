@@ -22,5 +22,5 @@ correlation with a novel single-pixel spot/blur classifier and achieves
 low-power high-speed target detection with a wide field-of-view in room light. 
 [See [COSI 2012](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5), [COSI 2013](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)]
 <div class="center">      
-<img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" height="274" />
+<img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" />
 </div>

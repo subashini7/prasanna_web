@@ -11,5 +11,5 @@ The Double-helix point spread function is an engineered PSF specifically designe
 *Optics Express Top Downloads* (March 2008)
     
 <div class="center">
-        <img src="https://prashub.com/prasanna/images/mask_modes_web.bmp" width="480" height="183" alt="Mask Modes Web"/>
+        <img src="https://prashub.com/prasanna/images/mask_modes_web.bmp" width="480" alt="Mask Modes Web"/>
 </div>

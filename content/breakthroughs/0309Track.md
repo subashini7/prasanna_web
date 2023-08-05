@@ -13,5 +13,5 @@ Awards:
     *Best poster* (Colo. Phot. Industry Assoc., 2008)
 
 <div class="center">
-        <img  src="https://prashub.com/prasanna/images/3d_tracking_web.jpg" width="500" height="179" alt="3d Tracking Web"/>
+        <img  src="https://prashub.com/prasanna/images/3d_tracking_web.jpg" width="500" alt="3d Tracking Web"/>
 </div>
