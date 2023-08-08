@@ -8,7 +8,7 @@ metaDescription: "Hello"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
 </div>
 
-Prasanna leads mission driven teams to build next generation products. As a founder, architect and an engineer, he brings the best out of people and technology to solve real problems. 
+Prasanna works in mission driven teams to build next generation products. As a founder, architect and an engineer, he brings the best out of people and technology to solve real problems. 
 
 - [The 💥 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf)
