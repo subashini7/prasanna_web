@@ -287,7 +287,7 @@ export const baseStyles = css`
     -moz-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.8);
     -o-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
     z-index: 1;
-    padding: 50px;
+    padding: 40px;
     padding-left: 15px;
     position: relative;
     height: 80px;
