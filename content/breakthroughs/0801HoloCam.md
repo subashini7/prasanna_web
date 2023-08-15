@@ -20,10 +20,10 @@ arrays and image processing. Our device, called as HoloCam, combines a computer
 generated target hologram and a large-area detector to leverage optical 
 correlation with a novel single-pixel spot/blur classifier and achieves 
 low-power high-speed target detection with a wide field-of-view in room light. 
-[See [COSI 2012](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5), [COSI 2013](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)]
+[See [COSI 2012](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5), [COSI 2013](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3), [US9245445B2](https://patents.google.com/patent/US9245445B2)]
 
 <div class="center">      
 <img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" />
 </div>
 
-Free for both personal and commercial use. Patent expired ([US9245445B2](https://patents.google.com/patent/US9245445B2)).
+Free for both personal and commercial use.
