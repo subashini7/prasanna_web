@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Target Detector"
 ---
 
-### HoloCam: Low-power wide-field incoherent target detector
+### HoloCam: Low power target detector
 
       
 State of the art target detection approaches typically use cameras 

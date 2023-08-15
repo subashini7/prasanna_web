@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Deep Optofluidics"
 ---
 
-### High-resolution Extended-depth Wide-field (HEW) imaging
+### High resolution, extended depth & wide field imaging
 
       
 Resolution, field of view, and depth of field are tightly 

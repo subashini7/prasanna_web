@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "3D Localization"
 ---
 
-### 3D position localization in detector-limited systems
+### 3D position localization
 
 3D point-spread functions can be shaped to
 increase accuracies over a 3D volume. In the

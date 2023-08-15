@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Liquid Drop Lenses"
 ---
 
-### Liquid Drop Lenses for Miniature Sensors
+### Liquid drop lenses for miniature sensors
 
       
 We introduce a lens fabrication method for computational imagers with on-contact dispensing of high-viscous UV curable epoxies on planar substrates. 

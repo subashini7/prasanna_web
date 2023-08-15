@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "3D Optofluidics"
 ---
 
-### 3D Optofluidic Microscopy (OFM)
+### 3D optofluidic microscopy
 
       
 Optofluidic microscopes, by virtue of being lens-less and 
