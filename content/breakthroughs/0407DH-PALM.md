@@ -21,3 +21,5 @@ News: [Nature Methods](http://www.nature.com/nmeth/journal/v6/n4/full/nmeth0409-
 <div class="center">
 <img src="https://prashub.com/prasanna/images/dhpsf_superresolution_web.jpg" width="354px" />
 </div>
+
+Commercialized by [Double Helix Optics](https://www.doublehelixoptics.com/).

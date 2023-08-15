@@ -9,9 +9,11 @@ We demonstrate three-dimensional tracking of fluorescent microparticles with a d
 
 
 Awards:
-    *Outstanding paper* (OSA FiO, 2008);
+    *Outstanding paper* (Optica FiO, 2008);
     *Best poster* (CPIA, 2008)
 
 <div class="center">
         <img  src="https://prashub.com/prasanna/images/3d_tracking_web.jpg" width="500" alt="3d Tracking Web"/>
 </div>
+
+Commercialized by [Double Helix Optics](https://www.doublehelixoptics.com/).

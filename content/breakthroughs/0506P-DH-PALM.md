@@ -24,3 +24,5 @@ single polarization channel system. [See *[Opt. Exp. 17, 19644 (2009)](http://ww
 		<img src="https://prashub.com/prasanna/images/PDHPALM2.jpg" width="461" />
 </div>
 
+Commercialized by [Double Helix Optics](https://www.doublehelixoptics.com/).
+
