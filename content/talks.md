@@ -124,7 +124,6 @@ SPIE Photonics West (BIOS), San Jose, USA, Jan. 2008
 [Quantitative Phase Imaging with a Bright Field Microscope](https://prashub.com/prasanna/files/FiO_2007_strIllum_talk.ppt) <br/>
 OSA Frontiers in Optics (FiO), San Jose, Sept. 2007 
 
-
 [Efficient Rotating PSFs for 3D Imaging](https://prashub.com/prasanna/files/FiO_2007_rotPSF_talk.ppt) <br/>
 OSA Frontiers in Optics (FiO), San Jose, Sept. 2007 
 
@@ -145,7 +144,6 @@ Wavelets and Imaging, CU Boulder, 2006
 
 [Quantum Error Correction](https://prashub.com/prasanna/files/Quantum_Error_Correction.pdf) <br/>
 Quantum Optics, CU Boulder, 2006
-
 
 [Optical Solitons](https://prashub.com/prasanna/files/Optical_Solitons_Presentation.pdf) <br/>
 Nonlinear / Crystal Optics, CU Boulder, 2006

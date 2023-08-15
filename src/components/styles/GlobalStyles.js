@@ -112,6 +112,10 @@ export const baseStyles = css`
     margin-bottom: -4px;
   }
 
+  .av2 {
+    margin-bottom: -20px;
+  }
+
   .navBarULRight {
     /* position: absolute;
   right: 30px; */

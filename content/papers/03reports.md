@@ -12,6 +12,10 @@ Dishcare, 2022<br/>
 Sri Rama Prasanna Pavani, Pratik Chawla, and Anurag Agrawal<br/>
 Dishcare, 2022<br/>
 
+[STELLAR: Redefining Possibilities in Low Light Imaging](https://prashub.com/prasanna/files/STELLAR.pdf)<br/>
+Sri Rama Prasanna Pavani<br/>
+Arecont Vision, 2014<br/>
+
 [Three-dimensional Nanoscopy with a Double-helix Microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 [Outstanding PhD Award Ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=5s)
