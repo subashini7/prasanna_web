@@ -26,4 +26,4 @@ low-power high-speed target detection with a wide field-of-view in room light.
 <img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" />
 </div>
 
-Free for both personal and commercial use.
+Free for personal and commercial use.

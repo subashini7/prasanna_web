@@ -116,6 +116,10 @@ export const baseStyles = css`
     margin-bottom: -20px;
   }
 
+  .dishcare {
+    margin-top: -35px;
+  }
+
   .navBarULRight {
     /* position: absolute;
   right: 30px; */

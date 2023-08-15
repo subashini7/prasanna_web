@@ -20,6 +20,8 @@ position information from the two channels can be optimally combined to
 yield up to 30% improvement in localization precision relative to a 
 single polarization channel system. [Opt. Exp. 17, 19644 (2009)](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644). 
 
+
+
 <div class="center">
 		<img src="https://prashub.com/prasanna/images/PDHPALM2.jpg" width="461" />
 </div>

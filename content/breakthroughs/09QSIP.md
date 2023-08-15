@@ -17,12 +17,11 @@ path length (OPL) profile, and the distorted pattern is recorded in a
 CCD detector. A digital processing algorithm then estimates the object's 
 quantitative OPL profile based on a closed form analytical solution, 
 which is derived using a ray optics model for objects with small OPL 
-gradients. [Appl. Opt. 47, 15 (2008)](http://ao.osa.org/abstract.cfm?id=148611) and [Proc. SPIE 6861, 686105 (2008)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6861/686105/QSIP--phase-imaging-made-possible-in-a-bright-field/10.1117/12.762131.short).
+gradients. [Appl. Opt. 47, 15 (2008)](http://ao.osa.org/abstract.cfm?id=148611) and [Proc. SPIE 6861, 686105 (2008)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6861/686105/QSIP--phase-imaging-made-possible-in-a-bright-field/10.1117/12.762131.short), *Best poster* (CPIA, 2006).
 
-Award: *Best poster* (CPIA, 2006)
-        
+
 <div class="center">
         <img src="https://prashub.com/prasanna/images/qsip_web.jpg" alt="QSIP Web" width="450"/>
 </div>
 
-Free for both personal and commercial use.
+Free for personal and commercial use.

@@ -13,8 +13,9 @@ At equilibrium, the natural balancing of forces acting on the surface of the epo
 We fabricate lenses with various diameters and focal lengths by controlling the volume of epoxy dispensed on the substrate. Further, we present a model describing the shape of a liquid drop where aspheric coefficients up to 8th order can be calculated knowing only the radius of the lens. 
 We import our model into Zemax to simulate the lens properties, including the influence of gravity in reducing spherical aberration. [COSI 2013](http://www.opticsinfobase.org/abstract.cfm?URI=ISA-2013-JTu4A.21), [US9851475B2](https://patents.google.com/patent/US9851475B2).
 
+
 <div class="center">           
 <img src="https://prashub.com/prasanna/images/LDL.jpg" width="424" />
 </div>
 
-Free for both personal and commercial use.
+Free for personal and commercial use.
