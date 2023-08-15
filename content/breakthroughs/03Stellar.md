@@ -16,7 +16,6 @@ Video at low light levels is plagued by darkness, noise and motion blur. Here we
 
 
 <div>
-        <br/><br/>
         Order this product from <a href="https://www.arecontvision.com/"><img class="av2" src="https://prashub.com/prasanna/images/av2.jpg" width="120"/></a>
         <br/><br/>
         
