@@ -22,4 +22,9 @@ News: [Nature Methods](http://www.nature.com/nmeth/journal/v6/n4/full/nmeth0409-
 <img src="https://prashub.com/prasanna/images/dhpsf_superresolution_web.jpg" width="354px" />
 </div>
 
-Order this product from [Double Helix Optics](https://www.doublehelixoptics.com/).
+<div>
+        <br/>
+        Order this product from <a href="https://www.doublehelixoptics.com/"><img class="dho"src="https://prashub.com/prasanna/images/dho.png" width="120"/></a>
+        <br/><br/><br/>
+        
+</div>

@@ -21,4 +21,9 @@ single-image sub-nanometer accuracies.
     <img src="https://prashub.com/prasanna/images/detector_limited_dhpsf.jpg" width="504px" />
 </div>
 
-Order this product from [Double Helix Optics](https://www.doublehelixoptics.com/).
+<div>
+        <br/>
+        Order this product from <a href="https://www.doublehelixoptics.com/"><img class="dho"src="https://prashub.com/prasanna/images/dho.png" width="120"/></a>
+        <br/><br/><br/>
+        
+</div>

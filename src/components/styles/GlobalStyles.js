@@ -108,6 +108,10 @@ export const baseStyles = css`
     margin: 0 15px;
     border-right: 1px solid rgba(255, 255, 255, 0.3);
   }
+  .dho {
+    margin-bottom: -4px;
+  }
+
   .navBarULRight {
     /* position: absolute;
   right: 30px; */
@@ -406,6 +410,8 @@ export const baseStyles = css`
   .sidebarTitle a {
     color: #001934;
   }
+
+  .dho {}
 
   .greenCircle {
     width: 8px;
