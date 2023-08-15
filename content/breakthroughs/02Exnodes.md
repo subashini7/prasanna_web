@@ -6,7 +6,7 @@ metaDescription: "Exnodes"
 
 ### Computational Parallel Inspection
 
-[Exnodes](https://exnodes.com) detects & classifies 20 nm defects at 120 wafers/hour to maximize yield of computer chips. Leveraging a 8.9 nm sensitivity breakthrough using visible light, Computational Parallel Inspection® enables unpatterned wafer inspection capability without the baggage of DUV. Exnodes licenses technology to industry leaders in SEMI.
+[Exnodes](https://exnodes.com) detects 20 nm defects at 120 wafers/hour to maximize yield of computer chips. Leveraging a 8.9 nm sensitivity breakthrough using visible light, Computational Parallel Inspection enables unpatterned wafer inspection capability without the baggage of DUV. Exnodes licenses technology to industry leaders in SEMI.
     
 <div class="center">
         <img src="https://exnodes.com/images/exnodes-onboard-unpatterened-bare-wafer-computational-parallel-inspection.png" width="680"/>
