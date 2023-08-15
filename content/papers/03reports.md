@@ -12,7 +12,7 @@ Dishcare, 2022<br/>
 Sri Rama Prasanna Pavani, Pratik Chawla, and Anurag Agrawal<br/>
 Dishcare, 2022<br/>
 
-[STELLAR: Redefining Possibilities in Low Light Imaging](https://prashub.com/prasanna/files/STELLAR.pdf)<br/>
+[STELLAR: Redefining Possibilities in Low Light Imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
 Arecont Vision, 2014<br/>
 
