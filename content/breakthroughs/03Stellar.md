@@ -10,7 +10,7 @@ Security video at low light levels is plagued by darkness, noise and motion blur
 
 
 <div class="center">
-        <img src="https://prashub.com/prasanna/images/STELLAR.png" width="680"/>
+        <img src="https://prashub.com/prasanna/images/Stellar-Regular.png" width="680"/>
 </div>
 
 <div>

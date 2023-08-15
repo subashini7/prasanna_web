@@ -120,6 +120,10 @@ export const baseStyles = css`
     margin-top: -35px;
   }
 
+  .exnodes {
+    margin-top: -20px;
+  }
+
   .navBarULRight {
     /* position: absolute;
   right: 30px; */
