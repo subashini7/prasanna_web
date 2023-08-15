@@ -14,4 +14,4 @@ The double helix point spread function is an engineered PSF specifically designe
         <img src="https://prashub.com/prasanna/images/mask_modes_web.bmp" width="480" alt="Mask Modes Web"/>
 </div>
 
-Commercialized by [Double Helix Optics](https://www.doublehelixoptics.com/).
+Order this product from [Double Helix Optics](https://www.doublehelixoptics.com/).

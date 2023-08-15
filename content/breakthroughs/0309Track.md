@@ -16,4 +16,4 @@ Awards:
         <img  src="https://prashub.com/prasanna/images/3d_tracking_web.jpg" width="500" alt="3d Tracking Web"/>
 </div>
 
-Commercialized by [Double Helix Optics](https://www.doublehelixoptics.com/).
+Order this product from [Double Helix Optics](https://www.doublehelixoptics.com/).
