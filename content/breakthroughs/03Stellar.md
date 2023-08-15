@@ -1,7 +1,7 @@
 ---
-title: "Stellar"
+title: "0.01 lux Video"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Stellar"
+metaDescription: "0.01 lux Video"
 ---
 
 ### 0.01 lux video streaming

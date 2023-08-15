@@ -1,7 +1,7 @@
 ---
-title: "Dishcare"
+title: "AI Robot"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Dishcare"
+metaDescription: "AI Robot"
 ---
 
 ### AI robot to knock our most hated chore
