@@ -25,3 +25,5 @@ low-power high-speed target detection with a wide field-of-view in room light.
 <div class="center">      
 <img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" />
 </div>
+
+Free for both personal and commercial use. Patent expired ([US9245445B2](https://patents.google.com/patent/US9245445B2)).
