@@ -41,7 +41,7 @@ const config = {
       '/hello/', // add trailing slash if enabled above
       '/about/',
       '/work/',
-      '/breakthroughs/',
+      '/leaps/',
       '/talks/',
       '/papers/',
       // '/tweets',
@@ -49,7 +49,7 @@ const config = {
     ],
     collapsedNav: [
       '/papers/', // add trailing slash if enabled above
-      '/breakthroughs/',
+      '/leaps/',
     ],
     links: [{ text: '', link: '' }],
     frontline: false,
