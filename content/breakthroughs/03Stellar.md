@@ -6,7 +6,7 @@ metaDescription: "0.01 lux Security Video"
 
 ### Spatio temporal low light architecture
 
-Security video at low light levels is plagued by darkness, noise and motion blur. Here we improve video quality in such challenging conditions with a spatio temporal low light architecture (STELLAR). Stellar enables streaming color video at 0.01 lux, about 100x darker than a moonlit night. By improving video quality, while simultaneously reducing bitrate and storage requirements, Stellar redefines possibilities in low light imaging. [Press](https://www.arecontvision.com/news/arecont-vision-r-unveils-new-stellartm-technology-that-delivers-color-images-in-near-total-darkness), [Report](https://prashub.com/prasanna/files/STELLAR_Report.pdf), [Algorithm](https://prashub.com/prasanna/files/STELLAR.pdf), [US9262811B2](https://patents.google.com/patent/US9135683B2).
+Security video at low light levels is plagued by darkness, noise and motion blur. Here we improve video quality in such challenging conditions with a spatio temporal low light architecture (STELLAR). Stellar enables streaming color video at 0.01 lux, about 100x darker than a moonlit night. By improving video quality, while simultaneously reducing bitrate and storage requirements, stellar redefines possibilities in low light imaging. [Press](https://www.arecontvision.com/news/arecont-vision-r-unveils-new-stellartm-technology-that-delivers-color-images-in-near-total-darkness), [Report](https://prashub.com/prasanna/files/STELLAR_Report.pdf), [Algorithm](https://prashub.com/prasanna/files/STELLAR.pdf), [US9262811B2](https://patents.google.com/patent/US9135683B2).
 
 
 <div class="center">
