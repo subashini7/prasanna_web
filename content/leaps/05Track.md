@@ -6,7 +6,7 @@ metaDescription: "3D Tracking"
 
 ### 3D tracking of fluorescent microparticles
 
-We demonstrate 3D tracking of fluorescent microparticles with a double helix PSF system. An information theoretical comparison in photon limited systems shows that the Double Helix PSF delivers higher Fisher information for 3D localization than the standard PSF. The system determines the 3D position of multiple particles with a single image and tracks them over time while providing their velocities. [Optics Express](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-16-26-22048), [Video](http://www.opticsinfobase.org/oe/viewmedia.cfm?uri=oe-16-26-22048&seq=1), *Optica Outstanding Paper*, *CPIA Best Poster*.
+We demonstrate 3D tracking of fluorescent microparticles with a double helix PSF system. An information theoretical comparison in photon limited systems shows that the Double Helix PSF delivers higher Fisher information for 3D localization than the standard PSF. The system determines the 3D position of multiple particles with a single image and tracks them over time while providing their velocities. [Optics Express](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-16-26-22048), *Optica Outstanding Paper*, *CPIA Best Poster*.
 
 
 
