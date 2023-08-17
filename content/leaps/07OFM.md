@@ -7,11 +7,7 @@ metaDescription: "3D Optofluidics"
 ### 3D optofluidic microscopy
 
       
-Optofluidic microscopes, by virtue of being lens less and 
-on-chip, offer an inexpensive, compact, and robust solution to 
-high-throughput imaging with submicron scale resolution. Here, we 
-propose two methods for achieving three dimensional imaging with such 
-microscopes. The first method uses a combination of a Bessel beam 
+We introduce two methods for achieving 3D imaging with optofluidic microscopes. The first method uses a combination of a Bessel beam 
 illumination and a Bessel detection module to localize the three 
 dimensional position and brightness of every object point in the sample. 
 In contrast, the second method uses the Bessel detection module together 
