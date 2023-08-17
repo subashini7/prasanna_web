@@ -123,10 +123,10 @@ Caltech (US8970671B2)
 Sri Rama Prasanna Pavani, Changhuei Yang, and Jigang Wu<br />
 Caltech (US9357202B2)
 
-[3D single molecule fluoresence imaging beyond the diffraction limit using a double helix point spread function](https://patents.google.com/patent/US9881355B2)<br/>
+[3D single molecule fluoresence imaging beyond the diffraction limit using a double helix PSF](https://patents.google.com/patent/US9881355B2)<br/>
 Rafael Piestun, Sri Rama Prasanna Pavani, Michael Thompson, Julie Biteen, W. E. Moerner<br />
 University of Colorado and Stanford University (US9881355B2)
 
-[3D single molecule fluoresence imaging beyond the diffraction limit using a double helix point spread function](https://patents.google.com/patent/US8693742B2)<br/>
+[3D single molecule fluoresence imaging beyond the diffraction limit using a double helix PSF](https://patents.google.com/patent/US8693742B2)<br/>
 Rafael Piestun, Sri Rama Prasanna Pavani, Michael Thompson, Julie Biteen, W. E. Moerner<br />
 University of Colorado and Stanford University (US8693742B2)

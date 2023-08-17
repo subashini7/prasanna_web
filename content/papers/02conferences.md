@@ -35,7 +35,7 @@ OSA Biomedical Optics, Miami, USA, April 2010
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun <br/>
 OSA Digital Holography and 3D Imaging, Miami, USA, April 2010
 
-[Wide field 3D superresolution fluorescence microscopy with double helix point spread function](http://www.bnl.gov/smf/)<br/>
+[Wide field 3D superresolution fluorescence microscopy with double helix PSF](http://www.bnl.gov/smf/)<br/>
 Ginni Grover, Sri Rama Prasanna Pavani, Sean Quirin, Jennifer DeLuca, and Rafael Piestun <br/>
 Brookhaven National Laboratory, Upton NY, USA, April 2010
 
@@ -51,7 +51,7 @@ OSA Frontiers in Optics,&nbsp;San Jose, USA, Oct. 2009
 Ginni Sharma, Sri Rama Prasanna Pavani, and Rafael Piestun <br/>
 OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct. 2009
 
-[Broadband 3D imaging using a double helix point spread function](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD3)<br/>
+[Broadband 3D imaging using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD3)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun <br/>
 OSA Computational Optical Sensing and Imaging, San Jose, USA, Oct. 2009
 
@@ -65,7 +65,7 @@ Sri Rama Prasanna Pavani and Rafael Piestun (Univ. of Colorado)<br/>
 Michael A. Thompson, Julie S. Biteen, and W. E. Moerner (Stanford Univ.)<br/>
 OSA International Quantum Electronics Conference (IQEC), Baltimore, USA, June 2009
 
-[3D fluorescent particle tracking with nanometer scale accuracies using a double helix point spread function](http://www.opticsinfobase.org/abstract.cfm?URI=CLEO-2009-CTuAA7)<br/>
+[3D fluorescent particle tracking with nanometer scale accuracies using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=CLEO-2009-CTuAA7)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 OSA Conference on Lasers and Electro-Optics (CLEO), Baltimore, USA, June 2009
 
@@ -92,7 +92,7 @@ Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2008&nbsp;<b
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun<br/>
 Colorado Photonics Industry Association (CPIA) annual meeting, Nov. 2008
 
-[3D localization of fluorescent microparticles using a rotating point spread function](http://www.opticsinfobase.org/abstract.cfm?uri=FiO-2008-FWT3)<br/>
+[3D localization of fluorescent microparticles using a rotating PSF](http://www.opticsinfobase.org/abstract.cfm?uri=FiO-2008-FWT3)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 OSA Frontiers in Optics (FiO), Rochester, USA, Oct. 2008 <br/>
 **(OUTSTANDING PAPER AWARD)**
