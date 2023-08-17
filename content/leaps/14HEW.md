@@ -18,10 +18,10 @@ beams, and images the sample on a sensor directly or with an inexpensive
 lens. By scanning the sample under investigation, the system proposes to 
 acquire two dimensional images of large areas of the sample, while 
 promptly showing intricate high resolution details, even those that are 
-well outside the focal plane. 
+well outside the focal plane. [US9357202B2](https://patents.google.com/patent/US9357202B2).
 
 <div class="center">
       	<img src="https://prashub.com/prasanna/images/HEW.jpg" width="391" />
 </div>
 
-License from Caltech. [US9357202B2](https://patents.google.com/patent/US9357202B2).
+License from [Caltech](https://ottcp.caltech.edu/patents-licensing).
