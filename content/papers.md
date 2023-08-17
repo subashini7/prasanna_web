@@ -24,7 +24,7 @@ Optics Express, Vol. 16 Issue 26, 22048-22057 (2008)<br/>
 Sri Rama Prasanna Pavani, Adam Greengard, and Rafael Piestun<br/>
 Applied Physics Letters, Vol. 95, Issue 2, 021103 (2009)
 
-[Polarization sensitive, 3D single-molecule imaging of cells with a double-helix system](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644)<br/>
+[Polarization sensitive, 3D single molecule imaging of cells with a double-helix system](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644)<br/>
 Sri Rama Prasanna Pavani, Jennifer G. DeLuca, and Rafael Piestun<br/>
 Optics Express Vol. 17, Issue 22, 19644-19655 (2009)<br/>
 
@@ -32,7 +32,7 @@ Optics Express Vol. 17, Issue 22, 19644-19655 (2009)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun, Sharon V. King, and Carol J. Cogswell<br/>
 Applied Optics, Vol. 47 Issue 1,15-24 (2008)<br/>
 
-[Optimal 3D single molecule localization for superresolution microscopy with aberrations and engineered PSFs](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
+[Optimal 3D single molecule localization for superresolution microscopy with aberrations & engineered PSFs](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun<br/>
 PNAS doi: 10.1073/pnas.1109011108 (2011)
 
