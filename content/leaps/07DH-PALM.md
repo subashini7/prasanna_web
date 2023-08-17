@@ -10,7 +10,7 @@ metaDescription: "3D Superresolution"
 A collaborative effort between the Univ. of
 Colorado and Stanford Univ. demonstrated three-dimensional
 superresolution imaging beyond the optical diffraction limit using double helix 
-photoactivated localization microscopy (DH-PALM). Two molecules as close as 14
+photoactivated localization microscopy. Two molecules as close as 14
 nm (x), 26 nm (y), and 21 nm (z) are resolved by this technique. [PNAS 106, 2995 (2009)](http://www.pnas.org/content/106/9/2995.abstract), [Nature Methods](http://www.nature.com/nmeth/journal/v6/n4/full/nmeth0409-243.html), [Laser Focus World](https://www.laserfocusworld.com/test-measurement/research/article/16551376/double-helixpsf-enables-superresolution-3d-imaging),
 [Nature](http://www.nature.com/nature/journal/v462/n7273/full/462675a.html),
 [Nature Photonics](http://www.nature.com/nphoton/journal/v3/n7/abs/nphoton.2009.112.html), [2014 Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2014/moerner/facts/).

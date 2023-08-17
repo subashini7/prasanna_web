@@ -12,7 +12,7 @@ super-localization of single-molecules and unveil 3D polarization
 specific characteristics of single-molecules within the intracellular 
 structure of PtK1 cells expressing photoactivatable green fluorescent 
 protein. The system modulates orthogonal polarization components of 
-single-molecule emissions with a single spatial light modulator and 
+single molecule emissions with a single spatial light modulator and 
 detects them separately with a single detector. Information obtained 
 from the two polarization channels demonstrates polarization based 
 contrast in 3D superresolution imaging. Further, we show that 3D 
