@@ -13,3 +13,4 @@ metaDescription: "AI Robot for Dishes"
         <br/><br/>
 </div>
 
+License from [Dishcare](https://dish.care).

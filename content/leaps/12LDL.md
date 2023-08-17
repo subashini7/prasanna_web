@@ -18,4 +18,4 @@ We import our model into Zemax to simulate the lens properties, including the in
 <img src="https://prashub.com/prasanna/images/LDL.jpg" width="424" />
 </div>
 
-Free for personal and commercial use.
+Free for all uses.

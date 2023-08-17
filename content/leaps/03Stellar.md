@@ -13,11 +13,6 @@ Security video at low light levels is plagued by darkness, noise and motion blur
         <img src="https://prashub.com/prasanna/images/Stellar-Regular.png" width="680"/>
 </div>
 
-<div>
-        Order this product from <a href="https://www.arecontvision.com/"><img class="av2" src="https://prashub.com/prasanna/images/av2.jpg" width="120"/></a>
-        <br/><br/>
-        
-</div>
-
+Order from <a href="https://www.arecontvision.com/">Arecont Vision</a>.
 
 

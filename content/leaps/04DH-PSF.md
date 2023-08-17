@@ -14,10 +14,4 @@ The double helix point spread function (PSF) is an engineered PSF designed for 3
         <img src="https://prashub.com/prasanna/images/mask_modes_web.bmp" width="480" alt="Mask Modes Web"/>
 </div>
 
-<div>
-        <br/>
-        Order this product from <a href="https://www.doublehelixoptics.com/"><img class="dho"src="https://prashub.com/prasanna/images/dho.png" width="120"/></a>
-        <br/><br/><br/>
-        
-</div>
-
+Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.

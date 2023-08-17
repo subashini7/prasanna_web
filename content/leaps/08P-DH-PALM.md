@@ -26,9 +26,4 @@ single polarization channel system. [Optics Express](http://www.opticsinfobase.o
 		<img src="https://prashub.com/prasanna/images/PDHPALM2.jpg" width="461" />
 </div>
 
-<div>
-        <br/>
-        Order this product from <a href="https://www.doublehelixoptics.com/"><img class="dho"src="https://prashub.com/prasanna/images/dho.png" width="120"/></a>
-        <br/><br/><br/>
-        
-</div>
+Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.

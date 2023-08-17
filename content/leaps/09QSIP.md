@@ -24,4 +24,4 @@ gradients. [Applied Optics](http://ao.osa.org/abstract.cfm?id=148611) and [SPIE]
         <img src="https://prashub.com/prasanna/images/qsip_web.jpg" alt="QSIP Web" width="450"/>
 </div>
 
-Free for personal and commercial use.
+Free for all uses.

@@ -19,9 +19,4 @@ superresolution imaging beyond the optical diffraction limit using double helix 
 <img src="https://prashub.com/prasanna/images/dhpsf_superresolution_web.jpg" width="354px" />
 </div>
 
-<div>
-        <br/>
-        Order this product from <a href="https://www.doublehelixoptics.com/"><img class="dho"src="https://prashub.com/prasanna/images/dho.png" width="120"/></a>
-        <br/><br/><br/>
-        
-</div>
+Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.
