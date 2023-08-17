@@ -8,8 +8,8 @@ metaDescription: "Polarized 3D Super-resolution"
 
       
 We demonstrate polarization sensitive detection with 3D 
-super-localization of single-molecules and unveil 3D polarization 
-specific characteristics of single-molecules within the intracellular 
+super localization of single molecules and unveil 3D polarization 
+specific characteristics of single molecules within the intracellular 
 structure of PtK1 cells expressing photoactivatable green fluorescent 
 protein. The system modulates orthogonal polarization components of 
 single molecule emissions with a single spatial light modulator and 

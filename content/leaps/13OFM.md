@@ -7,7 +7,7 @@ metaDescription: "3D Optofluidics"
 ### 3D optofluidic microscopy
 
       
-Optofluidic microscopes, by virtue of being lens-less and 
+Optofluidic microscopes, by virtue of being lens less and 
 on-chip, offer an inexpensive, compact, and robust solution to 
 high-throughput imaging with submicron scale resolution. Here, we 
 propose two methods for achieving three dimensional imaging with such 
