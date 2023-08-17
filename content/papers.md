@@ -32,7 +32,7 @@ Optics Express Vol. 17, Issue 22, 19644-19655 (2009)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun, Sharon V. King, and Carol J. Cogswell<br/>
 Applied Optics, Vol. 47 Issue 1,15-24 (2008)<br/>
 
-[Optimal 3D single molecule localization for superresolution microscopy with aberrations & engineered PSFs](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
+[Optimal 3D single molecule localization for superresolution with aberrations & engineered PSFs](http://www.pnas.org/content/early/2011/12/29/1109011108.abstract)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani, and Rafael Piestun<br/>
 PNAS doi: 10.1073/pnas.1109011108 (2011)
 
