@@ -1,7 +1,7 @@
 ---
-title: "Structured Illumination"
+title: "Quant Phase"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Structured Illumination"
+metaDescription: "Quant Phase"
 ---
 
 ### Quantitative structured illumination phase microscopy

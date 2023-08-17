@@ -1,7 +1,7 @@
 ---
-title: "8.9 nm Wafer Inspection"
+title: "8.9 nm Inspection"
 metaTitle: "Prasanna Pavani"
-metaDescription: "8.9 nm Wafer Inspection"
+metaDescription: "8.9 nm Inspection"
 ---
 
 ### Computational parallel inspection

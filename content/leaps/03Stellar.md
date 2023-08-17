@@ -1,7 +1,7 @@
 ---
-title: "0.01 lux Security Video"
+title: "0.01 lux Security"
 metaTitle: "Prasanna Pavani"
-metaDescription: "0.01 lux Security Video"
+metaDescription: "0.01 lux Security"
 ---
 
 ### Spatio temporal low light architecture

@@ -1,7 +1,7 @@
 ---
-title: "AI Robot for Dishes"
+title: "Dish AI"
 metaTitle: "Prasanna Pavani"
-metaDescription: "AI Robot for Dishes"
+metaDescription: "Dish AI"
 ---
 
 ### AI robot to knock our most hated chore
