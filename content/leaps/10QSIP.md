@@ -21,7 +21,7 @@ gradients. [Applied Optics](http://ao.osa.org/abstract.cfm?id=148611), [SPIE](ht
 
 
 <div class="center">
-        <img src="https://prashub.com/prasanna/images/qsip_web.jpg" alt="QSIP Web" width="450"/>
+        <img src="https://prashub.com/prasanna/images/quant-phase-recon.jpg" alt="QSIP Web" width="680"/>
 </div>
 
 Free for all uses.

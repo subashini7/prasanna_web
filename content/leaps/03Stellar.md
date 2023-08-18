@@ -1,7 +1,7 @@
 ---
-title: "0.01 lux Security"
+title: "0.01 Lux Security"
 metaTitle: "Prasanna Pavani"
-metaDescription: "0.01 lux Security"
+metaDescription: "0.01 Lux Security"
 ---
 
 ### Spatio temporal low light architecture
@@ -10,7 +10,7 @@ Security video at low light levels is plagued by darkness, noise and motion blur
 
 
 <div class="center">
-        <img src="https://prashub.com/prasanna/images/Stellar-Regular.png" width="680"/>
+        <img src="https://prashub.com/prasanna/images/Stellar-Regular.jpg" width="680"/>
 </div>
 
 Order from <a href="https://www.arecontvision.com/">Arecont Vision</a>.

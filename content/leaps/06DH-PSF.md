@@ -1,7 +1,7 @@
 ---
-title: "Double Helix PSF"
+title: "Double Helix"
 metaTitle: "Prasanna Pavani"
-metaDescription: "Double Helix PSF"
+metaDescription: "Double Helix"
 ---
 
 ### Double helix PSF encodes 3D by rotating light
@@ -11,7 +11,7 @@ The double helix point spread function (PSF) is an engineered PSF designed for 3
 
     
 <div class="center">
-        <img src="https://prashub.com/prasanna/images/mask_modes_web.bmp" width="480" alt="Mask Modes Web"/>
+        <img class = "dishcare" src="https://prashub.com/prasanna/images/double-helix-psf.jpg" width="380" alt="Mask Modes Web"/>
 </div>
 
 Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.

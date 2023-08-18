@@ -8,15 +8,15 @@ metaDescription: "3D Superresolution"
 
       
 A collaborative effort between the University of Colorado and Stanford University demonstrated 3D
-superresolution imaging beyond the optical diffraction limit using double helix photoactivated localization microscopy. Two molecules as close as 14 nm in x, 26 nm in y, and 21 nm in z are resolved by this technique. [PNAS](http://www.pnas.org/content/106/9/2995.abstract), [Optics Express](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644), [Nature Methods](http://www.nature.com/nmeth/journal/v6/n4/full/nmeth0409-243.html), [Laser Focus World](https://www.laserfocusworld.com/test-measurement/research/article/16551376/double-helixpsf-enables-superresolution-3d-imaging),
+superresolution imaging beyond the optical diffraction limit using double helix photoactivated localization microscopy. Two molecules as close as 14 nm in x, 26 nm in y, and 21 nm in z are resolved by this technique. [Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2014/moerner/facts/), [PNAS](http://www.pnas.org/content/106/9/2995.abstract), [Optics Express](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644), [Nature Methods](http://www.nature.com/nmeth/journal/v6/n4/full/nmeth0409-243.html), [Laser Focus World](https://www.laserfocusworld.com/test-measurement/research/article/16551376/double-helixpsf-enables-superresolution-3d-imaging),
 [Nature](http://www.nature.com/nature/journal/v462/n7273/full/462675a.html),
-[Nature Photonics](http://www.nature.com/nphoton/journal/v3/n7/abs/nphoton.2009.112.html), [Nobel Prize](https://www.nobelprize.org/prizes/chemistry/2014/moerner/facts/).
+[Nature Photonics](http://www.nature.com/nphoton/journal/v3/n7/abs/nphoton.2009.112.html).
 
 
  
      
 <div class="center">
-<img src="https://prashub.com/prasanna/images/dhpsf_superresolution_web.jpg" width="354px" />
+<img class = "dishcare" src="https://prashub.com/prasanna/images/3d-superresolution.jpg" width="480" />
 </div>
 
 Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.

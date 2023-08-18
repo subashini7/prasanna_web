@@ -11,7 +11,7 @@ We demonstrate 3D tracking of fluorescent microparticles with a double helix PSF
 
 
 <div class="center">
-        <img  src="https://prashub.com/prasanna/images/3d_tracking_web.jpg" width="500" alt="3d Tracking Web"/>
+        <img  src="https://prashub.com/prasanna/images/3d_tracking.jpg" width="680" alt="3d Tracking Web"/>
 </div>
 
 Order from <a href="https://www.doublehelixoptics.com/">DoubleHelix</a>.

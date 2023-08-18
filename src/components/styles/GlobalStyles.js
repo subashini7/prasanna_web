@@ -120,8 +120,12 @@ export const baseStyles = css`
     margin-top: -35px;
   }
 
-  .exnodes {
+  .dh {
     margin-top: -20px;
+  }
+
+  .exnodes {
+    margin-top: 0px;
   }
 
   .navBarULRight {
