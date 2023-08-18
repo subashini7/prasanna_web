@@ -13,10 +13,10 @@ dimensional position and brightness of every object point in the sample.
 In contrast, the second method uses the Bessel detection module together 
 with a uniform illumination, and measures several perspective 
 projections of the sample, which are then combined to form a three 
-dimensional image. [US8970671B2](https://patents.google.com/patent/US8970671B2), [US9357202B2](https://patents.google.com/patent/US9357202B2).
+dimensional image. [US8970671B2](https://patents.google.com/patent/US8970671B2), [US9357202B2](https://patents.google.com/patent/US9357202B2), [Report](https://prashub.com/prasanna/files/edof-ofm.pdf).
     
 <div class="center">
-      	<img src="https://prashub.com/prasanna/images/3D_OFM.jpg" width="451"/>
+      	<img src="https://prashub.com/prasanna/images/3d-ofm-bessel.jpg" width="680"/>
 </div>
 
 License from [Caltech](https://ottcp.caltech.edu/patents-licensing).

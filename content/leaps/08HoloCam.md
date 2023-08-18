@@ -22,7 +22,7 @@ low power high speed target detection with a wide field of view in room light.
 [COSI 12](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5), [COSI 13](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3), [US9245445B2](https://patents.google.com/patent/US9245445B2).
 
 <div class="center">      
-<img  src="https://prashub.com/prasanna/images/HoloCam_RII.jpg" width="464" />
+<img  class = "dishcare" src="https://prashub.com/prasanna/images/holocam-design.jpg" width="680" />
 </div>
 
 Free for all uses.

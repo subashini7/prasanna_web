@@ -16,6 +16,10 @@ Dishcare, 2022<br/>
 Sri Rama Prasanna Pavani<br/>
 Arecont Vision, 2014<br/>
 
+[High resolution microscopy with a wide field and an extended focus](https://prashub.com/prasanna/files/edof-ofm.pdf)<br/>
+Sri Rama Prasanna Pavani, Jigang Wu and Changhuei Yang<br/>
+Caltech, 2010<br/>
+
 [3D nanoscopy with a double helix microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 University of Colorado, 2009   [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 [Outstanding PhD Award Ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=5s)
