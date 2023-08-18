@@ -39,7 +39,7 @@ Process control to maximize yield of computer chips.<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Scholar <br/>
 Computational imagers to replace optics with algorithms.<br/>
-Advisor: [Prof. Changhuei Yang](http://www.its.caltech.edu/~biophot/people/yang.html) <br/>
+Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow <br/>
