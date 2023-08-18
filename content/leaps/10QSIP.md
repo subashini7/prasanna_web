@@ -24,4 +24,4 @@ gradients. [Applied Optics](http://ao.osa.org/abstract.cfm?id=148611), [SPIE](ht
         <img src="https://prashub.com/prasanna/images/quant-phase-quad.jpg" alt="QSIP Web" width="480"/>
 </div>
 
-Free for all uses.
+Free for all uses. Invented at [MOISL](https://www.colorado.edu/lab/moisl/).

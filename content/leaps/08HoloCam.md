@@ -25,4 +25,4 @@ low power high speed target detection with a wide field of view in room light.
 <img  class = "dishcare" src="https://prashub.com/prasanna/images/holocam-design.jpg" width="680" />
 </div>
 
-Free for all uses.
+Free for all uses. Invented at [Ricoh Innovations](https://www.ricoh.com/technology).
