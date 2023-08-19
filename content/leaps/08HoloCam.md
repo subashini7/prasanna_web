@@ -9,8 +9,8 @@ metaDescription: "Target Detector"
       
 Standard target detectors use cameras 
 and computationally expensive algorithms that make them too power hungy and too slow for mobile monitoring. We introduce HoloCam, a next generation target detector that combines a computer 
-generated target hologram and a large-area detector to leverage optical 
-correlation with a novel single-pixel spot/blur classifier. Holocam achieves 
+generated target hologram and a large area single pixel detector to leverage optical 
+correlation with a single pixel spot vs. blur classifier. Holocam achieves 
 low power high speed target detection with a wide field of view in room light. 
 [COSI 12](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5), [COSI 13](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3), [US9245445B2](https://patents.google.com/patent/US9245445B2).
 
