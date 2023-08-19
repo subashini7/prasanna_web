@@ -7,7 +7,7 @@ metaDescription: "Target Detector"
 ### HoloCam: Low power target detector
 
       
-Standard target detection methods use cameras 
+Standard target detectors use cameras 
 and computationally expensive algorithms that make them too power hungy and too slow for mobile monitoring. We introduce HoloCam, a next generation target detector that combines a computer 
 generated target hologram and a large-area detector to leverage optical 
 correlation with a novel single-pixel spot/blur classifier. Holocam achieves 
