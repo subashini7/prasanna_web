@@ -9,10 +9,9 @@ metaDescription: "Quant Phase"
       
 We introduce a quantitative phase imaging method for 
 homogeneous objects with a bright field transmission microscope by using 
-an amplitude mask and a digital processing algorithm. A known amplitude 
-pattern is imaged on the sample plane containing a thick phase object by 
-placing an amplitude mask in the field diaphragm of the microscope. The 
-phase object distorts the amplitude pattern according to its optical 
+an patterned mask and a digital processing algorithm. A known pattern is imaged on the sample plane containing a thick phase object by 
+placing a patterned mask in the field diaphragm of the microscope. The 
+phase object distorts the pattern according to its optical 
 path length (OPL) profile, and the distorted pattern is recorded in a 
 CCD detector. A digital processing algorithm then estimates the object's 
 quantitative OPL profile based on a closed form analytical solution, 
