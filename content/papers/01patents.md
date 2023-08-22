@@ -16,7 +16,7 @@ Dishcare (US11583162B2)
 
 [Dish handling robot](https://drive.google.com/file/d/1ZrPn_rrl3ixxnQTJ0qew_KeRYdMUwBQ2/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
-Dishcare (Issued: US11731282B2)
+Dishcare (US11731282B2)
 
 [Rolling grasp end effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
