@@ -266,6 +266,7 @@ export const baseStyles = css`
     font-size: 30px;
     line-height: 1.5;
     font-weight: 100;
+    padding-left: 10px;
     color: #fff !important;
   }
   .headerTitle a {
@@ -523,7 +524,7 @@ export const baseStyles = css`
     position: relative;
     width: 100%;
     padding-right: 35px;
-    padding-left: 15px;
+    padding-left: 25px;
   }
 
  .showFrontLine a {

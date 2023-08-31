@@ -60,7 +60,7 @@ const HitsWrapper = styled.div`
     color: black !important;
   }
   ul {
-    list-style: none;
+    list-style: "›";
   }
   mark {
     color: ${props => props.theme.lightBlue};
