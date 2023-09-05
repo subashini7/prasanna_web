@@ -66,6 +66,6 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 2003 - 2005<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
-Trained an AI to recognize handwritten addresses for automating mail sorting.<br/>
+Trained an AI to recognize handwritten addresses to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
