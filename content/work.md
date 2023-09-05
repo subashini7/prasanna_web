@@ -38,12 +38,12 @@ Process control to maximize yield of computer chips.<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Scholar <br/>
-Computational imagers to replace optics with algorithms.<br/>
+Developed 3D optofluidics and decoupled resolution from field of view.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow <br/>
-Double Helix PSF to resolve the nanoscale in 3D.<br/>
+Invented the Double Helix PSF and resolved the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
@@ -66,6 +66,6 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 2003 - 2005<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
-AI to automate mail sorting.<br/>
+Trained an AI to recognize handwritten addresses for automating mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
