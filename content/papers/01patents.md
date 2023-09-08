@@ -22,7 +22,7 @@ Dishcare (US11731282B2)
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
 
-[Autonomous dishwasher](https://drive.google.com/file/d/1QoO4LnbtDCenF1xeSGtnndc3T3DPQJVR/view?usp=sharing)<br/>
+[Autonomous dishwasher](https://drive.google.com/file/d/1wZ9Drgtonp6XoSZDexF5hKdNfX-2aiDR/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/687,332)
 
