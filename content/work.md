@@ -10,7 +10,7 @@ metaDescription: "Work"
 </div>
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
-AI robot to knock our most hated chore.<br/>
+AI to knock our most hated chore.<br/>
 2021 - Present
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Product Infra « Head of Engineering<br/>
