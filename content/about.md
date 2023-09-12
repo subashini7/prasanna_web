@@ -4,9 +4,9 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "About"
 ---
 
-
-<img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
-
+<div class="left-page">
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
+</div>
 
 Across experiences spanning Founder of Dishcare, Head of Product Infra at Osmo, Head of Content Infra at Orbital, Founder of Exnodes, VP Engineering at Arecont and individual roles at Ricoh Innovations, KLA and D. E. Shaw, Prasanna has built products for consumers and enterprises.
 

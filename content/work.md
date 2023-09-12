@@ -3,11 +3,7 @@ title: "Work"
 metaTitle: "Prasanna Pavani"
 metaDescription: "Work"
 ---
-<div class="video-container">
-
-<iframe width="728" height="410" src="https://www.youtube.com/embed/qVFkj3uHc5o?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
+<img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
 AI to knock our most hated chore.<br/>

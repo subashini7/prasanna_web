@@ -720,7 +720,7 @@ export const baseStyles = css`
     display: block;
     float: right;
     position: relative;
-    margin: 5px 30px 30px 30px;
+    margin: 5px 0px 30px 30px;
   }
 
   .heading1 {
