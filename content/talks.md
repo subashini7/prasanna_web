@@ -13,7 +13,7 @@ Dishcare, 2023
 [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)  <br/>
 Dishcare, 2022
 
-[Kural for everyone!](https://kural.academy/)  <br/>
+[Kural for everyone!](http://kural.academy)  <br/>
 Dishcare, 2022
 
 [Doing the dishes isn’t on that to-do list!](https://www.linkedin.com/pulse/things-we-do-dishes-dishcare) <br/>
