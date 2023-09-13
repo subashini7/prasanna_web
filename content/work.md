@@ -50,7 +50,7 @@ Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/
 
 **[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
 Computational photography to see more with wavefront coding.<br/>
-2006 - 2007 <br/>
+2006, 2007 <br/>
 
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/> Research Scholar <br/>
 Computer vision to extract information from images.<br/>
