@@ -13,9 +13,6 @@ Dishcare, 2023
 [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)  <br/>
 Dishcare, 2022
 
-[Kural for everyone!](http://kural.academy)  <br/>
-Dishcare, 2022
-
 [Doing the dishes isn’t on that to-do list!](https://www.linkedin.com/pulse/things-we-do-dishes-dishcare) <br/>
 Dishcare, 2022
 
@@ -67,7 +64,7 @@ OSA COSI, June 2013
 [Liquid drop lenses for miniature sensors](https://prashub.com/prasanna/files/LDL_poster_COSI_2013.pdf) <br/>
 OSA COSI, June 2013
 
-[Low power sensors for shopper detection](https://prashub.com/prasanna/files/Low power-sensors-for-shopper-detection.pdf) <br/>
+[Low power sensors for shopper detection](https://prashub.com/prasanna/files/low-power-sensors-for-shopper-detection.pdf) <br/>
 Ricoh Innovations, February 2013
 
 [HoloCam: Low power wide field incoherent target detector](https://prashub.com/prasanna/files/HoloCam_COSI_2012_FIN.pptx) <br/>
