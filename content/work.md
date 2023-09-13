@@ -33,7 +33,7 @@ Computational sensing to make phones & cars smarter.<br/>
 Process control to maximize yield of computer chips.<br/>
 2010<br/>
 
-**[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Scholar <br/>
+**[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow<br/>
 Developed 3D optofluidics and decoupled resolution from field of view.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
@@ -48,7 +48,7 @@ Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); C
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize) <br/>
 2008<br/>
 
-**[Omnivision](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
+**[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
 Computational imaging to see more with wavefront coding.<br/>
 2006 - 2007 <br/>
 
