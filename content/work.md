@@ -5,7 +5,7 @@ metaDescription: "Work"
 ---
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
-**[Dishcare](https://dish.care)** <br/>CEO « Founder<br/>
+**[Dishcare](https://dish.care)** <br/>Founder<br/>
 AI robot to do your dishes.<br/>
 2021 - Present
 
@@ -17,7 +17,7 @@ AI games to make learning fun for kids.<br/>
 AI geospatial analytics to understand our planet.<br/>
 2018 - 2020
 
-**[Exnodes](https://exnodes.com)** <br/>CEO « Founder<br/>
+**[Exnodes](https://exnodes.com)** <br/>Founder<br/>
 Computational inspection to maximize yield of computer chips.<br/>
 2014 - 2018
 
