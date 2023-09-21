@@ -5,7 +5,7 @@ metaDescription: "About"
 ---
 
 
-Across experiences spanning Dishcare, Osmo, Orbital Insight, Exnodes, Arecont Vision, Ricoh Innovations, KLA & D. E. Shaw, Prasanna has built products for both consumers & enterprises.
+Prasanna has built products for consumers & enterprises at Dishcare, Osmo, Orbital Insight, Exnodes, Arecont Vision, Ricoh Innovations, KLA & D. E. Shaw.
 
 Prasanna was a Postdoc at Caltech & holds a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. He studied Business at Stanford University & served as an Editor of Optica before serving as a panel member of the U.S. National Science Foundation. Prasanna's 31 patents & 45 publications have earned 2360 citations.
 
