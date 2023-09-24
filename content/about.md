@@ -5,7 +5,7 @@ metaDescription: "About"
 ---
 
 <div class="right-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
 </div>
 
 I've built products for consumers & enterprises at Dishcare, Osmo, Orbital Insight, Exnodes, Arecont Vision, Ricoh Innovations, KLA, Omnivision & D. E. Shaw. Some say consumers are harder to please than enterprises. As a consumer, I've to agree.
