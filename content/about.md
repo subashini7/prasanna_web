@@ -8,8 +8,8 @@ metaDescription: "About"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
 </div>
 
-I've built products for consumers & enterprises at Dishcare, Osmo, Orbital, Exnodes, Arecont, Ricoh, KLA, Omnivision & D. E. Shaw. Some say consumers are harder to please than enterprises. I think they need to meet my enterprise customers.
+My full name has four words. But you can call me Prasanna. I've built products for consumers & enterprises at Dishcare, Osmo, Orbital, Exnodes, Arecont, Ricoh, KLA, Omnivision & D. E. Shaw. Some say consumers are harder to please than enterprises. I'd love to introduce them to my enterprise customers.
 
 I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I studied Business at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation. My 31 patents & 45 papers have been cited by 2360 papers with ingenious ideas I wish I had thought of.
 
-My work has won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal. Some say gold medals are actually made out of silver. But do you think they might be missing the point?
+My work has won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal. Some say gold medals are actually made out of silver. Do you think they might be missing the point? [🔗](https://www.linkedin.com/in/prasannapavani/)
