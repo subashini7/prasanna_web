@@ -5,7 +5,7 @@ metaDescription: "About"
 ---
 
 <div class="right-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
+<img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
 </div>
 
 My first name has 3 words. But you can call me Prasanna. I've built products at Dishcare, Osmo, Orbital, Exnodes, Arecont, Ricoh, KLA, Omnivision & D. E. Shaw. Some say consumers are harder to please than enterprises. I think they should meet my enterprise customers.

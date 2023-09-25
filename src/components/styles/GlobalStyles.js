@@ -149,6 +149,10 @@ export const baseStyles = css`
     opacity: 1;
   }
 
+  .prasannaAbout {
+    border-radius: 100px;
+  }
+
   .prasannaImg {
     float: right;
     clear: left;
