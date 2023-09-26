@@ -732,7 +732,7 @@ export const baseStyles = css`
     display: block;
     float: left;
     position: relative;
-    margin: -20px 20px 0px -40px;
+    margin: 0px 20px 0px -40px;
   }
 
   .heading1 {
