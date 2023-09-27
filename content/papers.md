@@ -24,7 +24,7 @@ Optics Express (2008)<br/>
 Sri Rama Prasanna Pavani, Adam Greengard, and Rafael Piestun<br/>
 APL (2009)
 
-[Polarization sensitive, 3D single molecule imaging of cells with a double-helix system](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644)<br/>
+[Polarization sensitive 3D single molecule imaging of cells with a double-helix system](http://www.opticsinfobase.org/oe/abstract.cfm?uri=oe-17-22-19644)<br/>
 Sri Rama Prasanna Pavani, Jennifer G. DeLuca, and Rafael Piestun<br/>
 Optics Express (2009)<br/>
 
