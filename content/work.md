@@ -30,7 +30,7 @@ Computational sensing to make phones & cars smarter.<br/>
 2010 - 2013<br/>
 
 **[KLA](http://www.kla-tencor.com/)** <br/> Research Scientist <br/>
-Process control to maximize yield of computer chips.<br/>
+Process control for computer chips.<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow, Engineering & Applied Science<br/>
