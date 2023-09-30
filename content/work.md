@@ -13,7 +13,7 @@ AI robot to do your dishes.<br/>
 AI games to make learning fun for kids.<br/>
 2020 - 2021
 
-**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Content Infra « Head of Data Monitoring<br/>
+**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data Infra « Head of Data Monitoring<br/>
 AI geospatial analytics to understand our planet.<br/>
 2018 - 2020
 
@@ -21,7 +21,7 @@ AI geospatial analytics to understand our planet.<br/>
 Computational inspection to maximize yield of computer chips.<br/>
 2014 - 2018
 
-**[Arecont Vision](http://www.arecontvision.com/)** <br/>VP Engineering « Director « Principal Architect<br/>
+**[Arecont Vision](http://www.arecontvision.com/)** <br/>Head of Engineering « Principal Architect<br/>
 Streaming security video to keep our world safe.<br/>
 2013 - 2014
 
