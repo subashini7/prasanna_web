@@ -14,7 +14,7 @@ AI games to make learning fun for kids.<br/>
 2020 - 2021
 
 **[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data Infra « Head of Data Monitoring<br/>
-AI geospatial analytics to understand our planet.<br/>
+AI geospatial analytics to monitor our planet.<br/>
 2018 - 2020
 
 **[Exnodes](https://exnodes.com)** <br/>Founder<br/>
@@ -33,12 +33,12 @@ Computational sensing to make phones & cars smarter.<br/>
 Process control to maximize yield of computer chips.<br/>
 2010<br/>
 
-**[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow<br/>
+**[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow, Engineering & Applied Science<br/>
 Developed 3D optofluidics and decoupled resolution from field of view.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
-**[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow <br/>
+**[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow, Electrical & Computer Engineering<br/>
 Invented the Double Helix PSF and resolved the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
@@ -62,6 +62,7 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 2003 - 2005<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
+Electronics & Communication Engineering<br/>
 Trained an AI to recognize handwritten addresses to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
