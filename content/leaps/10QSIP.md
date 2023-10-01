@@ -7,11 +7,10 @@ metaDescription: "Quant Phase"
 ### Quantitative structured illumination phase microscopy
 
       
-We introduce a quantitative phase imaging method for 
-homogeneous objects with a bright field transmission microscope by using 
-an patterned mask and a digital processing algorithm. A known pattern is imaged on the sample plane containing a thick phase object by 
-placing a patterned mask in the field diaphragm of the microscope. The 
-phase object distorts the pattern according to its optical 
+We introduce a method for 
+seeing transparent objects using 
+an patterned mask and a digital processing algorithm. A known pattern is imaged on the sample plane containing a thick transparent object by 
+placing a patterned mask in the field diaphragm of a bright field transmission microscope. The object distorts the pattern according to its optical 
 path length (OPL) profile and an image of the distorted pattern is recorded. A digital processing algorithm then estimates the object's 
 quantitative OPL profile based on a closed form analytical solution, 
 which is derived using a ray optics model for objects with small OPL 
