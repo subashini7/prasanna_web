@@ -14,7 +14,7 @@ AI games to make learning fun for kids.<br/>
 2020 - 2021
 
 **[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data Infra « Head of Data Monitoring<br/>
-AI geospatial analytics to monitor our planet.<br/>
+AI geospatial analytics to understand our planet.<br/>
 2018 - 2020
 
 **[Exnodes](https://exnodes.com)** <br/>Founder<br/>
@@ -34,7 +34,7 @@ Process control for computer chips.<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow, Engineering & Applied Science<br/>
-Developed 3D optofluidics and decoupled resolution from field of view.<br/>
+Designed 3D imagers & relaxed resolution vs. field of view tradeoff.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
