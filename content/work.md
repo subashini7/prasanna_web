@@ -34,12 +34,12 @@ Process control for computer chips.<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow, Engineering & Applied Science<br/>
-Designed 3D imagers & relaxed resolution vs. field of view tradeoff.<br/>
+3D optofluidic imagers to relax resolution vs. field of view tradeoff.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow, Electrical & Computer Engineering<br/>
-Invented the Double Helix PSF and resolved the nanoscale in 3D.<br/>
+Double helix PSF to resolve the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
@@ -63,6 +63,6 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 Electronics & Communication Engineering<br/>
-Trained an AI to recognize handwritten addresses to automate mail sorting.<br/>
+Neural network to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
