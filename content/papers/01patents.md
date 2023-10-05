@@ -18,7 +18,7 @@ Dishcare (US11583162B2)
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11731282B2)
 
-[Rolling grasp end effector](https://drive.google.com/file/d/1OVifNksOBiDf6agVhAHXiFppki5NyQY2/view?usp=sharing)<br/>
+[Rolling grasp end effector](https://drive.google.com/file/d/1lEZs7pf20waaaMW5fh_LVMRTRr387rxb/view?usp=drive_link)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
 
