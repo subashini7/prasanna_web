@@ -39,7 +39,7 @@ Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow<br/>
-Double helix PSF to resolve the 3D nanoscale.<br/>
+Double helix PSF to resolve the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
@@ -63,6 +63,6 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 Electronics & Communication Engineering<br/>
-Neural network to automate mail sorting.<br/>
+Neural networks to automate mail sorting.<br/>
 Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
