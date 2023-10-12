@@ -13,5 +13,5 @@ As a founder, architect & an engineer, I bring the best out of people & technolo
 - [The 💥 moment.](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s)
 - [Are you learning well?](https://prashub.com/are-you-learning-well.pdf)
 - [“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)
-- [America’s new citizens.](https://www.youtube.com/watch?v=znHYjwFCLxc)
+- [America’s new citizens.](https://youtu.be/znHYjwFCLxc?t=13)
 - [A GCT story.](https://prashub.com/A_GCT_Story_.pdf)
