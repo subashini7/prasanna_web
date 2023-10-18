@@ -40,7 +40,7 @@ Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow<br/>
 Double helix PSF to resolve the nanoscale in 3D.<br/>
-Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun); Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
+Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Research Scholar <br/>
