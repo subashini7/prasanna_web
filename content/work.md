@@ -21,7 +21,7 @@ AI geospatial analytics to understand our planet.<br/>
 Computational inspection to maximize yield of computer chips.<br/>
 2014 - 2018
 
-**[Arecont Vision](http://www.arecontvision.com/)** <br/>Head of Engineering<br/>
+**[AV Costar](http://www.arecontvision.com/)** <br/>Head of Engineering<br/>
 Streaming security video to keep our world safe.<br/>
 2013 - 2014
 
