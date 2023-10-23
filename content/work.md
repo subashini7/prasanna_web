@@ -34,7 +34,7 @@ Process control for computer chips.<br/>
 2010<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow<br/>
-Computational imagers to solve resolution vs. field tradeoff.<br/>
+Computational imagers to solve field vs. resolution trade-off.<br/>
 Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
