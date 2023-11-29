@@ -89,8 +89,7 @@ Stanford University Graduate School of Business, August 2011
 COSI 2011, Toronto - Canada, July 2011
 
 [3D nanoscopy with a double helix microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
-MIT, Colorado, Caltech, Princeton, Yale, NIST, Intel, Ricoh Innovations, KLA-Tencor, RealD
-(2009 - 2013) <br/>
+Colorado, Caltech, MIT, Princeton, Yale, NIST, Intel, Ricoh, KLA, RealD (2009 - 2013) <br/>
 **(INVITED)**
 
 [3D superlocalization with double helix microscopes](https://prashub.com/prasanna/files/Pavani_Piestun_FiO2009.ppt) <br/>
