@@ -6,7 +6,7 @@ metaDescription: "Work"
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
-AI robot to do your dishes.<br/>
+AI to do your dishes.<br/>
 2021 - Present
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Engineering<br/>
