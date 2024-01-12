@@ -6,7 +6,7 @@ metaDescription: "Work"
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Acubed](https://acubed.airbus.com/)** <br/>Head of ML<br/>
-Building the future of flight now.<br/>
+Building the future of flight at Airbus.<br/>
 2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
