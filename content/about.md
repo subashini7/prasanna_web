@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
 </div>
 
-I lead AI/ML development at Acubed, the silicon valley innovation center of Airbus. Previously, I worked in teams tasked with building new products at Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
+I head ML at Acubed, the silicon valley innovation center of Airbus. Previously, I worked in teams tasked with building new products at Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
 I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation.
 
