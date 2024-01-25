@@ -10,7 +10,7 @@ Building the future of flight at Airbus.<br/>
 2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
-AI to do your dishes.<br/>
+AI robot to do your dishes.<br/>
 2021 - 2024
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Engineering<br/>
