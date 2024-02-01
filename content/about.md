@@ -5,7 +5,7 @@ metaDescription: "About"
 ---
 
 <div class="right-page">
-<img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="200"/>
+<img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
 </div>
 
 I head ML at Acubed, the silicon valley innovation center of Airbus. Previously, I worked in teams tasked with building new products at Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.

@@ -5,7 +5,7 @@ metaDescription: "Hello"
 ---
 
 <div class="left-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="250"/>
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
 </div>
 
 As a founder, architect & an engineer, I bring the best out of people & technology to build next level products.
