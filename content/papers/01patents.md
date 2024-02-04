@@ -6,6 +6,10 @@ metaDescription: "Patents"
 
 <img style="width: 800px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
 
+[Autonomous dishwasher](https://drive.google.com/file/d/1wZ9Drgtonp6XoSZDexF5hKdNfX-2aiDR/view?usp=sharing)<br/>
+Pratik Chawla, Sri Rama Prasanna Pavani<br />
+Dishcare (Issued: 17/687,332)
+
 [Real time single dish cleaner](https://patents.google.com/patent/US11684232B2)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11684232B2)
@@ -21,10 +25,6 @@ Dishcare (US11731282B2)
 [Rolling grasp end effector](https://drive.google.com/file/d/1lEZs7pf20waaaMW5fh_LVMRTRr387rxb/view?usp=drive_link)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
-
-[Autonomous dishwasher](https://drive.google.com/file/d/1wZ9Drgtonp6XoSZDexF5hKdNfX-2aiDR/view?usp=sharing)<br/>
-Pratik Chawla, Sri Rama Prasanna Pavani<br />
-Dishcare (17/687,332)
 
 [Dish cleaning by dirt targeting](https://prashub.com/prasanna/files/US-20220304546-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
