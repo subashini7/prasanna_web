@@ -5,8 +5,8 @@ metaDescription: "Work"
 ---
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
-**[Acubed](https://acubed.airbus.com/)** <br/>Head of ML<br/>
-Building the future of flight at Airbus.<br/>
+**[Airbus](https://www.airbus.com)** <br/>Head of ML<br/>
+Building the future of flight with AI.<br/>
 2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
@@ -17,7 +17,7 @@ AI robot to do your dishes.<br/>
 AI games to make learning fun for kids.<br/>
 2020 - 2021
 
-**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data Monitoring<br/>
+**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data<br/>
 AI geospatial analytics to understand our planet.<br/>
 2018 - 2020
 
@@ -29,7 +29,7 @@ Computational inspection to maximize yield of computer chips.<br/>
 Streaming security video to keep our world safe.<br/>
 2013 - 2014
 
-**[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>Advisory Research Scientist<br/>
+**[Ricoh Innovations](https://www.ricoh.com/technology/)** <br/>Senior Research Scientist<br/>
 Computational sensing to make phones & cars smarter.<br/>
 2010 - 2013<br/>
 
@@ -47,12 +47,12 @@ Double helix PSF to resolve the nanoscale in 3D.<br/>
 Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
-**[Stanford University](http://www.stanford.edu/)** <br/> Research Scholar <br/>
+**[Stanford University](http://www.stanford.edu/)** <br/> Omnivision Fellow <br/>
 3D superresolution imaging beyond the diffraction limit.<br/>
 Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize) <br/>
 2008<br/>
 
-**[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Omnivision Fellow <br/>
+**[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Research Scholar <br/>
 Computational photography to see more with wavefront coding.<br/>
 2006, 2007 <br/>
 
@@ -61,7 +61,7 @@ Computer vision to extract information from images.<br/>
 Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
 2005<br/>
 
-**[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Member of Technical Staff<br/>
+**[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Software Engineer<br/>
 Computational finance to correct market inefficiencies & maximize returns.<br/>
 2003 - 2005<br/>
 

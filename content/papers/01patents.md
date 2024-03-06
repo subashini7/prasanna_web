@@ -32,7 +32,7 @@ Dishcare (17/211,860)
 
 [Dish perception, planning & control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
-Dishcare (17/202,266)
+Dishcare (Issued: 17/202,266)
 
 [Computational wafer image processing](https://patents.google.com/patent/US10184901B2)<br/>
 Sri Rama Prasanna Pavani<br />
