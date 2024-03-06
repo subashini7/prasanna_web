@@ -8,7 +8,7 @@ metaDescription: "Patents"
 
 [Autonomous dishwasher](https://drive.google.com/file/d/1wZ9Drgtonp6XoSZDexF5hKdNfX-2aiDR/view?usp=sharing)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
-Dishcare (Issued: 17/687,332)
+Dishcare (US11937757B2)
 
 [Real time single dish cleaner](https://patents.google.com/patent/US11684232B2)<br/>
 Sri Rama Prasanna Pavani<br />
@@ -22,6 +22,10 @@ Dishcare (US11583162B2)
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11731282B2)
 
+[Dish perception, planning & control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (US11938640B2)
+
 [Rolling grasp end effector](https://drive.google.com/file/d/1lEZs7pf20waaaMW5fh_LVMRTRr387rxb/view?usp=drive_link)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
@@ -29,10 +33,6 @@ Dishcare (17/713,838)
 [Dish cleaning by dirt targeting](https://prashub.com/prasanna/files/US-20220304546-A1_I.pdf)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/211,860)
-
-[Dish perception, planning & control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (Issued: 17/202,266)
 
 [Computational wafer image processing](https://patents.google.com/patent/US10184901B2)<br/>
 Sri Rama Prasanna Pavani<br />
