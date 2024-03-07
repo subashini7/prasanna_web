@@ -7,7 +7,7 @@ metaDescription: "Work"
 
 **[Airbus](https://www.airbus.com)** <br/>Head of ML<br/>
 AI autopilot to make aircraft landing safer.<br/>
-2024
+2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
 AI robot to do your dishes.<br/>
