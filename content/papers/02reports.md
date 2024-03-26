@@ -5,11 +5,11 @@ metaDescription: "Reports"
 ---
 
 [Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://dish.care/minimizing-pathogens-with-dishcare.pdf)<br/>
-Sri Rama Prasanna Pavani, Shrutidhara Kakoti, and Pratik Chawla<br/>
+Sri Rama Prasanna Pavani, Shrutidhara Kakoti and Pratik Chawla<br/>
 Dishcare<br/>
 
 [Robotic end effector for autonomous cleaning of dishes in homes and offices](https://prashub.com/prasanna/files/dishcare-robot.pdf)<br/>
-Sri Rama Prasanna Pavani, Pratik Chawla, and Anurag Agrawal<br/>
+Sri Rama Prasanna Pavani, Pratik Chawla and Anurag Agrawal<br/>
 Dishcare<br/>
 
 [STELLAR: Redefining possibilities in low light imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
@@ -38,7 +38,7 @@ University of Colorado<br/>
 University of Colorado<br/>
 
 [Pragmatic AI for mail sorting](https://prashub.com/prasanna/files/pragmaticschema.pdf) <br/>
-Sri Rama Prasanna Pavani, S. Balaji, Thejavor Haralu Khezhie, and C. Vasanthanayaki<br/>
+Sri Rama Prasanna Pavani, S. Balaji, Thejavor Haralu Khezhie and C. Vasanthanayaki<br/>
 GCT Coimbatore<br/>
         
 [AI for mail sorting](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
