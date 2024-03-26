@@ -10,6 +10,6 @@ metaDescription: "Hello"
 
 As a founder, architect & an engineer, I bring the best out of people & technology to build next level products.
 
-- [Dish AI stack for robots.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)
+- [AI stack for dish robots.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)
 - [America’s new citizens!](https://youtu.be/znHYjwFCLxc?t=13)
 - [Are you learning well?](https://prashub.com/are-you-learning-well-.pdf)
