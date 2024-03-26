@@ -6,31 +6,31 @@ metaDescription: "Patents"
 
 <img style="width: 800px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://exnodes.com/images/xpro.jpeg"/>
 
-[Autonomous dishwasher](https://drive.google.com/file/d/1wZ9Drgtonp6XoSZDexF5hKdNfX-2aiDR/view?usp=sharing)<br/>
+[Dish perception, planning & control](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (US11938640B2)
+
+[Autonomous dishwasher](https://drive.google.com/file/d/1OiysFuQbi6-rBQDJPYn2EPYEvQqtW6oL/view?usp=drive_link)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (US11937757B2)
 
-[Real time single dish cleaner](https://patents.google.com/patent/US11684232B2)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (US11684232B2)
-
-[Targeted dish cleaner](https://patents.google.com/patent/US11583162B2)<br/>
-Sri Rama Prasanna Pavani<br />
-Dishcare (US11583162B2)
-
-[Dish handling robot](https://drive.google.com/file/d/1ZrPn_rrl3ixxnQTJ0qew_KeRYdMUwBQ2/view?usp=drive_link)<br/>
+[Dish handling robot](https://drive.google.com/file/d/1FzZq3i17PFNYd_rSzgje6J6LR8fMWwYo/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (US11731282B2)
 
-[Dish perception, planning & control](https://prashub.com/prasanna/files/US-20220288789-A1_I.pdf)<br/>
+[Real time single dish cleaner](https://drive.google.com/file/d/1RV_rk9mQSOjN8y8il9UPQ7Bwisx904GC/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
-Dishcare (US11938640B2)
+Dishcare (US11684232B2)
+
+[Targeted dish cleaner](https://drive.google.com/file/d/1SBxxiiZZu6JDvjhTGLG-lXy-P0jKkWg1/view?usp=drive_link)<br/>
+Sri Rama Prasanna Pavani<br />
+Dishcare (US11583162B2)
 
 [Rolling grasp end effector](https://drive.google.com/file/d/1lEZs7pf20waaaMW5fh_LVMRTRr387rxb/view?usp=drive_link)<br/>
 Pratik Chawla, Sri Rama Prasanna Pavani<br />
 Dishcare (17/713,838)
 
-[Dish cleaning by dirt targeting](https://prashub.com/prasanna/files/US-20220304546-A1_I.pdf)<br/>
+[Dish cleaning by dirt targeting](https://drive.google.com/file/d/1hdbrGU4QOcL9CNjWlce1qZxC9nULkXPG/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare (17/211,860)
 
