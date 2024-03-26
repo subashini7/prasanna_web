@@ -22,7 +22,7 @@ Caltech<br/>
 
 [3D nanoscopy with a double helix microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_Thesis.pdf)<br/>
 University of Colorado [(deck)](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
-[Outstanding PhD Award Ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=5s)
+[Outstanding PhD award ceremony](https://www.youtube.com/watch?v=ZFuxZd_eRew&t=5s)
 
 [Phase amplification in digital holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
 Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
