@@ -75,7 +75,7 @@ Michael A. Thompson&#10013;, Julie S. Biteen and W. E. Moerner (Stanford Univ.)<
 &#10013; Equal contributions. OSA Novel Techniques in Microscopy, Vancouver, Canada
 
 [Microscope imaging capabilities improve using computational optics](http://www.focusonmicroscopy.org/2009/PDF/341_Cogswell.pdf)<br/>
-Carol J. Cogswell, Sharon V. King, Sri Rama Prasanna Pavani, Donald B. Conkey,&nbsp;and Robert H. Cormack <br/>
+Carol J. Cogswell, Sharon V. King, Sri Rama Prasanna Pavani, Donald B. Conkey and Robert H. Cormack <br/>
 Focus on Microscopy, Krakow, Poland
 
 [3D microscopy with double helix point spread functions](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7184/71840I/3D-microscopy-with-a-double-helix-point-spread-function/10.1117/12.816585.short) <br/>
