@@ -39,12 +39,12 @@ Focus on Microscopy, Krakow, Poland
 [3D microscopy with double helix point spread functions](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7184/71840I/3D-microscopy-with-a-double-helix-point-spread-function/10.1117/12.816585.short) <br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
 SPIE Photonics West (BIOS), San Jose<br/>
-**(INVITED)**
+**Invited**
 
 [3D tracking with nanometer accuracies using a double helix PSF]()<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
 Colorado Photonics Industry Association (CPIA), Boulder<br/>
-**(BEST POSTER AWARD)**
+**Best Poster Award**
 
 [Broadband three dimensional passive imaging system]()<br/>
 Sean Quirin, Sri Rama Prasanna Pavani and Rafael Piestun<br/>
@@ -53,7 +53,7 @@ Colorado Photonics Industry Association (CPIA), Boulder
 [3D localization of fluorescent microparticles using a rotating PSF](http://www.opticsinfobase.org/abstract.cfm?uri=FiO-2008-FWT3)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 Optica Frontiers in Optics (FiO), Rochester<br/>
-**(OUTSTANDING PAPER AWARD)**
+**Outstanding Paper Award**
 
 [Passive 3D imaging with quasi rotating PSFs](http://www.opticsinfobase.org/abstract.cfm?URI=DH-2008-DMA2)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
@@ -87,7 +87,7 @@ Optica Computational Optical Sensing and Imaging (COSI), Vancouver, Canada
 [Structured illumination quantitative phase imaging](https://prashub.com/prasanna/files/cpia_web.pdf)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun and Carol J. Cogswell<br/>
 Colorado Photonics Industry Association (CPIA), Boulder<br/>
-**(BEST POSTER AWARD)**
+**Best Poster Award**
 
 [Destination address interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
 P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie and C. Vasanthanayaki<br/>
@@ -132,4 +132,4 @@ Optica International Quantum Electronics Conference (IQEC), Baltimore
 [3D superresolution using single molecule photoswitches and a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD1)<br/>
 W. E. Moerner, Michael Thompson, Matthew Lew, Majid Badieirostami, Samuel J. Lord, Nicholas R. Conley, Hsiao-lu D. Lee, Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 Optica Computational Optical Sensing and Imaging, San Jose<br/>
-**(INVITED)**
+**Invited**
