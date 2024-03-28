@@ -9,17 +9,17 @@ Sri Rama Prasanna Pavani<br/>
 University of Colorado Boulder<br/>
 **Outstanding PhD Award**
 
-[Phase amplification in digital holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
-Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
-University of Colorado & Harvard University<br/>
+[STELLAR: Redefining possibilities in low light imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
+Sri Rama Prasanna Pavani<br/>
+AV Costar<br/>
 
 [High resolution microscopy with a wide field and an extended focus](https://prashub.com/prasanna/files/edof-ofm.pdf)<br/>
 Sri Rama Prasanna Pavani, Jigang Wu and Changhuei Yang<br/>
 Caltech<br/>
 
-[STELLAR: Redefining possibilities in low light imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
-Sri Rama Prasanna Pavani<br/>
-AV Costar<br/>
+[Phase amplification in digital holography](https://prashub.com/prasanna/files/phaseAmp.pdf)<br/>
+Sri Rama Prasanna Pavani and Ethan F. Schonbrun <br/>
+Harvard University & University of Colorado Boulder<br/>
 
 [Minimizing pathogens on everyday dishes with an autonomous dishwasher](https://dish.care/minimizing-pathogens-with-dishcare.pdf)<br/>
 Sri Rama Prasanna Pavani, Shrutidhara Kakoti and Pratik Chawla<br/>
@@ -31,15 +31,15 @@ Dishcare<br/>
 
 [Camera obscura](https://prashub.com/prasanna/files/Prasannas_Camera_Obscura.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
-University of Colorado<br/>
+University of Colorado Boulder<br/>
 
 [Optical solitons](https://prashub.com/prasanna/files/Optical_Solitons.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
-University of Colorado<br/>
+University of Colorado Boulder<br/>
 
 [Waveguide analysis using BPM](https://prashub.com/prasanna/files/waveguide_beamprop.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
-University of Colorado<br/>
+University of Colorado Boulder<br/>
 
 [Pragmatic AI for mail sorting](https://prashub.com/prasanna/files/pragmaticschema.pdf) <br/>
 Sri Rama Prasanna Pavani, S. Balaji, Thejavor Haralu Khezhie and C. Vasanthanayaki<br/>
