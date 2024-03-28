@@ -6,13 +6,13 @@ metaDescription: "Conferences"
 
 <img style="width: 800px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/cu-lab.jpg"/>
 
-[HoloCam: Low power wide field incoherent target detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5) <br/>
-Sri Rama Prasanna Pavani, Jonathan Hull, Sergey Chemishkian, Kathrin Berkner and Ken Gudan <br/>
-Computational Optical Sensing and Imaging (COSI), Monterey
-
 [3D imager design through multiple aperture optimization](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2011-JTuD4) <br/>
 Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner <br/>
 Computational Optical Sensing and Imaging (COSI), Toronto, Canada
+
+[HoloCam: Low power wide field incoherent target detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5) <br/>
+Sri Rama Prasanna Pavani, Jonathan Hull, Sergey Chemishkian, Kathrin Berkner and Ken Gudan <br/>
+Computational Optical Sensing and Imaging (COSI), Monterey
 
 [Target detection with a low power holographic detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)<br/>
 Sri Rama Prasanna Pavani, Lingfei Meng <br/>
