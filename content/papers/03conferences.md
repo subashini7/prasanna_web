@@ -7,11 +7,11 @@ metaDescription: "Conferences"
 <img style="width: 800px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/cu-lab.jpg"/>
 
 [Target detection with a low power holographic detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)<br/>
-Sri Rama Prasanna Pavani, Lingfei Meng
+Sri Rama Prasanna Pavani, Lingfei Meng <br/>
 Computational Optical Sensing and Imaging (COSI), Arlington, Virginia
 
 [HoloCam: Low power wide field incoherent target detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5) <br/>
-Sri Rama Prasanna Pavani, Jonathan Hull, Sergey Chemishkian, Kathrin Berkner and Ken Gudan
+Sri Rama Prasanna Pavani, Jonathan Hull, Sergey Chemishkian, Kathrin Berkner and Ken Gudan <br/>
 Computational Optical Sensing and Imaging (COSI), Monterey CA
 
 [3D imager design through multiple aperture optimization](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2011-JTuD4) <br/>
@@ -25,11 +25,6 @@ Optica Biomedical Optics, Miami
 [3D superlocalization with double helix microscopes](http://www.opticsinfobase.org/abstract.cfm?URI=FiO-2009-FMK5)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 Optica Frontiers in Optics,&nbsp;San Jose
-
-[3D super resolution single molecule fluorescence imaging using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=IQEC-2009-IMG3)<br/>
-Sri Rama Prasanna Pavani and Rafael Piestun (Univ. of Colorado)<br/>
-Michael A. Thompson, Julie S. Biteen and W. E. Moerner (Stanford Univ.)<br/>
-Optica International Quantum Electronics Conference (IQEC), Baltimore
 
 [3D fluorescent particle tracking with nanometer scale accuracies using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=CLEO-2009-CTuAA7)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
@@ -98,7 +93,7 @@ Colorado Photonics Industry Association (CPIA) annual meeting<br/>
 
 [Destination address interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
 P. Sri Rama Prasanna, S. Balaji, Thejavor Haralu Khezhie and C. Vasanthanayaki<br/>
-IEEE Tencon
+IEEE Tencon, Bangalore, India
 
 [Liquid drop lenses for miniature sensors](http://www.opticsinfobase.org/abstract.cfm?URI=ISA-2013-JTu4A.21)<br/>
 Brian McCall, Sri Rama Prasanna Pavani
@@ -131,6 +126,10 @@ Optica Computational Optical Sensing and Imaging, San Jose
 [Broadband 3D imaging using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD3)<br/>
 Sean Quirin, Sri Rama Prasanna Pavani and Rafael Piestun <br/>
 Optica Computational Optical Sensing and Imaging, San Jose
+
+[3D super resolution single molecule fluorescence imaging using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=IQEC-2009-IMG3)<br/>
+Michael A. Thompson, Julie S. Biteen, W. E. Moerner, Sri Rama Prasanna Pavani and Rafael Piestun<br/>
+Optica International Quantum Electronics Conference (IQEC), Baltimore
 
 [3D superresolution using single molecule photoswitches and a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2009-CTuD1)<br/>
 W. E. Moerner, Michael Thompson, Matthew Lew, Majid Badieirostami, Samuel J. Lord, Nicholas R. Conley, Hsiao-lu D. Lee, Sri Rama Prasanna Pavani and Rafael Piestun <br/>
