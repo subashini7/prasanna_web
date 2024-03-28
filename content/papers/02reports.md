@@ -14,7 +14,7 @@ Dishcare<br/>
 
 [STELLAR: Redefining possibilities in low light imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
-Arecont Vision<br/>
+AV Costar<br/>
 
 [High resolution microscopy with a wide field and an extended focus](https://prashub.com/prasanna/files/edof-ofm.pdf)<br/>
 Sri Rama Prasanna Pavani, Jigang Wu and Changhuei Yang<br/>
