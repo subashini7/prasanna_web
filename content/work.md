@@ -5,7 +5,7 @@ metaDescription: "Work"
 ---
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
-**[Airbus](https://www.airbus.com)** <br/>Head of ML<br/>
+**[Airbus](https://acubed.airbus.com/)** <br/>Head of ML<br/>
 AI autopilot to make aircraft landing safer.<br/>
 2024 - Present
 
@@ -33,7 +33,7 @@ Streaming security video to keep our world safe.<br/>
 Computational sensing to make phones & cars smarter.<br/>
 2010 - 2013<br/>
 
-**[KLA](http://www.kla-tencor.com/)** <br/>Research Scientist<br/>
+**[KLA](https://www.kla.com/products/chip-manufacturing/defect-inspection-review)** <br/>Research Scientist<br/>
 Process control for computer chips.<br/>
 2010<br/>
 
@@ -58,7 +58,7 @@ Computational photography to see more with wavefront coding.<br/>
 
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/> Research Scholar <br/>
 Computer vision to extract information from images.<br/>
-Advisor: [Prof. Surendra Ranganath](https://www.ece.nus.edu.sg/staff/webpages/elesr.htm) <br/>
+Advisor: [Prof. Surendra Ranganath](https://ieeexplore.ieee.org/author/37271854600) <br/>
 2005<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Software Engineer<br/>

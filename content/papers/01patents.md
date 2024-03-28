@@ -108,11 +108,11 @@ Sri Rama Prasanna Pavani, Brian McCall<br />
 Ricoh (US9851475B2)
 
 [Optical target detection](https://patents.google.com/patent/US9245445B2)<br/>
-Sri Rama Prasanna Pavani, Jonathan J. Hull, Sergey Chemishkain, and Kathrin Berkner<br />
+Sri Rama Prasanna Pavani, Jonathan J. Hull, Sergey Chemishkain and Kathrin Berkner<br />
 Ricoh (US9245445B2)
 
 [Compact multi aperture 3D imaging system](https://patents.google.com/patent/US8542268B2)<br/>
-Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork, and Kathrin Berkner<br />
+Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner<br />
 Ricoh (US8542268B2)
 
 [Nondiffracting beam detection devices for 3D imaging](https://patents.google.com/patent/US8970671B2)<br/>
@@ -120,7 +120,7 @@ Sri Rama Prasanna Pavani and Changhuei Yang<br />
 Caltech (US8970671B2)
         
 [High resolution imaging devices with wide field and extended focus](https://patents.google.com/patent/US9357202B2)<br/>
-Sri Rama Prasanna Pavani, Changhuei Yang, and Jigang Wu<br />
+Sri Rama Prasanna Pavani, Changhuei Yang and Jigang Wu<br />
 Caltech (US9357202B2)
 
 [3D single molecule fluoresence imaging beyond the diffraction limit using a double helix PSF](https://patents.google.com/patent/US9881355B2)<br/>
