@@ -12,7 +12,7 @@ Computational Optical Sensing and Imaging (COSI), Arlington, Virginia
 
 [HoloCam: Low power wide field incoherent target detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2012-CTu3B.5) <br/>
 Sri Rama Prasanna Pavani, Jonathan Hull, Sergey Chemishkian, Kathrin Berkner and Ken Gudan <br/>
-Computational Optical Sensing and Imaging (COSI), Monterey CA
+Computational Optical Sensing and Imaging (COSI), Monterey
 
 [3D imager design through multiple aperture optimization](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2011-JTuD4) <br/>
 Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner <br/>
@@ -24,7 +24,7 @@ Optica Biomedical Optics, Miami
 
 [3D superlocalization with double helix microscopes](http://www.opticsinfobase.org/abstract.cfm?URI=FiO-2009-FMK5)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
-Optica Frontiers in Optics,&nbsp;San Jose
+Optica Frontiers in Optics, San Jose
 
 [3D fluorescent particle tracking with nanometer scale accuracies using a double helix PSF](http://www.opticsinfobase.org/abstract.cfm?URI=CLEO-2009-CTuAA7)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
@@ -45,12 +45,12 @@ SPIE Photonics West (BIOS), San Jose<br/>
 
 [3D tracking with nanometer accuracies using a double helix PSF]()<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun<br/>
-Colorado Photonics Industry Association (CPIA)<br/>
+Colorado Photonics Industry Association (CPIA), Boulder<br/>
 **(BEST POSTER AWARD)**
 
 [Broadband three dimensional passive imaging system]()<br/>
 Sean Quirin, Sri Rama Prasanna Pavani and Rafael Piestun<br/>
-Colorado Photonics Industry Association (CPIA)
+Colorado Photonics Industry Association (CPIA), Boulder
 
 [3D localization of fluorescent microparticles using a rotating PSF](http://www.opticsinfobase.org/abstract.cfm?uri=FiO-2008-FWT3)<br/>
 Sri Rama Prasanna Pavani and Rafael Piestun <br/>
@@ -67,7 +67,7 @@ SPIE Photonics West (BIOS), San Jose
 
 [Passive 3D imaging with rotating point spread functions](https://prashub.com/prasanna/files/cpia_2007_poster.ppt)<br/>
 Sri Rama Prasanna Pavani, Adam Greengard and Rafael Piestun<br/>
-Colorado Photonics Industry Association (CPIA)<br/>
+Colorado Photonics Industry Association (CPIA), Boulder<br/>
 MRSE TAB 2008, LC2CAM 2008
 
 [Quantitative phase imaging with a bright field microscope](http://www.opticsinfobase.org/abstract.cfm?id=143772)<br/>
@@ -88,7 +88,7 @@ Optica Computational Optical Sensing and Imaging (COSI), Vancouver, Canada
 
 [Structured illumination quantitative phase imaging](https://prashub.com/prasanna/files/cpia_web.pdf)<br/>
 Sri Rama Prasanna Pavani, Ariel R. Libertun and Carol J. Cogswell<br/>
-Colorado Photonics Industry Association (CPIA) annual meeting<br/>
+Colorado Photonics Industry Association (CPIA), Boulder<br/>
 **(BEST POSTER AWARD)**
 
 [Destination address interpretation for automating the sorting process of Indian Postal System](https://ieeexplore.ieee.org/document/1273300)<br/>
