@@ -4,8 +4,6 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Conferences"
 ---
 
-<img style="width: 800px; margin: 0px 0px 0px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/cu-lab.jpg"/>
-
 [3D imager design through multiple aperture optimization](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2011-JTuD4) <br/>
 Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner <br/>
 Computational Optical Sensing and Imaging (COSI), Toronto, Canada
