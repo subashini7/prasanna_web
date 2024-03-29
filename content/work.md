@@ -49,7 +49,7 @@ Double helix PSF to resolve the nanoscale in 3D.<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Omnivision Fellow <br/>
 3D superresolution imaging beyond the diffraction limit.<br/>
-[Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) won the **Nobel Prize**<br/>
+[Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) won the **Nobel Prize**.<br/>
 2008<br/>
 
 
