@@ -4,11 +4,11 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-[Dish perception, planning & control for robots](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+[Perception, planning & control for a dish robot](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
-[Compact multi aperture 3D imaging system](https://patents.google.com/patent/US8542268B2)<br/>
+[Multiple aperture 3D imaging](https://patents.google.com/patent/US8542268B2)<br/>
 Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner<br />
 Ricoh Innovations
 
@@ -16,7 +16,7 @@ Ricoh Innovations
 Sri Rama Prasanna Pavani<br />
 Exnodes
 
-[System and method for spatio temporal video image enhancement](https://patents.google.com/patent/US9135683B2)<br/>
+[System and method for spatio temporal video enhancement](https://patents.google.com/patent/US9135683B2)<br/>
 Sri Rama Prasanna Pavani<br />
 AV Costar
 
