@@ -41,8 +41,8 @@ const config = {
       '/hello/', // add trailing slash if enabled above
       '/work/',
       '/leaps/',
-      '/talks/',
       '/papers/',
+      '/talks/',
       // '/tweets',
       '/about/'
     ],
