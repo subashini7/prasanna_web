@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-[6D perception, planning & control for a dish robot](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+[AI stack for 6D inference.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
