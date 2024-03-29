@@ -39,19 +39,19 @@ Process control for computer chips.<br/>
 
 **[Caltech](http://www.caltech.edu/)** <br/> Postdoctoral Fellow<br/>
 Computational imagers to solve field vs. resolution trade-off.<br/>
-Advisor: [Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
+[Prof. Changhuei Yang](https://www.eas.caltech.edu/people/chyang) <br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow<br/>
 Double helix PSF to resolve the nanoscale in 3D.<br/>
-Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) Co-advisor: [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
+[Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) and [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Omnivision Fellow <br/>
 3D superresolution imaging beyond the diffraction limit.<br/>
-Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html)<br/>
-**Nobel Prize**<br/>
+[Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) won the **Nobel Prize**<br/>
 2008<br/>
+
 
 **[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Research Scholar <br/>
 Computational photography to see more with wavefront coding.<br/>
@@ -59,7 +59,7 @@ Computational photography to see more with wavefront coding.<br/>
 
 **[National University of Singapore](http://www.nus.edu.sg/)** <br/> Research Scholar <br/>
 Computer vision to extract information from images.<br/>
-Advisor: [Prof. Surendra Ranganath](https://ieeexplore.ieee.org/author/37271854600) <br/>
+[Prof. Surendra Ranganath](https://ieeexplore.ieee.org/author/37271854600) <br/>
 2005<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Software Engineer<br/>
@@ -69,5 +69,5 @@ Computational finance to correct market inefficiencies & maximize returns.<br/>
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 Electronics & Communication Engineering<br/>
 Neural networks to automate mail sorting.<br/>
-Advisor: [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
+[Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
