@@ -8,6 +8,10 @@ metaDescription: "Patents"
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
+[Compact multi aperture 3D imaging system](https://patents.google.com/patent/US8542268B2)<br/>
+Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner<br />
+Ricoh Innovations
+
 [Computational wafer inspection filter design](https://patents.google.com/patent/US9696265B2)<br/>
 Sri Rama Prasanna Pavani<br />
 Exnodes
@@ -15,10 +19,6 @@ Exnodes
 [System and method for spatio temporal video image enhancement](https://patents.google.com/patent/US9135683B2)<br/>
 Sri Rama Prasanna Pavani<br />
 AV Costar
-
-[Compact multi aperture 3D imaging system](https://patents.google.com/patent/US8542268B2)<br/>
-Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner<br />
-Ricoh Innovations
 
 [High resolution imaging devices with wide field and extended focus](https://patents.google.com/patent/US9357202B2)<br/>
 Sri Rama Prasanna Pavani, Changhuei Yang and Jigang Wu<br />
@@ -114,7 +114,7 @@ AV Costar
 
 [Fabrication of lenses using high viscosity liquid](https://patents.google.com/patent/US9851475B2)<br/>
 Sri Rama Prasanna Pavani, Brian McCall<br />
-Ricoh
+Ricoh Innovations
 
 [Optical target detection](https://patents.google.com/patent/US9245445B2)<br/>
 Sri Rama Prasanna Pavani, Jonathan J. Hull, Sergey Chemishkain and Kathrin Berkner<br />
