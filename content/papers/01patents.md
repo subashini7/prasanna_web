@@ -4,11 +4,11 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-[AI stack for 6D inference of cluttered objects.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+[AI stack for 6D inference of cluttered objects in real time](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
-[Multiple aperture 3D imaging](https://patents.google.com/patent/US8542268B2)<br/>
+[Multiple aperture 3D imager optimization](https://patents.google.com/patent/US8542268B2)<br/>
 Sri Rama Prasanna Pavani, Jorge Moraleda, David G. Stork and Kathrin Berkner<br />
 Ricoh Innovations
 
