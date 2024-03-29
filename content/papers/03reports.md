@@ -44,12 +44,12 @@ University of Colorado Boulder<br/>
 [Pragmatic AI for mail sorting](https://prashub.com/prasanna/files/pragmaticschema.pdf) <br/>
 Sri Rama Prasanna Pavani, S. Balaji, Thejavor Haralu Khezhie and C. Vasanthanayaki<br/>
 GCT Coimbatore<br/>
-        
+
+[Encoding sensitive data in images](https://prashub.com/prasanna/files/steganography.pdf)<br/>
+Sri Rama Prasanna Pavani and S. Balaji<br/>
+GCT Coimbatore
+
 [AI for mail sorting](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
 Sri Rama Prasanna Pavani, S. Balaji and Thejavor Haralu Khezhie<br/>
 GCT Coimbatore<br/>
 **Gold Medal**
-
-[Steganography: Hiding data in images](https://prashub.com/prasanna/files/steganography.pdf)<br/>
-Sri Rama Prasanna Pavani and S. Balaji<br/>
-GCT Coimbatore
