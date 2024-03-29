@@ -9,7 +9,7 @@ metaDescription: "Papers"
 </div>
 
 [3D single molecule fluorescence imaging beyond the diffraction limit using a double helix PSF](http://www.pnas.org/content/106/9/2995.abstract)<br/>
-Sri Rama Prasanna Pavani, Michael Thompson, Julie Biteen, Samuel Lord, Na Liu, Robert Twieg, Rafael Piestun and W. E. Moerner (Nobel Prize)<br/>
+Sri Rama Prasanna Pavani, Michael Thompson, Julie Biteen, Samuel Lord, Na Liu, Robert Twieg, Rafael Piestun and W. E. Moerner<br/>
 Proceedings of the National Academy of Sciences<br/>
 
 [High efficiency rotating PSFs](http://www.opticsexpress.org/abstract.cfm?id=154737)<br/>
