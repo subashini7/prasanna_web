@@ -113,7 +113,7 @@ Sri Rama Prasanna Pavani<br />
 AV Costar
 
 [Fabrication of lenses using high viscosity liquid](https://patents.google.com/patent/US9851475B2)<br/>
-Sri Rama Prasanna Pavani, Brian McCall<br />
+Sri Rama Prasanna Pavani and Brian McCall<br />
 Ricoh Innovations
 
 [Optical target detection](https://patents.google.com/patent/US9245445B2)<br/>
