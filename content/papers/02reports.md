@@ -9,6 +9,9 @@ Sri Rama Prasanna Pavani<br/>
 University of Colorado Boulder<br/>
 **Outstanding PhD Award**
 
+[Dishwashing Revolution](https://www.linkedin.com/newsletters/dishwashing-revolution-6925921047032586240/)  <br/>
+Dishcare
+
 [STELLAR: Redefining possibilities in low light imaging](https://prashub.com/prasanna/files/STELLAR_Report.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
 AV Costar<br/>

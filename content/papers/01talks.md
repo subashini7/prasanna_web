@@ -10,26 +10,17 @@ metaDescription: "Talks"
 [Dishcare loads, cleans & puts away dishes instantly!](https://dish.care/deck.htm)  <br/>
 Dishcare
 
-[“Oh, we have a dishcare!](https://www.linkedin.com/pulse/oh-we-have-dishcare-dishcare/)  <br/>
-Dishcare
-
-[Doing the dishes isn’t on that to-do list!](https://www.linkedin.com/pulse/things-we-do-dishes-dishcare) <br/>
-Dishcare
-
 [Are you learning well?](https://prashub.com/are-you-learning-well-.pdf) <br/>
 Dishcare
 
-[Heard the story of the dishwasher?](https://www.linkedin.com/pulse/dishwashing-revolution-original-inventors-dishcare) <br/>
-Dishcare
-
 [The 💥 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>
-University of Colorado
+University of Colorado Boulder
 
 [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) <br/>
-University of Colorado
+University of Colorado Boulder
 
 [What would I do if I'm in grad school today?](https://prashub.com/what-would-I-do.pdf) <br/>
-University of Colorado
+University of Colorado Boulder
 
 [A GCT story](https://prashub.com/A_GCT_Story_.pdf) <br/>
 GCT Coimbatore
@@ -38,16 +29,16 @@ GCT Coimbatore
 Exnodes
 
 [Superresolution through optical image translation](https://prashub.com/prasanna/files/Super_resolution_translation.pdf) <br/>
-Arecont Vision
+AV Costar
 
 [Color imaging under low light](https://prashub.com/prasanna/files/low_light_color_video.pdf) <br/>
-Arecont Vision
+AV Costar
 
 [Spatio temporal video image enhancement](https://prashub.com/prasanna/files/STELLAR.pdf) <br/>
-Arecont Vision
+AV Costar
 
 [Dual layer pixel optics for low light cameras](https://prashub.com/prasanna/files/Dual_layer_pixel.pdf) <br/>
-Arecont Vision
+AV Costar
 
 [Detection with a low power holographic detector](https://prashub.com/prasanna/files/HoloCam_COSI_2013.pdf) <br/>
 Computational Optical Sensing and Imaging (COSI)
@@ -59,11 +50,10 @@ Computational Optical Sensing and Imaging (COSI)
 Ricoh Innovations
 
 [HoloCam: Low power wide field incoherent target detector](https://prashub.com/prasanna/files/HoloCam_COSI_2012_FIN.pptx) <br/>
-Computational Optical Sensing and Imaging (COSI), Monterey CA
+Computational Optical Sensing and Imaging (COSI), Monterey
 
 [A COSI career](https://prashub.com/prasanna/files/A_COSI_Career.pdf) <br/>
-Industrial Advisory Board (NSF IGERT)
-Breckenridge CO<br/>
+U.S. National Science Foundation Industrial Advisory Board, Breckenridge<br/>
 **Keynote**
  
 [Computational optics at Ricoh Innovations]() <br/>
@@ -71,10 +61,10 @@ Osaka University, Japan<br/>
 **Invited**
 
 [powerRoad: Harnessing clean energy from roads](https://prashub.com/prasanna/files/powerRoad.pdf) <br/>
-Stanford University Graduate School of Business
+Stanford University
 
 [TESLA's executable business strategy](https://prashub.com/prasanna/files/TELSA_SWOT.pdf) <br/>
-Stanford University Graduate School of Business
+Stanford University
 
 [3D imager design through multiple aperture optimization](https://prashub.com/prasanna/files/MultiAp_COSI_2011_fin.pptx) <br/>
 Computational Optical Sensing and Imaging (COSI), Toronto, Canada
@@ -103,7 +93,7 @@ Optica Digital holography and 3D imaging, St. Petersburg
 Optics graduate student seminar
 
 [Phase amplification in digital holography](https://prashub.com/prasanna/files/phaseamp_at_moisl_fin.ppt) <br/>
-MOISL, CU Boulder
+MOISL, University of Colorado Boulder
 
 [QSIP: Phase imaging made possible in a bright field microscope](https://prashub.com/prasanna/files/qsip_talk.ppt) <br/>
 SPIE Photonics West (BIOS), San Jose
@@ -121,22 +111,22 @@ COSI Optica conference, Vancouver, Canada
 COSI Optica conference, Vancouver, Canada
 
 [Summer research at CDM Optics](https://prashub.com/prasanna/files/CDM_Summer_2006.pdf) <br/>
-MO-ISL Research meeting
+MOISL, University of Colorado Boulder
 
 [Optical 3D fourier transformation and reconstruction with a photorefractive crystal](https://prashub.com/prasanna/files/3D_FT.pdf) <br/>
-Physical optics, CU Boulder
+Physical optics, University of Colorado Boulder
 
 [Reversible wavelets for embedded image compression](https://prashub.com/prasanna/files/reversible_wavelets.pdf) <br/>
-Wavelets and Imaging, CU Boulder
+Wavelets and Imaging, University of Colorado Boulder
 
 [Quantum error correction](https://prashub.com/prasanna/files/Quantum_Error_Correction.pdf) <br/>
-Quantum Optics, CU Boulder
+Quantum Optics, University of Colorado Boulder
 
 [Optical solitons](https://prashub.com/prasanna/files/Optical_Solitons_Presentation.pdf) <br/>
-Nonlinear / Crystal Optics, CU Boulder
+Nonlinear / Crystal Optics, University of Colorado Boulder
 
 [Plenoptic camera](https://prashub.com/prasanna/files/Plenoptic_Prasanna_Pavani_2005.pdf) <br/>
-MO-ISL Research meeting
+MOISL, University of Colorado Boulder
 
 [AI for mail sorting](https://prashub.com/prasanna/files/BE_thesis_presentation.pdf) <br/>
 GCT Coimbatore

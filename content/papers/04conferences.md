@@ -14,7 +14,7 @@ Computational Optical Sensing and Imaging (COSI), Monterey
 
 [Target detection with a low power holographic detector](http://www.opticsinfobase.org/abstract.cfm?URI=COSI-2013-CW1C.3)<br/>
 Sri Rama Prasanna Pavani, Lingfei Meng <br/>
-Computational Optical Sensing and Imaging (COSI), Arlington, Virginia
+Computational Optical Sensing and Imaging (COSI), Arlington
 
 [Polarization sensitive 3D nanoscopy with a double helix microscope](http://www.opticsinfobase.org/abstract.cfm?URI=BIOMED-2010-BMD2)<br/>
 Sri Rama Prasanna Pavani, Jennifer DeLuca and Rafael Piestun <br/>

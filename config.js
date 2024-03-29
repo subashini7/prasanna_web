@@ -42,7 +42,6 @@ const config = {
       '/work/',
       '/leaps/',
       '/papers/',
-      '/talks/',
       // '/tweets',
       '/about/'
     ],
