@@ -37,7 +37,7 @@ University of Colorado Boulder<br/>
 Sri Rama Prasanna Pavani<br/>
 University of Colorado Boulder<br/>
 
-[Waveguide analysis using BPM](https://prashub.com/prasanna/files/waveguide_beamprop.pdf)<br/>
+[Waveguide analysis using beam propagation](https://prashub.com/prasanna/files/waveguide_beamprop.pdf)<br/>
 Sri Rama Prasanna Pavani<br/>
 University of Colorado Boulder<br/>
 
