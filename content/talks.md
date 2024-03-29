@@ -25,15 +25,6 @@ Dishcare
 [The 💥 moment](https://www.youtube.com/watch?v=meYpEV01yHo&t=2863s) <br/>
 University of Colorado
 
-[The goal to aspire for](https://youtu.be/meYpEV01yHo?t=2514) <br/>
-University of Colorado
-
-[Depth vs breadth of knowledge](https://youtu.be/meYpEV01yHo?t=2024) <br/>
-University of Colorado
-
-[Dealing with uncertainty](https://youtu.be/meYpEV01yHo?t=1592) <br/>
-University of Colorado
-
 [Insights from the 'real world'](https://prashub.com/insights-from-the-real-world.pdf) <br/>
 University of Colorado
 
@@ -59,25 +50,25 @@ Arecont Vision
 Arecont Vision
 
 [Detection with a low power holographic detector](https://prashub.com/prasanna/files/HoloCam_COSI_2013.pdf) <br/>
-OSA COSI
+Computational Optical Sensing and Imaging (COSI)
 
 [Liquid drop lenses for miniature sensors](https://prashub.com/prasanna/files/LDL_poster_COSI_2013.pdf) <br/>
-OSA COSI
+Computational Optical Sensing and Imaging (COSI)
 
 [Low power sensors for shopper detection](https://prashub.com/prasanna/files/low-power-sensors-for-shopper-detection.pdf) <br/>
 Ricoh Innovations
 
 [HoloCam: Low power wide field incoherent target detector](https://prashub.com/prasanna/files/HoloCam_COSI_2012_FIN.pptx) <br/>
-OSA COSI, Monterey CA
+Computational Optical Sensing and Imaging (COSI), Monterey CA
 
 [A COSI career](https://prashub.com/prasanna/files/A_COSI_Career.pdf) <br/>
 Industrial Advisory Board (NSF IGERT)
 Breckenridge CO<br/>
-**(KEYNOTE)**
+**Keynote**
  
 [Computational optics at Ricoh Innovations]() <br/>
 Osaka University, Japan<br/>
-**(INVITED)**
+**Invited**
 
 [powerRoad: Harnessing clean energy from roads](https://prashub.com/prasanna/files/powerRoad.pdf) <br/>
 Stanford University Graduate School of Business
@@ -86,27 +77,27 @@ Stanford University Graduate School of Business
 Stanford University Graduate School of Business
 
 [3D imager design through multiple aperture optimization](https://prashub.com/prasanna/files/MultiAp_COSI_2011_fin.pptx) <br/>
-COSI 2011, Toronto, Canada
+Computational Optical Sensing and Imaging (COSI), Toronto, Canada
 
 [3D nanoscopy with a double helix microscope](https://prashub.com/prasanna/files/Prasanna_Pavani_PhD_Defense_Talk.ppt) <br/>
 Colorado, Caltech, MIT, Princeton, Yale, NIST, Intel, Ricoh, KLA, RealD<br/>
-**(INVITED)**
+**Invited**
 
 [3D superlocalization with double helix microscopes](https://prashub.com/prasanna/files/Pavani_Piestun_FiO2009.ppt) <br/>
-OSA Frontiers in Optics (FiO), San Jose
+Optica Frontiers in Optics (FiO), San Jose
 
 [3D fluorescent particle tracking with nanometer scale accuracies using a double helix PSF](https://prashub.com/prasanna/files/Pavani_CLEO_09.ppt) <br/>
-OSA Conference on Lasers and Electro-Optics (CLEO), Baltimore
+Optica Conference on Lasers and Electro-Optics (CLEO), Baltimore
 
 [3D superresolution imaging with a double helix microscope](https://prashub.com/prasanna/files/NTM_2009_newest.ppt) <br/>
-OSA Novel Techniques in Microscopy, Vancouver, Canada
+Optica Novel Techniques in Microscopy, Vancouver, Canada
 
 [3D localization of fluorescent microparticles using a rotating PSF](https://prashub.com/prasanna/files/Pavani_CU_Boulder_FiO_08_FWT3_2.ppt) <br/>
-OSA Frontiers in Optics (FiO), Rochester<br/>
-**(OUTSTANDING PAPER AWARD)**
+Optica Frontiers in Optics (FiO), Rochester<br/>
+**Outstanding Paper Award**
 
 [Passive 3D imaging with quasi rotating PSFs]() <br/>
-OSA Digital holography and 3D imaging, St. Petersburg
+Optica Digital holography and 3D imaging, St. Petersburg
 
 [Computational optical sensing and imaging](https://prashub.com/prasanna/files/grad_sem_talk.ppt) <br/>
 Optics graduate student seminar
@@ -118,16 +109,16 @@ MOISL, CU Boulder
 SPIE Photonics West (BIOS), San Jose
 
 [Quantitative phase imaging with a bright field microscope](https://prashub.com/prasanna/files/FiO_2007_strIllum_talk.ppt) <br/>
-OSA Frontiers in Optics (FiO), San Jose
+Optica Frontiers in Optics (FiO), San Jose
 
 [Efficient rotating PSFs for 3D imaging](https://prashub.com/prasanna/files/FiO_2007_rotPSF_talk.ppt) <br/>
-OSA Frontiers in Optics (FiO), San Jose
+Optica Frontiers in Optics (FiO), San Jose
 
 [Efficient diffractive optical elements for depth from diffracted rotation systems](https://prashub.com/prasanna/files/cosi_07/THE_COSI_rotPsf.ppt) <br/>
-COSI OSA conference, Vancouver, Canada
+COSI Optica conference, Vancouver, Canada
 
 [Structured illumination quantitative phase microscopy](https://prashub.com/prasanna/files/cosi_07/THE_COSI_strIllum.ppt) <br/>
-COSI OSA conference, Vancouver, Canada
+COSI Optica conference, Vancouver, Canada
 
 [Summer research at CDM Optics](https://prashub.com/prasanna/files/CDM_Summer_2006.pdf) <br/>
 MO-ISL Research meeting
