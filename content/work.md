@@ -49,7 +49,8 @@ Advisor: [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) Co
 
 **[Stanford University](http://www.stanford.edu/)** <br/> Omnivision Fellow <br/>
 3D superresolution imaging beyond the diffraction limit.<br/>
-Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) (Nobel Prize) <br/>
+Advisor: [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html)<br/>
+**Nobel Prize**<br/>
 2008<br/>
 
 **[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Research Scholar <br/>
