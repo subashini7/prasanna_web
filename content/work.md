@@ -52,8 +52,7 @@ Double helix PSF to resolve the nanoscale in 3D.<br/>
 [Prof. W. E. Moerner](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/moerner-facts.html) | **Nobel Prize**<br/>
 2008<br/>
 
-
-**[Omnivision CDM Optics](http://www.ovt.com/)** <br/> Research Scholar <br/>
+**[Omnivision](http://www.ovt.com/)** <br/> Research Scholar <br/>
 Computational photography to see more with wavefront coding.<br/>
 2006, 2007 <br/>
 
