@@ -4,7 +4,7 @@ metaTitle: "Prasanna Pavani"
 metaDescription: "Patents"
 ---
 
-[AI stack for 6D inference of multiple objects in clutter.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+[AI stack for 6D inference of cluttered objects.](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
