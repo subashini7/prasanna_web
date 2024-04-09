@@ -10,6 +10,6 @@ metaDescription: "About"
 
 I'm the head of ML at Airbus. Previously, I worked in teams tasked with building new products at Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
-I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied entreprenuership at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation.
+I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied business at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation.
 
 My work won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal.
