@@ -62,7 +62,7 @@ Computer vision to extract information from images.<br/>
 2005<br/>
 
 **[D. E. Shaw](http://www.deshaw.com/)** <br/>Senior Software Engineer<br/>
-Computational finance to correct market inefficiencies & maximize returns.<br/>
+Computational finance to transform market inefficiencies into returns.<br/>
 2003 - 2005<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
