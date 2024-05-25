@@ -6,7 +6,7 @@ metaDescription: "Work"
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Airbus](https://acubed.airbus.com/)** <br/>Head of ML<br/>
-AI autopilot to make aircraft landing safer.<br/>
+AI copilot to make aircraft landing safer.<br/>
 2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
