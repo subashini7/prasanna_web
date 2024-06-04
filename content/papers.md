@@ -8,7 +8,7 @@ metaDescription: "Papers"
     <iframe width="728" height="410" src="https://www.youtube.com/embed/ZFuxZd_eRew?start=5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[AI stack for 6D inference of unstructured objects in real time](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
+[Dish perception, planning & control for robots](https://drive.google.com/file/d/1m5q4v8A_vqWFsjj40mgc3LjIRNmUVSLH/view?usp=drive_link)<br/>
 Sri Rama Prasanna Pavani<br />
 Dishcare
 
