@@ -44,7 +44,7 @@ solved field vs. resolution trade off.<br/>
 2009 - 2010<br/>
 
 **[University of Colorado Boulder](http://www.colorado.edu/)** <br/> Omnivision Fellow<br/>
-developed the double helix point spread function.<br/>
+formulated the double helix point spread function.<br/>
 [Prof. Rafael Piestun](https://www.colorado.edu/ecee/rafael-piestun) and [Prof. Carol Cogswell](http://moislcu.wixsite.com/moisl/people) <br/>
 2005 - 2009<br/>
 
@@ -68,6 +68,6 @@ transforms market inefficiencies into returns.<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
 Electronics & Communication Engineering<br/>
-automated mail sorting with multilayer perceptrons.<br/>
+accelerated sorting with multilayer perceptrons.<br/>
 [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
 1999 - 2003 <br/>
