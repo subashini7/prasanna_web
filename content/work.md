@@ -7,7 +7,7 @@ metaDescription: "Work"
 
 **[Airbus](https://acubed.airbus.com/)** <br/>
 Head of ML<br/>
-makes the safest airplanes.<br/>
+builds the safest airplanes.<br/>
 2024 - Present
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
@@ -15,10 +15,10 @@ loads, cleans & puts away dishes.<br/>
 2021 - 2024
 
 **[Osmo](https://www.playosmo.com/en/)** <br/>Head of Engineering<br/>
-makes puzzles & math fun.<br/>
+makes puzzles & math engaging.<br/>
 2020 - 2021
 
-**[Orbital Insight](https://orbitalinsight.com/)** <br/>Head of Data<br/>
+**[Orbital Insight](https://en.wikipedia.org/wiki/Orbital_Insight)** <br/>Head of Data<br/>
 monitors our planet with geospatial analytics.<br/>
 2018 - 2020
 
