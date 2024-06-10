@@ -128,5 +128,5 @@ Nonlinear / Crystal Optics, University of Colorado Boulder
 [Plenoptic camera](https://prashub.com/prasanna/files/Plenoptic_Prasanna_Pavani_2005.pdf) <br/>
 MOISL, University of Colorado Boulder
 
-[AI for mail sorting](https://prashub.com/prasanna/files/BE_thesis_presentation.pdf) <br/>
+[Accelerated sorting with multilayer perceptrons](https://prashub.com/prasanna/files/BE_thesis_presentation.pdf) <br/>
 GCT Coimbatore

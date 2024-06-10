@@ -52,7 +52,7 @@ GCT Coimbatore<br/>
 Sri Rama Prasanna Pavani and S. Balaji<br/>
 GCT Coimbatore
 
-[AI for mail sorting](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
+[Accelerated sorting with multilayer perceptrons](https://prashub.com/prasanna/files/BE_thesis.pdf)<br/>
 Sri Rama Prasanna Pavani, S. Balaji and Thejavor Haralu Khezhie<br/>
 GCT Coimbatore<br/>
 **Gold Medal**
