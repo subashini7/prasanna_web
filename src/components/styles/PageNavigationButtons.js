@@ -99,7 +99,7 @@ export const StyledNextPrevious = styled('div')`
     font-weight: 500;
   }
 
-  @media (max-width: 767px) {
+  @media (max-width: 867px) {
     display: block;
     padding: 0 15px;
 
