@@ -10,6 +10,8 @@ metaDescription: "About"
 
 I'm thrilled when I see a new solution to an old problem. If the problem is also big, I couldn't be more excited. I've worked in teams tasked with building products at Airbus, Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
-I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation.
+I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving on a panel for the U.S. National Science Foundation.
 
 My work won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal.
+
+> [31 patents | 45 papers | 2500 citations](https://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)
