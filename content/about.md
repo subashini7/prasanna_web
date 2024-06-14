@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
 </div>
 
-I'm thrilled when a new technology solves an old problem. If the problem is also big, it gets even more interesting for me. I've worked in teams tasked with building new products at Airbus, Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
+I'm thrilled when I see a new technology solving an old problem. If the problem is also big, I couldn't be more excited. I've worked in teams tasked with building products at Airbus, Dishcare, Osmo, Orbital, Exnodes, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
 I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving as a panel member of the U.S. National Science Foundation.
 
