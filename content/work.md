@@ -53,6 +53,5 @@ decoded insights from images.<br/>
 transforms market inefficiencies into returns.<br/>
 
 **[GCT Coimbatore](https://www.linkedin.com/school/gctcoimbatore/)** <br/>
-Electronics & Communication Engineering<br/>
 accelerated sorting with multilayer perceptrons.<br/>
 [Prof. C. Vasanthanayaki](https://www.gcebodi.ac.in) <br/>
