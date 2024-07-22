@@ -6,7 +6,7 @@ metaDescription: "Work"
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Airbus](https://acubed.airbus.com/)** <br/>
-Head of ML<br/>
+Head | Machine Learning<br/>
 Builds the safest airplanes.<br/>
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
@@ -16,7 +16,7 @@ Loads, cleans & puts away dishes.<br/>
 Makes puzzles & math engaging for kids.<br/>
 
 **[Orbital Insight](https://en.wikipedia.org/wiki/Orbital_Insight)** <br/>Head of Data<br/>
-Monitors our planet with geospatial analytics.<br/>
+Monitors the world with geospatial analytics.<br/>
 
 **[Exnodes](https://exnodes.com)** <br/>Founder<br/>
 Inspects chips to accelerate performance.<br/>
