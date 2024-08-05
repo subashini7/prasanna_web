@@ -12,7 +12,7 @@ Builds the safest airplanes.<br/>
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
 Loads, cleans & puts away dishes.<br/>
 
-**[Osmo](https://www.playosmo.com/en/)** <br/>Head of Engineering<br/>
+**[Osmo](https://www.amazon.com/stores/Osmo/Osmo/page/AD044F53-1905-455C-9154-2A964D5ED5B2)** <br/>Head of Engineering<br/>
 Makes puzzles & math engaging for kids.<br/>
 
 **[Orbital Insight](https://en.wikipedia.org/wiki/Orbital_Insight)** <br/>Head of Data<br/>
