@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://prashub.com/prasanna/public/hello/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/profile/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/chat/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/papers/patents/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/papers/reports/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/papers/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/talks/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/papers/conferences/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/10DH-PSF/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/09Track/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/08Locate/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/07DH-PALM/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/06P-DH-PALM/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/11QSIP/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/05OFM/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/02LDL/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/01HoloCam/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/033DMA/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
-<url> <loc>https://prashub.com/prasanna/public/leaps/04HEW/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
 <url> <loc>https://prashub.com/prasanna/public/work/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/papers/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/about/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/papers/01talks/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/papers/02reports/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/papers/03journals/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/papers/04conferences/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/01Dishcare/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/02Exnodes/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/03Stellar/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/04DH-PALM/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/05Track/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/06DH-PSF/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/07HoloCam/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/083DMA/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/09QSIP/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
+<url> <loc>https://prashub.com/prasanna/public/leaps/10OFM/</loc><lastmod>2023-08-15</lastmod> <changefreq>always</changefreq> <priority>1.0</priority> </url>
 </urlset>
