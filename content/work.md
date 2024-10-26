@@ -5,6 +5,10 @@ metaDescription: "Work"
 ---
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
+**[Wayve](https://wayve.ai/)** <br/>
+Embodied AI<br/>
+Pioneers an end-to-end approach to autonomy.<br/>
+
 **[Airbus](https://acubed.airbus.com/)** <br/>
 Head | Machine Learning<br/>
 Builds the safest airplanes.<br/>
