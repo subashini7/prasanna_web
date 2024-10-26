@@ -7,7 +7,7 @@ metaDescription: "Work"
 
 **[Wayve](https://wayve.ai/)** <br/>
 Embodied AI<br/>
-Pioneers an end-to-end approach to autonomy.<br/>
+Pioneers end to end autonomy.<br/>
 
 **[Airbus](https://acubed.airbus.com/)** <br/>
 Head | Machine Learning<br/>
