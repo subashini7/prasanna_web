@@ -7,7 +7,7 @@ metaDescription: "Work"
 
 **[Meta](https://about.meta.com/)** <br/>
 Ads CoreML<br/>
-Building the future of human connection.<br/>
+Builds the future of human connection.<br/>
 
 **[Wayve](https://wayve.ai/)** <br/>
 Head | Driving Intelligence<br/>
