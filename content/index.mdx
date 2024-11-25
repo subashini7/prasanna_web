@@ -5,7 +5,7 @@ metaDescription: "Hello"
 ---
 
 <div class="left-page">
-<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
+<img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="320"/>
 </div>
 
 As a hands on technology leader, I lead the best teams to build next generation products.
