@@ -8,7 +8,7 @@ metaDescription: "About"
 <img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
 </div>
 
-I'm an Ads CoreML leader at Meta. Previously, I founded Dishcare & Exnodes and led teams tasked with building next gen products at Wayve, Airbus, Osmo, Orbital, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
+I'm an Ads CoreML leader at Meta. Previously, I founded Dishcare & Exnodes and led teams building next gen products at Wayve, Airbus, Osmo, Orbital, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
 I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving on a panel for the U.S. National Science Foundation.
 
