@@ -8,10 +8,10 @@ metaDescription: "About"
 <img class="prasannaAbout" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="270"/>
 </div>
 
-I'm an Ads CoreML leader at Meta. Previously, I founded Dishcare & Exnodes and led technology teams at Wayve, Airbus, Osmo, Orbital, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
+I'm a Ranking AI leader at Meta. Previously, I founded Dishcare & Exnodes and led technology teams at Wayve, Airbus, Osmo, Orbital, AV Costar, Ricoh, KLA, Omnivision & D. E. Shaw.
 
 I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulder and a BE from GCT Coimbatore. I then studied Business at Stanford University & was an editor of Optica before serving on a panel for the U.S. National Science Foundation.
 
 My work won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal.
 
-> [31 patents | 45 papers | 2600 citations](https://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)
+> [31 patents | 45 papers | 2650 citations](https://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)

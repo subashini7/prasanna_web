@@ -6,7 +6,7 @@ metaDescription: "Work"
 <img style="width: 800px; margin: 0px 0px 20px 0px;" alt="Prasanna" src="https://prashub.com/prasanna/images/Prasanna_Ricoh_Innovations.jpg"/>
 
 **[Meta](https://about.meta.com/)** <br/>
-Ads CoreML<br/>
+Ranking AI<br/>
 Builds the future of human connection.<br/>
 
 **[Wayve](https://wayve.ai/)** <br/>
