@@ -7,7 +7,7 @@ metaDescription: "Work"
 
 **[Meta](https://about.meta.com/)** <br/>
 Ranking AI<br/>
-Builds the future of human connection.<br/>
+Builds next-gen models for ads.<br/>
 
 **[Wayve](https://wayve.ai/)** <br/>
 Head | Driving Intelligence<br/>
