@@ -18,10 +18,10 @@ Head | Deep Learning<br/>
 Builds the safest airplanes.<br/>
 
 **[Dishcare](https://dish.care)** <br/>Founder<br/>
-Loads, cleans & puts away dishes.<br/>
+Loads, cleans and puts away dishes.<br/>
 
-**[Osmo](https://www.playosmo.com/)** <br/>Head of Engineering<br/>
-Makes puzzles & math engaging for kids.<br/>
+**[Osmo](https://www.amazon.com/stores/Osmo/page/AD044F53-1905-455C-9154-2A964D5ED5B2)** <br/>Head of Engineering<br/>
+Makes logic and art fun with AI.<br/>
 
 **[Orbital Insight](https://en.wikipedia.org/wiki/Orbital_Insight)** <br/>Head of Data<br/>
 Monitors the world with geospatial analytics.<br/>
