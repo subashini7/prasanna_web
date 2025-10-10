@@ -21,7 +21,7 @@ Builds the safest airplanes.<br/>
 Loads, cleans and puts away dishes.<br/>
 
 **[Osmo](https://www.amazon.com/stores/Osmo/page/AD044F53-1905-455C-9154-2A964D5ED5B2)** <br/>Head of Engineering<br/>
-Makes logic and art fun with AI.<br/>
+Makes math, art and puzzles fun with AI.<br/>
 
 **[Orbital Insight](https://en.wikipedia.org/wiki/Orbital_Insight)** <br/>Head of Data<br/>
 Monitors the world with geospatial analytics.<br/>
