@@ -8,7 +8,7 @@ metaDescription: "Hello"
 <img class="prasanna" src="https://prashub.com/prasanna/images/DrPrasannaPavani.jpg" alt="Prasanna" width="320"/>
 </div>
 
-As a hands on technology leader, I lead the best teams to build next gen models.
+As a hands on technology leader, I lead the best teams to build next generation AI models.
 
 - [“Oh, we have a dishcare!](https://www.linkedin.com/newsletters/dishwashing-revolution-6925921047032586240/)
 - [Optimism, courage & tenacity.](https://youtu.be/znHYjwFCLxc?t=13)
