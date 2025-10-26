@@ -10,6 +10,7 @@ metaDescription: "Hello"
 
 As a hands on technology leader, I lead the best teams to build next generation AI models.
 
-- [“Oh, we have a dishcare!](https://www.linkedin.com/newsletters/dishwashing-revolution-6925921047032586240/)
 - [Optimism, courage & tenacity.](https://youtu.be/znHYjwFCLxc?t=13)
 - [Are you learning well?](https://prashub.com/are-you-learning-well-.pdf)
+- [“Oh, we have a dishcare!](https://www.linkedin.com/newsletters/dishwashing-revolution-6925921047032586240/)
+
