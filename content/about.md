@@ -14,4 +14,4 @@ I was a Postdoc at Caltech & earned a PhD from the University of Colorado Boulde
 
 My work won the University of Colorado outstanding PhD award, U.S. EB-1 extraordinary ability classification, Optica outstanding paper award, SPIE science & engineering award, CPIA awards & the GCT Coimbatore gold medal.
 
-> [31 patents | 45 papers | 2700 citations](https://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)
+> [31 patents | 45 papers | 2750 citations](https://scholar.google.com/citations?user=MXfB7J0AAAAJ&hl=en)
