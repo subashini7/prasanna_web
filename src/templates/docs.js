@@ -75,6 +75,7 @@ export default class MDXRuntimeTest extends Component {
     canonicalUrl = canonicalUrl + config.gatsby.pathPrefix;
       // config.gatsby.pathPrefix !== '/' ? canonicalUrl + config.gatsby.pathPrefix : canonicalUrl;
     canonicalUrl = canonicalUrl + mdx.fields.slug;
+    const isWorkPage = mdx.fields.slug === '/work/' || mdx.fields.slug === '/work';
 
     return (
       <Layout {...this.props}>
@@ -90,20 +91,22 @@ export default class MDXRuntimeTest extends Component {
           ) : null}
           <link rel="canonical" href={canonicalUrl} />
         </Helmet>
-        <div className={'titleWrapper'}>
-          <StyledHeading>{mdx.fields.title}</StyledHeading>
-          {/* <Edit className={'mobileView'}>
-            {docsLocation && (
-              <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
-                <img src={gitHub} alt={'Github logo'} /> Edit on GitHub
-              </Link>
-            )}
-          </Edit> */}
-        </div>
+        {!isWorkPage ? (
+          <div className={'titleWrapper'}>
+            <StyledHeading>{mdx.fields.title}</StyledHeading>
+            {/* <Edit className={'mobileView'}>
+              {docsLocation && (
+                <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
+                  <img src={gitHub} alt={'Github logo'} /> Edit on GitHub
+                </Link>
+              )}
+            </Edit> */}
+          </div>
+        ) : null}
         <StyledMainWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
         </StyledMainWrapper>
-        <div className={'addPaddTopBottom'}>
+        <div className={isWorkPage ? 'addPaddTopBottom workBottomNavSpace' : 'addPaddTopBottom'}>
           <NextPrevious mdx={mdx} nav={nav} />
         </div>
       </Layout>

@@ -592,6 +592,10 @@ export const baseStyles = css`
     padding: 5px 0px 0px 0px;
   }
 
+  .workBottomNavSpace {
+    padding-top: 32px;
+  }
+
   .preRightWrapper {
     display: block;
     margin: 0px;
