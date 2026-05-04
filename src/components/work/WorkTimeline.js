@@ -2,26 +2,31 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 const Wrapper = styled('section')`
+  --timeline-gap: 28px;
+  /* Dot center Y: padding-top (2) + dot top (6) + half height (5) */
+  --timeline-dot-center: 13px;
+
   position: relative;
   display: grid;
-  gap: 28px;
+  gap: var(--timeline-gap);
   padding-left: 18px;
-
-  &:before {
-    content: '';
-    position: absolute;
-    left: 6px;
-    top: 4px;
-    bottom: 4px;
-    width: 1px;
-    background: rgba(230, 236, 241, 1);
-  }
 `;
 
 const Item = styled('article')`
   position: relative;
   padding-left: 18px;
   padding-top: 2px;
+
+  /* Segment from this dot’s center to the next dot’s center (no stub above first or below last). */
+  &:not(:last-child)::before {
+    content: '';
+    position: absolute;
+    left: -12px;
+    top: var(--timeline-dot-center);
+    bottom: calc(-1 * var(--timeline-gap) - var(--timeline-dot-center));
+    width: 1px;
+    background: rgba(230, 236, 241, 1);
+  }
 `;
 
 const Dot = styled('span')`
@@ -31,8 +36,17 @@ const Dot = styled('span')`
   width: 10px;
   height: 10px;
   border-radius: 999px;
+  box-sizing: border-box;
   background: ${({ theme }) => theme.colors.background};
   border: 2px solid #22d398;
+
+  ${({ $current }) =>
+    $current
+      ? `
+    background: #22d398;
+    border-color: #22d398;
+  `
+      : ''}
 `;
 
 const HeaderRow = styled('header')`
@@ -120,9 +134,11 @@ export default function WorkTimeline({ items = [] }) {
         const location = item.location ?? '';
         const professors = item.professors ?? [];
 
+        const isCurrent = item.current !== undefined ? item.current : idx === 0;
+
         return (
-          <Item key={`${company}-${title}-${idx}`}>
-            <Dot aria-hidden="true" />
+          <Item key={`${company}-${title}-${idx}`} aria-current={isCurrent ? 'true' : undefined}>
+            <Dot aria-hidden="true" $current={isCurrent} />
             <HeaderRow>
               <Role>
                 {companyUrl ? (
