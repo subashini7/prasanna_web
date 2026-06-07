@@ -267,14 +267,27 @@ export const baseStyles = css`
   }
   .headerTitle {
     height: auto;
-    font-size: 30px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: 'Roboto';
+    font-size: 26px;
     line-height: 1.5;
-    font-weight: 100;
+    font-weight: 400;
     padding-left: 10px;
-    color: #fff !important;
+    color: #000 !important;
+  }
+  .headerTitle::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #22d398;
+    box-shadow: 0 0 0 4px rgba(34, 211, 152, 0.14);
+    flex: none;
   }
   .headerTitle a {
-    color: #fff;
+    color: #000;
   }
 
   .headerTitle a:hover {
@@ -300,21 +313,21 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #000000;
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-backdrop-filter: saturate(180%) blur(14px);
+    backdrop-filter: saturate(180%) blur(14px);
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
     border: 0;
+    border-bottom: 1px solid #e7ecf2;
     display: flex;
     align-items: center;
-    box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
-    -webkit-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
-    -moz-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.8);
-    -o-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
-    z-index: 1;
-    padding: 15px;
-    position: relative;
-    height: 80px;
+    z-index: 20;
+    padding: 14px;
+    position: sticky;
+    top: 0;
+    height: 72px;
   }
   .navBarHeader {
     min-width: 335px;
