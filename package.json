@@ -52,6 +52,9 @@
     "styled-components": "^4.4.1",
     "styled-icons": "^9.0.1"
   },
+  "overrides": {
+    "sharp": "0.30.7"
+  },
   "license": "MIT",
   "main": "n/a",
   "scripts": {
