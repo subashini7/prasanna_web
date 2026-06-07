@@ -26,6 +26,13 @@ const Item = styled('article')`
     bottom: calc(-1 * var(--timeline-gap) - var(--timeline-dot-center));
     width: 1px;
     background: rgba(230, 236, 241, 1);
+    transition: background 0.2s ease, width 0.2s ease, left 0.2s ease;
+  }
+
+  /* Highlight the connecting line (this dot → next dot) while hovering this job.
+     Keep the same left/width as the base line so it overlaps exactly. */
+  &:hover:not(:last-child)::before {
+    background: #22d398;
   }
 `;
 
